@@ -10,7 +10,7 @@ The tools available to you may depend on what plugins an administrator has confi
 
 ## <a name="import-export"></a>Import/Export
 
-The Import/Export tools allow you to move content between OMP installations. You can import and export users, publications and article metadata.
+The Import/Export tools allow you to move content between OJS installations. You can import and export users, publications and article metadata.
 
 ## <a name="statistics"></a>Statistics
 
