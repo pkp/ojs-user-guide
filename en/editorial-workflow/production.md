@@ -45,30 +45,4 @@ In this case, you'd create two galleys, PDF and HTML, and upload the files separ
 
 ## <a name="publish"></a>Publishing the Submission
 
-Once you are ready to publish the submission, you must schedule it to an issue.
-
-### Catalog Entry
-
-An entry can be created for this submission in the catalog at any time during the editorial workflow. This is often used to list forthcoming publications before they've made it through the final publication process.
-
-To add an entry, go to the **Catalog Entry > Catalog** panel and check the box labeled *Add this book to the public catalog*. You'll find the **Catalog Entry** link at the top, near the submission title and author.
-
-*Nothing will appear in your catalog until you've created a catalog entry, even if you've approved publication formats.*
-
-### Publication Formats
-
-Each publication format will have a two-step approval process.
-
-The first checkbox, which says "Awaiting Approval", is for editors to sign off when the [publication format's metadata](production.md#publication-format-metadata) is ready for publication.
-
-The second checkbox, which says "Not Available", is for approving the publication format for display to readers. Once this checkbox is toggled, any approved files will be shown to the user.
-
-*If a publication format has no approved files, it will not appear in the catalog.*
-
-### Publication Format Files
-
-Files are uploaded to each publication format and need to be approved separately.
-
-The first checkbox, which says "Awaiting Approval", is for editors to sign off on the file's readiness for publication.
-
-The second checkbox, which says "Set Terms", controls the terms under which the file is displayed to readers. You'll need to set this to something other than "No Access" before the file will be shown in the catalog entry.
+Once you are ready to publish the submission, you must schedule it to an issue. 
