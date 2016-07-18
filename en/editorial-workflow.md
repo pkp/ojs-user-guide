@@ -55,5 +55,5 @@ All files submitted by the author will be available here.
 
 ## <a name="pre-review-discussions"></a>Pre-Review Discussions
 
-If you wish to contact the author, you can use the Add Discussion link to initiate a discussion. 
+If you wish to contact the author or other members of the editorial team, you can use the Add Discussion link to initiate a discussion. 
 
