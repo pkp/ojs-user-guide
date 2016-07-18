@@ -15,5 +15,5 @@
 * [Settings](settings.md)
 * [Tools](tools.md)
 * [Administration](administration.md)
-* Users and Roles
+* [Users and Roles](users-and-roles.md)
 
