@@ -43,19 +43,9 @@ A typical journal might have one galley format named PDF with a single `.pdf` fi
 
 In this case, you'd create two galleys, PDF and HTML, and upload the files separately under each.
 
-### <a name="publication-format-metadata"></a>Managing Your Publication Format Metadata
-
-Each publication format has it's own set of metadata, including DOIs, to comply with indexing services like Google Scholar. You're encouraged to complete the metadata relevant to your needs.
-
-Once you've created a publication format, you'll find a new tab in the [Catalog Entry](../editorial-workflow.md#catalog-entry) panel. To access this panel, look above the stages in the editorial workflow and find the submission title and author.
-
-Click the **Catalog Entry** link in this area and you'll find a tab for each of your publication formats.
-
 ## <a name="publish"></a>Publishing the Submission
 
-OMP offers a flexible publishing workflow which allows you to publish just the parts you want, when you want. That means there are separate levels of control for the catalog entry, each publication format, and even each file within a publication format.
-
-To help guide you through the last steps of the publishing process, each of these levels is described below.
+Once you are ready to publish the submission, you must schedule it to an issue.
 
 ### Catalog Entry
 
