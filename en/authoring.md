@@ -9,7 +9,7 @@
 
 When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty.
 
-### <a name="author-actions"></a>Author Actions
+## <a name="author-actions"></a>Author Actions
 To the right of your screen, choose New Submission to begin a new submission.
 
 
