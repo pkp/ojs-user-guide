@@ -42,7 +42,12 @@ The Components tab provides a list of common components by default. You are enco
 Delete those that aren't appropriate for your journal. This will reduce the options faced by authors struggling through their first submission.
 
 ### <a name="workflow-submission"></a>Submission
-Text.
+Set your submission guidelines here. You can also modify the submission checklist, which all authors must agree to for their submission. 
+
+Submission Metadata allows you to select which types of metadata you wish to track in your journal, and which metadata fields you wish to present to authors upon their submission.
+
+### <a name="workflow-review"></a>Review
+From here, you can set all of your review policies and procedures, including deadlines, notifications, guidelines, etc.
 
 ### <a name="workflow-publisher-library"></a>Publisher Library
 
