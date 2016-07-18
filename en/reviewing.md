@@ -41,7 +41,7 @@ If you prepared your review in a separate file, you can instead upload that file
 
 You've completed your review. Thanks for your help ensuring the quality of scholarly publishing.
 
-An editor will take a look at it and may send you an acknowledgement by email once they've done so.
+An editor will take a look at it and may send you an acknowledgment by email once they've done so.
 
 A record of your reviews is kept in the system, so editors can see -- and appreciate -- how many reviews you've done for the journal at all times.
 
