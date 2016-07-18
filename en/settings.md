@@ -17,7 +17,7 @@ There's a lot to be uncovered here. While we're improving this documentation, we
 
 ## <a name="context"></a>Journal
 
-Configure basic details about the journal, including contact information, policies, author guidelines, sponsor relationships and more. You can also add Series and Categories to your catalog from this settings page.
+Configure basic details about the journal, including contact information, policies, author guidelines, sponsor relationships and more.
 
 ## <a name="website"></a>Website
 
