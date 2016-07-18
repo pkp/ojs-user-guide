@@ -24,9 +24,7 @@ Provide initial information and confirm that you've followed the requirements be
 
 Upload your submission files. Each file needs to be assigned a particular component, which helps organize the files for large projects.
 
-You'll upload each of your files one at a time, naming each one before moving onto the next file. If you have chapter-specific files, rather than one large manuscript, you can hold onto those files for now. You'll have an opportunity later to upload them and associate them with each chapter.
-
- You can go back at any time during the submission to add more files, and you'll have a separate opportunity to upload chapter-specific files if you have separate
+You'll upload each of your files one at a time, naming each one before moving onto the next file.
 
 *When asked to name the file, it's recommended that you do not include your name. Otherwise, editors will have to strip this out before sharing it with reviewers.*
 
