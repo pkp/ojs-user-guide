@@ -1,12 +1,12 @@
 # Administration
 
 1. Introduction
-2. [Hosted Presses](administration.md#hosted-journals)
+2. [Hosted Journals](administration.md#hosted-journals)
 3. [Administrative Functions](administration.md#admin-functions)
 
 Site administration is limited to users with full system permissions. Administration tasks are infrequent and may be carried out by a journal manager, senior editor, or a dedicated site administrator.
 
-## <a name="hosted-journals"></a>Hosted Presses
+## <a name="hosted-journals"></a>Hosted Journals
 
 Add, edit or remove journals hosted on this installation. There will only be one journal in most cases, but you can host multiple journals with a single installation.
 
