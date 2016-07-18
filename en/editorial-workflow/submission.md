@@ -9,13 +9,10 @@ The editor can assign a sub-editor to assist by using the **Participants** panel
 
 ## <a name="editorial-actions"></a>Editorial Actions
 
-### Send to Internal Review
+### Send to Review
 
-Send the submission on to the [Internal Review stage](review.md), where it will be reviewed by other editors.
+Send the submission on to the [Review stage](review.md), where it will be reviewed by peer reviewers.
 
-### Send to External Review
-
-Send the submission on to the [External Review stage](review.md) if you'd like to skip an Internal Review and move straight to peer review.
 
 ### Send to Copyediting
 
