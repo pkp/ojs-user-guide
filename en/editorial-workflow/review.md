@@ -5,19 +5,15 @@
 3. [Orientation](review.md#orientation)
 4. [Editorial Actions](review.md#editorial-actions)
 
-During the Internal and External Review stages, the editor can facilitate the review process by selecting and assigning reviewers to the submission.
+During the Review stage, the editor assigns reviewers to the submission.
 
 Once the reviewers have submitted their reviews and recommendations, the editor is responsible for making an editorial decision, which will determine whether the submission is ready for the Copyediting stage or requires further revisions.
 
 By default, the review stages begin in *Round 1* of reviews. Further rounds may be initiated if the editor requests major changes that must go through another round of review.
 
-## <a name="internal-or-external"></a>Internal or External Review?
-
-Typically, the Internal Review stage is used for internal editors to vet a submission before recruiting external reviewers. You can skip this stage by selecting **Send to External Review** at any time.
-
 ## <a name="orientation"></a>Orientation
 
-Each review round consists of three panels for managing review files and reviewers, along with the discussions and participants panels which appear on every stage.
+Each review round consists of sections for managing review files and reviewers, along with the discussions and participants section which appear on every stage.
 
 ### <a name="review-files"></a>Review Files
 All the files selected by the editor for review. These files will be visible to reviewers unless restricted when assigning the reviewer.
@@ -45,11 +41,8 @@ The editor can request revisions from the author without opening a new review ro
 ### <a name="new-review"></a>Resubmit for Review
 The editor can request revisions from the author which will need to go through another round of review. Once revisions are received, a new review round will need to be created at the top of the review stage.
 
-### <a name="external-review"></a>Send to External Review
-The editor can intiate the External Review stage once it has passed internal review. *This is only available on the Internal Review stage.*
-
 ### <a name="copyediting"></a>Send to Copyediting
-The editor can initiate the [Copyediting stage](copyediting.md) once it has passed any required review stages.
+The editor can initiate the [Copyediting stage](copyediting.md) once it has passed the required review stage.
 
 ### <a name="decline"></a>Decline Submission
 The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.
