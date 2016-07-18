@@ -72,8 +72,8 @@ In each stage you'll have access to a discussion area. If an editor or editorial
 
 *You won't be able to initiate discussions on most stages, but they'll appear if one has been initiated by the editors.*
 
-### <a name="track-submission-review"></a>Review Stages
+### <a name="track-submission-review"></a>Review Stage
 
-During the review stages, you'll see a status update at the top, which will keep you informed as reviewers are recruited, assigned and submit their reviews.
+During the review stage, you'll see a status update at the top, which will keep you informed as reviewers are recruited, assigned and submit their reviews.
 
-During the review stages, you may be asked to submit revisions which address any concerns raised. If needed, you'll find a Revisions panel where you can upload new files for the editor.
+During the review stage, you may be asked to submit revisions which address any concerns raised. If needed, you'll find a Revisions panel where you can upload new files for the editor.
