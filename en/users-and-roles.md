@@ -9,12 +9,12 @@
 
 Use this section to manager your journal's users and their roles.
 
-## Users
+## <a name="users-users"></a> Users
 Add users, define custom user roles and configure site access options. You can lookup any user from this page.
 
 Under the Site Access tab, you can turn off public user registration, or event limit access to the reader-facing site to registered users.
 
-### <a name="users-roles"></a> Roles
+## <a name="users-roles"></a> Roles
 
 OJS offers a flexible user role system that allows you to tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
 
@@ -28,6 +28,7 @@ You can edit or remove existing roles, or add new roles. All roles are given one
 - *Journal Managers* have access to the entire [Editorial Workflow](editorial-workflow.md), as well as most of the settings.
 - *Series Editors* and *Journal Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow.md) assigned to their role (see below).
 
+## <a name="users-site-access"></a> Site Access
 In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow.md). This is useful for professional assistants such as copyeditors, marketers or layout managers, who may assist during one or two stages of the workflow.
 
 
