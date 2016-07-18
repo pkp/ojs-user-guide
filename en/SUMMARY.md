@@ -13,7 +13,7 @@
 * [Issue Management](issue-management.md)
 * [Tasks](tasks.md)
 * [Settings](settings.md)
+* [Users and Roles](users-and-roles.md)
 * [Tools](tools.md)
 * [Administration](administration.md)
-* [Users and Roles](users-and-roles.md)
 
