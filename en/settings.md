@@ -7,7 +7,7 @@
 5. [Distribution](settings.md#distribution)
 6. [Users & Roles](settings.md#users)
 
-Configure your website to suit your needs from the collection of Settings pages provided by OMP.
+Configure your site to suit your needs.
 
 You can access the Settings pages by clicking on the **Settings** link in the main navigation menu on the left, then selecting the specific settings page you'd like.
 
@@ -17,13 +17,13 @@ There's a lot to be uncovered here. While we're improving this documentation, we
 
 ## <a name="context"></a>Journal
 
-Configure basic details about the journal, including contact information, policies, author guidelines, sponsor relationships and more.
+Configure basic details about the journal, including the masthead, contact information, and sections.
 
 ## <a name="website"></a>Website
 
 Configure the appearance of your reader-facing website, including logo upload, homepage configuration, sidebar management and more.
 
-You can also set up your site's languages, install and enable plugins, send out announcements and draft key information blocks for visitors.
+You can also set up your site's languages, archiving settings, install and enable plugins, send out announcements and draft key information blocks for visitors.
 
 ## <a name="workflow"></a>Workflow
 
@@ -41,9 +41,12 @@ The Components tab provides a list of common components by default. You are enco
 
 Delete those that aren't appropriate for your journal. This will reduce the options faced by authors struggling through their first submission.
 
-### <a name="workflow-journal-library"></a>Journal Library
+### <a name="workflow-submission"></a>Submission
+Text.
 
-The Journal Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
+### <a name="workflow-publisher-library"></a>Publisher Library
+
+The Publisher Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
 
 Items that are stored in the Journal Library can be quickly retrieved and added into a [Submission Library](editorial-workflow.md#submission-library) to be shared with authors or assistants.
 
