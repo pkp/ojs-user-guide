@@ -1,5 +1,4 @@
 # Users and Roles
-## <a name="users"></a>Users & Roles
 
 Add users, define custom user roles and configure site access options. You can lookup any user from this page.
 
@@ -7,7 +6,7 @@ Under the Site Access tab, you can turn off public user registration, or event l
 
 ### <a name="users-roles"></a> Roles
 
-OMP offers a flexible user role system that allows you to tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
+OJS offers a flexible user role system that allows you to tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
 
 There are a lot of roles and many journals won't need all the roles. Feel free to delete roles you won't use in your workflow.
 
