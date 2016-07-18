@@ -33,7 +33,7 @@ Editors can add production assistants or layout editors from this panel. [Learn 
 
 ## <a name="understanding-galleys"></a>Understanding Galleys
 
-Each galley represents one type of file (PDF, ePub), and may have multiple files attached to it, such as separate chapter files or supplementary data.
+Each galley represents one type of file (HTML, PDF), and may have multiple files attached to it, such as separate image files.
 
 ### Organizing Your Galleys
 
