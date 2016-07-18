@@ -32,7 +32,7 @@ You can edit or remove existing roles, or add new roles. All roles are given one
 - *Journal Managers* have access to the entire [Editorial Workflow](editorial-workflow.md), as well as most of the settings.
 - *Series Editors* and *Journal Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow.md) assigned to their role (see below).
 
-In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow.md). This is useful for professional assistants such as copyeditors, marketers or layout managers, who may assist during one or two stages of the workflow.
+In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow.md). This is useful for professional assistants such as copyeditors or layout managers, who may assist during one or two stages of the workflow.
 
 ## <a name="users-site-access-options"></a> Site Access Options
 
