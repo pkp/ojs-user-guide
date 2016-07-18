@@ -1,38 +1,56 @@
 # Authoring
 
-1. Introduction
-2. [Make a Submission](authoring.md#make-submission)
-3. [Track your Submission](authoring.md#track-submission)
+1. Orientation
+2. Author Actions
+3. [Make a Submission](authoring.md#make-submission)
+4. [Track your Submission](authoring.md#track-submission)
 
-This chapter will help authors make a new submission and participate in the editorial workflow as it is reviewed, edited and eventually published.
+## <a name="orientation"></a>Orientation
 
-Before you can begin a new submission, you'll need to register for a user account with the site and login.
+When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty.
+
+### <a name="author-actions"></a>Author Actions
+To the right of your screen, choose New Submission to begin a new submission.
+
 
 ## <a name="make-submission"></a>Make a Submission
-
-To start a new submission, click the **Submission** link from the left-hand navigation menu and then click the **New Submission** button on the right.
 
 *If you're logged in, but you don't see the editorial interface, you may be viewing the reader-facing website. If that's the case, find your user profile link and click on the Submissions link which appears below it. Each website may be different.*
 
 Making a new submission is an easy-to-follow 5-step process. Follow along with the on-screen instructions to complete the process.
 
-### <a name="prepare"></a>Prepare
+### <a name="start"></a>Start
 
-Provide initial information and confirm that you've followed the requirements before beginning your submission.
+Select an appropriate section for your submission.
 
-### <a name="upload"></a>Upload
+Read and agree to the Submission Requirements.
 
-Upload your submission files. Each file needs to be assigned a particular component, which helps organize the files for large projects.
+Add any comments to the editor (optional).
 
-You'll upload each of your files one at a time, naming each one before moving onto the next file.
+Review the Privacy Statement to ensure you agree.
 
-*When asked to name the file, it's recommended that you do not include your name. Otherwise, editors will have to strip this out before sharing it with reviewers.*
+### <a name="upload-submission"></a>Upload Submission
 
-### <a name="catalog"></a>Catalog
+Upload your submission files.
 
-Add your submission details, such as title and abstract. You'll also have an opportunity to define chapters for your book and, if there are multiple authors, add contributors.
+**Upload File**: Each file needs to be assigned as a particular component, which helps organize the files for large projects.
 
-If you're submitting an edited volume with different authors for each chapter, you can associate contributors with each chapter from the chapter editing screen.
+You'll upload each of your files one at a time. You will have the opportunity to upload more files in a moment.
+
+**Add Details**: 
+
+If you wish, use the Edit link to rename the default file name chosen by the system.
+
+**Confirm**: Add additional files or hit Complete.
+
+Select Save and Continue to move to the next step.
+
+### <a name="enter-metadata"></a>Enter Metadata
+
+Add your submission details, such as title and abstract.
+
+You can add additional authors by using the Add Contributors link.
+
 
 ### <a name="confirmation"></a>Confirmation
 
@@ -58,4 +76,4 @@ In each stage you'll have access to a discussion area. If an editor or editorial
 
 During the review stages, you'll see a status update at the top, which will keep you informed as reviewers are recruited, assigned and submit their reviews.
 
-Dyring the review stages, you may be asked to submit revisions which address any concerns raised. If needed, you'll find a Revisions panel where you can upload new files for the editor.
+During the review stages, you may be asked to submit revisions which address any concerns raised. If needed, you'll find a Revisions panel where you can upload new files for the editor.
