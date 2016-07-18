@@ -1,5 +1,8 @@
 # Users and Roles
 
+Use this section to manager your journal's users and their roles.
+
+
 Add users, define custom user roles and configure site access options. You can lookup any user from this page.
 
 Under the Site Access tab, you can turn off public user registration, or event limit access to the reader-facing site to registered users.
