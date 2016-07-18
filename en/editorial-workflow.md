@@ -4,8 +4,6 @@
 2. [Managing Submission Details](editorial-workflow.md#manage-submission-details)
 3. Editorial Actions
 4. [Participants](editorial-workflow.md#participants)
-5. Submission Files
-6. Pre-Review Discussions
 
 The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting and production, where the item is prepared for publication.
 
@@ -48,12 +46,4 @@ On the right of each stage of the workflow, you'll find a list of users who have
 *When you add a user, that user will have access to any stages allowed by their user role*. For example, an Editor added to the Participants grid will have access to every stage. But a Copyeditor will only have access to the Copyediting stage.
 
 *You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review.md), you'll be able to manage the reviewers in a more convenient panel.
-
-## <a name="submission-files"></a>Submission Files
-
-All files submitted by the author will be available here.
-
-## <a name="pre-review-discussions"></a>Pre-Review Discussions
-
-If you wish to contact the author or other members of the editorial team, you can use the Add Discussion link to initiate a discussion. 
 
