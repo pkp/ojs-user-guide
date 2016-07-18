@@ -39,11 +39,9 @@ Each galley represents one type of file (PDF, ePub), and may have multiple files
 
 How you choose to organise your galleys is up to you. But that flexibility may be confusing as you're just getting used to the publishing platform. Here are a couple of simple examples.
 
-A typical monograph might have one publication format named ePub with a single `.epub` file uploaded to it. It might have another publication format named PDF with separate `.pdf` files uploaded to it for each chapter and supplementary data.
+A typical journal might have one galley format named PDF with a single `.pdf` file uploaded to it. It might have another galley format named HTML with separate `.html` files uploaded.
 
-In this case, you'd create two Publication Formats, ePub and PDF, and upload the files separately under each Publication Format.
-
-If you publish physical volumes alongside your digital offering, you can create entries for these as well. You can upload files to these publication formats if you'd like and they will be displayed for download. This is not common, but might be used for a printable order form if you do not have an online sales platform.
+In this case, you'd create two galleys, PDF and HTML, and upload the files separately under each.
 
 ### <a name="publication-format-metadata"></a>Managing Your Publication Format Metadata
 
