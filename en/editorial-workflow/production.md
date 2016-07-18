@@ -19,25 +19,25 @@ All files selected by the editor for production will appear here. These typicall
 
 ### <a name="production-discussions"></a>Production Discussions
 
-Editors and production assistants can use this panel to initiate conversations, if there are any details that need to be clarified before the final publication formats can be created.
+Editors and production assistants can use this panel to initiate conversations, if there are any details that need to be clarified before the final publication files can be created.
 
-### <a name="publication-formats"></a>Publication Formats
+### <a name="publication-formats"></a>Galleys
 
-Editors and production assistants can create publication formats and upload files to each format. Learn more about [publication formats](production.md#understanding-publication-formats).
+Editors and production assistants can create galleys and upload files for each format type (e.g., PDF, HTML, etc.). Learn more about [publication formats](production.md#understanding-publication-formats).
 
-Once publication formats have been created and files have been uploaded, you can begin the approval process to [publish the submission](production.md#publish).
+Once galleys have been created and files have been uploaded, you can begin the approval process to [publish the submission](production.md#publish).
 
 ### <a name="participants"></a>Participants
 
-Editors can add copyeditors from this panel. [Learn more](../editorial-workflow.md#participants).
+Editors can add production assistants or layout editors from this panel. [Learn more](../editorial-workflow.md#participants).
 
-## <a name="understanding-publication-formats"></a>Understanding Publication Formats
+## <a name="understanding-galleys"></a>Understanding Galleys
 
-Each format represents one type of file (PDF, ePub), and may have multiple files attached to it, such as separate chapter files or supplementary data.
+Each galley represents one type of file (PDF, ePub), and may have multiple files attached to it, such as separate chapter files or supplementary data.
 
-### Organizing Your Publication Formats
+### Organizing Your Galleys
 
-How you choose to organise your publication formats is up to you. But that flexibility may be confusing as you're just getting used to the publishing platform. Here are a couple of simple examples.
+How you choose to organise your galleys is up to you. But that flexibility may be confusing as you're just getting used to the publishing platform. Here are a couple of simple examples.
 
 A typical monograph might have one publication format named ePub with a single `.epub` file uploaded to it. It might have another publication format named PDF with separate `.pdf` files uploaded to it for each chapter and supplementary data.
 
