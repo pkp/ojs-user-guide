@@ -5,7 +5,6 @@
 3. [Website](settings.md#website)
 4. [Workflow](settings.md#workflow)
 5. [Distribution](settings.md#distribution)
-6. [Users & Roles](settings.md#users)
 
 Configure your site to suit your needs.
 
