@@ -1,9 +1,8 @@
 # Review Stages
 
 1. Introduction
-2. [Internal or External Review?](review.md#internal-or-external)
-3. [Orientation](review.md#orientation)
-4. [Editorial Actions](review.md#editorial-actions)
+2. [Orientation](review.md#orientation)
+3. [Editorial Actions](review.md#editorial-actions)
 
 During the Review stage, the editor assigns reviewers to the submission.
 

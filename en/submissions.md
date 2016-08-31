@@ -25,7 +25,7 @@ Other editorial or administrative staff can view the **My Assigned** panel, whic
 
 All users can view the **My Authored** panel, which includes only your own submissions.
 
-## <a name="active"></a>All Active
+## <a name="active"></a>Active
 
 Find any submission in the system that hasn't been published or declined. Only editorial and administrative users have access to this tab.
 

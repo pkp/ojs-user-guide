@@ -13,7 +13,6 @@ The editor can assign a sub-editor to assist by using the **Participants** panel
 
 Send the submission on to the [Review stage](review.md), where it will be reviewed by peer reviewers.
 
-
 ### Send to Copyediting
 
 Send the submission forward to the [Copyediting stage](copyediting.md) if you'd like to skip the peer review process completely.
