@@ -29,9 +29,7 @@ Add notes for record-keeping and view a log of all events associated with this s
 
 ### <a name="submission-library"></a>Submission Library
 
-A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files or guidelines you'd like to share with copyeditors or other assistants.
-
-You can quickly add files from your [Journal Library](settings.md#workflow-journal-library) by clicking on **View Document Library**.
+A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files, or guidelines you'd like to share with copyeditors or other assistants.
 
 ## <a name="editorial-actions"></a> Editorial Actions
 
