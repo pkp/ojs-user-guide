@@ -32,7 +32,7 @@ Some of the key settings are broken down in detail below.
 
 ### <a name="workflow-components"></a>Components
 
-Your publication files may consist of a number of components, including a book-length manuscript or a chapter-length manuscript, as well as illustrations, glossary, index and more.
+Your publication files may consist of a number of components, including a book-length manuscript or a chapter-length manuscript, as well as illustrations, glossary, index, and more.
 
 When authors and editors upload files to a submission, they will be asked to identify the component of this file.
 
@@ -56,7 +56,7 @@ Items that are stored in the Journal Library can be quickly retrieved and added 
 
 ### <a name="workflow-emails"></a>Emails
 
-OMP sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow.md), as well as other actions such as registration and submission acknowledgement.
+OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow.md), as well as other actions such as registration and submission acknowledgement.
 
 The settings in this section allow you to tailor the common header and signature that accompany those emails, as well as update the email defaults for each type of email that's sent out.
 
