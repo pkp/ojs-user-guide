@@ -5,9 +5,11 @@
 Manage your journal's issues from this page.
 
 ## Future Issues
+These are your unpublished issues.
 
 ## Back Issues
+These are your published issues.
 
 ## Create Issues
 
-**FIXME** You can edit existing articles, list new articles in your catalog, manage categories and series listings, highlight featured books and set up spotlights for display on your homepage.
+Use this link to create a new issue for your journal.
