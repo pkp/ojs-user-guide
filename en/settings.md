@@ -17,7 +17,9 @@ There's a lot to be uncovered here. While we're improving this documentation, we
 
 ## <a name="context"></a>Journal
 
-Configure basic details about the journal, including the masthead, contact information, and sections.
+Enter basic details about the journal, including the journal name, a short description, the masthead, contact information, and the sections the journal publishes.
+
+**Sections** allow journals to publish submissions to different sections of the journal, such as Reviews and Articles.
 
 ## <a name="website"></a>Website
 
@@ -33,7 +35,7 @@ Some of the key settings are broken down in detail below.
 
 ### <a name="workflow-components"></a>Components
 
-Your publication files may consist of a number of components, including a book-length manuscript or a chapter-length manuscript, as well as illustrations, glossary, index and more.
+Your publication files may consist of a number of components, including a article text, research materials, data sets and more.
 
 When authors and editors upload files to a submission, they will be asked to identify the component of this file.
 
@@ -42,28 +44,28 @@ The Components tab provides a list of common components by default. You are enco
 Delete those that aren't appropriate for your journal. This will reduce the options faced by authors struggling through their first submission.
 
 ### <a name="workflow-submission"></a>Submission
-Set your submission guidelines here. You can also modify the submission checklist, which all authors must agree to for their submission. 
+Set your submission guidelines here. You can also modify the submission checklist, which all authors must agree to for their submission.
 
 Submission Metadata allows you to select which types of metadata you wish to track in your journal, and which metadata fields you wish to present to authors upon their submission.
 
 ### <a name="workflow-review"></a>Review
 From here, you can set all of your review policies and procedures, including deadlines, notifications, guidelines, etc.
 
-### <a name="workflow-publisher-library"></a>Publisher Library
+### <a name="workflow-library"></a>Publisher Library
 
 The Publisher Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
 
-Items that are stored in the Journal Library can be quickly retrieved and added into a [Submission Library](editorial-workflow.md#submission-library) to be shared with authors or assistants.
+Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](editorial-workflow.md#submission-library) to be shared with authors or assistants.
 
 ### <a name="workflow-emails"></a>Emails
 
-OMP sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow.md), as well as other actions such as registration and submission acknowledgement.
+OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow.md), as well as other actions such as registration and submission acknowledgement.
 
-The settings in this section allow you to tailor the common header and signature that accompany those emails, as well as update the email defaults for each type of email that's sent out.
+The settings in this section allow you to edit the signature attached to each email, as well as change the default messages sent for each type of email.
 
 If you're unsure what a particular email is for, spin out it's context menu by clicking the toggle to the left of the email, and then click **Edit Email**. Most emails include a short description of when they're sent.
 
-*If you want to restore an email template to it's default, use the __Reset__ link to restore defaults.*
+*If you want to restore an email template to it's default, use the __Reset__ link to restore the default message.*
 
 ## <a name="distribution"></a>Distribution
 
