@@ -15,11 +15,9 @@ Submission details appear at the top of the page. In this area, you'll also find
 
 ### <a name="metadata"></a>Metadata
 
-The Metadata section includes three tabs: Submission, Publication, and Identifiers.
+The Metadata section includes two tabs: Submission and Identifiers.
 
 Submission includes the submission metadata, such as article title, abstract, contributors, and keywords.
-
-Publication includes information about which issue will contain the article, as well as the page number range (optional), and permission details.
 
 Identifies provides a space to add any public URL identifiers.
 
