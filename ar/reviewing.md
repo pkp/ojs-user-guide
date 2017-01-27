@@ -1,4 +1,4 @@
-﻿# Reviewing
+﻿# التحكيم
 
 1. مقدمة
 2. [التسجيل بصفة محكم](reviewing.md#sign-up)
