@@ -1,4 +1,4 @@
-﻿# Copyediting
+﻿# التدقيق
 
 1. مقدمة
 2. [المنحى](copyediting.md#orientation)
