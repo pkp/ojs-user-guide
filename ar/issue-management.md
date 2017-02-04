@@ -1,4 +1,4 @@
-﻿# Issues
+﻿# الأعداد
 
 1. مقدمة
 2. [الأعداد المستقبلية](issue-management.md#future-issues)
