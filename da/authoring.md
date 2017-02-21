@@ -59,7 +59,7 @@ Indsendelsen er afsluttet. Hvis du vil læse mere om at følge dit indsendelse, 
 
 ## Følg din indsendelse
 
-Mens din indsendelse er under bedømmelse, kan du holde øje med dens status ved at logge på websiden og vælge siden ’[Indsendelser](/indsendelser.md)’.
+Mens din indsendelse er under bedømmelse, kan du holde øje med dens status ved at logge på websiden og vælge siden ’[Indsendelser](/submissions.md)’.
 
 Her finder du dine indsendelser opført efter det aktuelle trin, de befinder sig på, i det redaktionelle workflow. Klik på trinbetegnelsen for at interagere med dette trin.
 
