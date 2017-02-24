@@ -1,13 +1,13 @@
 # Brugere og roller
 
 1. Introduktion
-2. [Brugere](#brugere)
-3. [Roller](#roller)
-4. [Webstedets adgangsmuligheder](#webstedets-adgangsmuligheder)
+2. [Brugere](users-users)
+3. [Roller](users-roles)
+4. [Webstedets adgangsmuligheder](users-site-access)
 
 Administrér dit tidsskrifts brugere, tildel dem roller og opret eller redigér eksisterende roller.
 
-## Brugere
+## <a name="users-users"></a> Brugere
 
 Tidsskriftschefer og administratorer kan se en liste over alle tidsskriftets brugere. Du kan tilføje brugere, deaktivere en bruger, sende e-mails til dem, redigere deres profil eller slette dem helt.
 
@@ -15,7 +15,7 @@ Den nemmeste måde at finde en bruger på er at bruge søgeknappen, hvor du kan 
 
 For at finde listen over alle forfattere, skal du bruge søgefunktionen, lade søgefeltet stå tomt og vælge forfatter fra dropdown-menuen. Klik dernæst på ’Søg’.
 
-## Roller
+## <a name="users-roles"></a> Roller
 
 Brugerrollerne afgør hvem der har adgang til hvad i det redaktionelle workflow.
 
@@ -33,7 +33,7 @@ Du kan redigere eller fjerne eksisterende roller eller tilføje nye roller. Alle
 
 I tilknytning til adgangsniveauerne kan du begrænse roller til specifikt udvalgte trin i [det redaktionelle workflow](/editorial-workflow.md). Dette er brugbart for professionelle assistenter, såsom manuskriptredaktører eller layout-redaktører, som hjælper på ét eller to trin i workflowet.
 
-## Webstedets adgangsmuligheder
+## <a name="users-site-access"></a> Webstedets adgangsmuligheder
 
 Under fanebladet ’Webstedets adgangsmuligheder’ kan du forhindre offentlig adgang til brugerregistrering eller begrænse adgangen til den læser-vendte del af websitet til kun at gælde registrerede brugere.
 

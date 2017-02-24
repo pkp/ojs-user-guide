@@ -1,15 +1,15 @@
 # Det redaktionelle workflow
 
 1. Introduktion
-2. [Håndtering af indsendelsesdetaljer](#håndtering-af-indsendelsesdetaljer)
-3. [Redaktionelle valgmuligheder](#redaktionelle-valgmuligheder)
-4. [Deltagere](#deltagere)
+2. [Håndtering af indsendelsesdetaljer](editorial-workflow.md#manage-submission-details)
+3. [Redaktionelle valgmuligheder](editorial-workflow.md#editorial-actions)
+4. [Deltagere](editorial-workflow.md#participants)
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
 
 Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer og indlæg \(drøftelser\), du behøver for at udføre de opgaver, der hører under det pågældende trin i den redaktionelle proces. Du kan [tilføje flere deltagere](#deltagere). Du vil løbende blive præsenteret for et udvalg af [redaktionelle valgmuligheder](#redaktionelle-valgmuligheder), der er relevant for det enkelte trin i processen.
 
-## Håndtering af indsendelsesdetaljer
+## <a name="manage-submission-details"></a>Håndtering af indsendelsesdetaljer
 
 Indsendelsesdetaljer vises øverst på siden. Her findes værktøjer til at håndtere indsendelsens metadata og redaktionelle historik. De data, der herfra knyttes til indsendelsen forbliver indskrevet på alle trin i den redaktionelle proces.
 
@@ -31,13 +31,13 @@ Et arkiv med kvik-adgang til enhver fil, som du måtte ønske at knytte til inds
 
 Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/settings.md#forlagsbibliotek)’ ved at klikke på ’Se dokumentbibliotek’.
 
-## Redaktionelle valgmuligheder
+## <a name="editorial-actions"></a> Redaktionelle valgmuligheder
 
 Øverst i højre-menuen på hvert trin i workflowet, vil du finde de redaktionelle valgmuligheder, der er tilgængelige for dig. Disse valg skifter for hvert trin, men i de fleste tilfælde, afslutter de det aktuelle trin og videresender indsendelsen til det næste.
 
 Læs hjælpeteksterne til hvert trin for at lære mere om de redaktionelle valgmuligheder.
 
-## Deltagere
+## <a name="participants"></a>Deltagere
 
 I højre-menuen, på hvert trin i den redaktionelle proces, finder du en liste over de brugere, der har adgang til det pågældende trin. Du kan tilføje redaktionelle medarbejdere, manuskriptredaktører, layoutredaktører og andre brugere, som du ønsker, skal have adgang.
 

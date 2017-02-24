@@ -1,18 +1,18 @@
 # Administration
 
 1. Introduktion
-2. [Tilknyttede tidsskrifter](#tilknyttede-tidsskrifter)
-3. [Administrative funktioner](#administrative-funktioner)
+2. [Tilknyttede tidsskrifter](administration.md#hosted-journals)
+3. [Administrative funktioner](administration.md#admin-functions)
 
 Administrationen af websitet er begrænset til brugere med adgang til hele systemet. Administrationsopgaverne er ikke hyppige og kan udføres af tidsskriftschefer, seniorredaktører eller en dedikeret administrator.
 
-## Tilknyttede tidsskrifter
+## <a name="hosted-journals"></a>Tilknyttede tidsskrifter
 
 Tilføj, redigér eller fjern tidsskrifter fra installationen. I de fleste tilfælde vil der kun være ét tidsskrift, men du kan hoste mange tidsskrifter på en enkelt installation.
 
 Administratorer, tidsskriftschefer eller seniorredaktører har adgang til en indstillingsguide for hvert hostet tidsskrift, som vil lede dig igennem de grundlæggende trin i tidsskriftsopsætningen. Dette inkluderer opsætning af kolofon, kontaktoplysninger, websitets udseende, indsendelsesparametre, indekseringsoplysninger og brugere.
 
-## Administrative funktioner
+## <a name="admin-functions"></a>Administrative funktioner
 
 Adskillige administrative funktioner er til rådighed på websitets administrationsside. Disse bør bruges med forsigtighed af teknisk uddannet administratorer. Upassende brug kan føre til uventede og uheldige resultater.
 

@@ -1,12 +1,12 @@
 # Produktion
 
 1. Introduktion
-2. [Orientering](#orientering)
-3. [Publicering af indsendelsen](#publicér-indsendelsen)
+2. [Orientering](production.md#orientation)
+3. [Publicér indsendelsen](production.md#publish)
 
 Under produktionstrinnet kan redaktøren tilføje produktionsmedhjælpere, som skal hjælpe med at klargøre de færdigbearbejdede filer til produktion, kaldet satsskibe.
 
-## Orientering
+## <a name="orientation"></a>Orientering
 
 Produktionstrinnet stiller tre felter til rådighed til oprettelse af filer klar til publikation.
 
@@ -26,7 +26,7 @@ Redaktører og produktionsmedhjælpere kan oprette publiceringsversioner \(satss
 
 Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/editorial-workflow.md#deltagere).
 
-## Publicér indsendelsen
+## <a name="publish"></a>Publicér indsendelsen
 
 Så snart du er klar til at publicere indsendelsen, skal du planlægge i hvilket nummer, den skal publiceres.
 

@@ -1,8 +1,8 @@
 # Manuskriptredigering
 
 1. Introduktion
-2. [Orientering](#orientering)
-3. [Redaktionelle valgmuligheder](#redaktionelle-valgmuligheder)
+2. [Orientering](copyediting.md#orientation)
+3. [Redaktionelle valgmuligheder](copyediting.md#editorial-actions)
 
 Under manuskriptredigeringen udvælger redaktøren en manuskriptredaktør til at redigere indsendelsesfilerne.
 
@@ -12,7 +12,7 @@ Dette er det sidste trin, inden du genererer et publiceringsklart format, som f.
 
 Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i [deltagerfeltet](/editorial-workflow.md#deltagere).
 
-## Orientering
+## <a name="orientation"></a>Orientering
 
 På manuskriptredigeringstrinnet findes der tre felter til at administrere manuskriptredigeringsprocessen.
 
@@ -34,7 +34,7 @@ Redaktører kan også uploade filer til dette felt.
 
 Redaktører kan tilføje manuskriptredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/editorial-workflow.md#deltagere).
 
-## Redaktionelle valgmuligheder
+## <a name="editorial-actions"></a>Redaktionelle valgmuligheder
 
 Der er kun én redaktionel mulighed til rådighed for redaktørerne på dette trin. Hvis du beslutter dig for at afvise indsendelsen på dette sene tidspunkt, må du gå tilbage til den forrige side/det forrige trin.
 

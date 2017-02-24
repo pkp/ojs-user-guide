@@ -1,8 +1,8 @@
 # Bedømmelsestrinnet
 
 1. Introduktion
-2. [Orientering](#orientering)
-3. [Redaktionelle muligheder](#redaktionelle-valgmuligheder)
+2. [Orientering](review.md#orientation)
+3. [Redaktionelle muligheder](review.md#editorial-actions)
 
 Under bedømmelsestrinnet udvælger redaktøren bedømmere til indsendelsen.
 
@@ -10,7 +10,7 @@ Når bedømmerne har indsendt deres bedømmelser og anbefalinger, er det redakt�
 
 Som standard begynder bedømmelsestrinnet med ’Runde 1’. Yderligere bedømmelsesrunder kan igangsættes, hvis redaktøren kræver større ændringer, som kræver endnu en bedømmelsesrunde.
 
-## Orientering
+## <a name="orientation"></a>Orientering
 
 Hver bedømmelsesrunde er bygget op omkring felter, hvor filer og bedømmere administreres sammen med adgangen til drøftelser og deltagerlisten, hvor de to sidstnævnte vil være tilgængelige på alle niveauer.
 
@@ -36,7 +36,7 @@ Drøftelser under bedømmelsen er ikke knyttet til én specifik runde, men vil b
 
 Redaktører og medredaktører kan tilføje flere brugere på dette trin til hjælp i forbindelse med bedømmelsesprocessen. Dette bruges typisk af en redaktør, som gerne vil have en medredaktør til at forestå dag til dag kommunikationen med bedømmerne. Yderligere information.
 
-## Redaktionelle valgmuligheder
+## <a name="editorial-actions"></a>Redaktionelle valgmuligheder
 
 Redaktøren har flere valgmuligheder til rådighed under bedømmelsestrinnet. Hver af disse beslutninger sendes automatisk til forfatteren via e-mail.
 

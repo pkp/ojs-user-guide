@@ -1,21 +1,21 @@
 # Indsendelser
 
 1. Introduktion
-2. [Påbegynd en ny indsendelse](#påbegynd-en-ny-indsendelse)
-3. [Min kø](#min-kø)
-4. [Alle aktive](#alle-aktive)
-5. [Arkiver](#arkiver)
-6. [Tips i forbindelse med indsendelse](#tips-i-forbindelse-med-indsendelser)
+2. [Påbegynd en ny indsendelse](submissions.md#new-submission)
+3. [Min kø](submissions.md#my-queue)
+4. [Alle aktive](submissions.md#active)
+5. [Arkiver](submissions.md#archives)
+6. [Tips i forbindelse med indsendelse](submissions.md#tips)
 
 Du kan tilgå alle de indsendelser, der aktuelt er under behandling via siden ’Indsendelser’.
 
 Redaktionelle og administrative brugere har også adgang til alle publicerede og arkiverede indsendelser og kvik-adgang til de fælles indsendelser, for hurtigt at kunne administrere det redaktionelle workflow.
 
-## Påbegynd en ny indsendelse
+## <a name="new-submission"></a>Påbegynd en ny indsendelse
 
 Du kan påbegynde en ny indsendelse ved at klikke på knappen ’Ny indsendelse’, som vises under fanebladet ’Min kø’.
 
-## Min Kø
+## <a name="my-queue"></a>Min Kø
 
 Dette faneblad viser de indsendelser der løbende tildeles dig. Det hjælper dig med at følge dine dag til dag aktiviteter.
 
@@ -25,15 +25,15 @@ Andre redaktionelle eller administrative brugere kan se feltet ’Mine tildelte�
 
 Alle brugere kan se feltet ’Mine indsendelser’, som kun indeholder ens egne indsendelser.
 
-## Alle aktive
+## <a name="active"></a>Alle aktive
 
 Find enhver indsendelse, der endnu ikke er blevet publiceret eller afvist. Kun redaktionelle og administrative brugere har adgang til dette faneblad.
 
-## Arkiver
+## <a name="archives"></a>Arkiver
 
 Find indsendelser, der er blevet publiceret eller afvist. Alle indsendelser, der ikke længere er en aktiv del af det redaktionelle workflow, kan findes her.
 
-## Tips i forbindelse med indsendelser
+## <a name="tips"></a>Tips i forbindelse med indsendelser
 
 ### Søgning i lange lister
 

@@ -1,9 +1,9 @@
 # Numre
 
 1. Introduktion
-2. [Fremtidige numre](#fremtidige-numre)
-3. [Tidligere numre](#tidligere-numre)
-4. [Redigér et nummer](#redigér-et-nummer)
+2. [Fremtidige numre](issue-management.md#future-issues)
+3. [Tidligere numre](issue-management.md#back-issues)
+4. [Redigér et nummer](issue-management.md#edit-issue)
 
 Fra denne side oprettes fremtidige numre og her kan tidligere numre administreres.
 
@@ -19,17 +19,17 @@ Herved fremkommer:
 
 **Slet** – Fjerner et nummer, kan det ikke fortrydes.
 
-## Fremtidige numre
+## <a name="future-issues"></a>Fremtidige numre
 
 Fra denne side kan du se fremtidige numre og oprette et nyt.
 
 Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/production.md#publicér-indsendelsen), vil du kunne organisere en indholdsfortegnelse.
 
-## Tidligere numre
+## <a name="back-issues"></a>Tidligere numre
 
 Her kan du se alle publicerede numre.
 
-## Redigér et nummer
+## <a name="edit-issue"></a>Redigér et nummer
 
 Her kan det enkelte nummers detaljer redigeres såsom indholdsfortegnelse, publiceringsdato, titel og årgang. Hvis du bruger nogen form for indentifikationer \(public identifiers\) som f.eks. DOI, kan den også blive redigeret her.
 

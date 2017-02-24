@@ -1,10 +1,10 @@
 # Indstillinger
 
 1. Introduktion
-2. [Tidsskrift](#tidsskrift)
-3. [Website](#website)
-4. [Workflow](#workflow)
-5. [Distribuering](#distribuering)
+2. [Tidsskrift](settings.md#context)
+3. [Website](settings.md#website)
+4. [Workflow](settings.md#workflow)
+5. [Distribuering](settings.md#distribution)
 
 Konfigurér dit website i overensstemmelse med dine behov.
 
@@ -14,19 +14,19 @@ Kun tidsskriftschefer og administratorer har adgang til og redigeringsret over i
 
 Her mangler endnu en del. Vi er i gang med at forbedre denne dokumentation, men her følger et hurtigt overblik over, hvad de enkelte indstillingssider kan bruges til og en mere detaljeret beskrivelse af de mest drilske valgmuligheder.
 
-## Tidsskrift
+## <a name="context"></a>Tidsskrift
 
 Her indskrives de vigtigste oplysninger om tidsskriftet inklusiv tidsskriftets navn, en kort beskrivelse, kolofonen, kontaktinformation og de tidsskriftssektioner, som indgår i det publicerede tidsskrift
 
 Tidsskriftssektioner gør det muligt for tidsskriftet at publicere deres artikler i forskellige sektioner, som f.eks. ’Anmeldelser’ og ’Artikler’.
 
-## Website
+## <a name="website"></a>Website
 
 Her konfigureres den læservendte del af dit website, inklusiv upload af logo, hjemmesidekonfiguration, opsætning af sidemenuer med mere.
 
 Du kan også indstille websitets sproggrænseflader, arkiveringsopsætning, installere og aktivere plug-ins, sende beskeder ud og oprette statiske sider.
 
-## Workflow
+## <a name="workflow"></a>Workflow
 
 Konfigurér alle aspekter af [det redaktionelle workflow](/editorial-workflow.md), såsom filadministration, retningslinjer og krav til indsendelser, retningslinjer og tidsfrister for bedømmere, mail-beskeder og meget mere.
 
@@ -68,7 +68,7 @@ Hvis du er usikker på, hvad den enkelte e-mail skal bruges til, kan du se hvilk
 
 Hvis du ønsker at gendanne en e-mailskabelon til dens standardopsætning, skal du bruge linket ’Nulstil’.
 
-## Distribuering
+## <a name="distribution"></a>Distribuering
 
 Konfigurér indstillinger, der relaterer til søgemaskineindeksering, adgang, betaling og tilladelser.
 
