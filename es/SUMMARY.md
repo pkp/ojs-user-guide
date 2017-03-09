@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [User Profile](user-profile.md)
+* [Introducción](README.md)
+* [Perfil de usuario](user-profile.md)
 * [Authoring](authoring.md)
 * [Reviewing](reviewing.md)
 * [Managing Submissions](submissions.md)
