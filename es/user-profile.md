@@ -1,9 +1,9 @@
-# User Profile
+# Perfil de usuario/a
 
-This chapter covers user profiles, including registration, logging in, and making changes.
+Este capítulo trata sobre los perfiles de usuario, incluyendo el registro, el inicio de sesión y la realización de cambios.
 
-Once logged in, you can configure your User Profile and notification settings. To view your profile, find the link which displays your username at the top-right of the site when logged in.
+Una vez iniciada la sesión podrá configurar su perfil de usuario/a y los ajustes de notificación. Para ver su perfil diríjase al enlace que muestra su nombre de usuario en la parte superior derecha del sitio web.
 
-You can update your name, contact details and password, as well as manage your public profile and configure what kind of notifications you'd like to receive.
+Puede modificar su nombre, sus detalles de contacto y su contraseña, así como gestionar su perfil público y configurar qué tipo de notificaciones desea recibir.
 
-If you're enrolled as a **Reviewer** for this site, you can enter your Reviewing Interests from the Roles tab.
+Si se ha registrado como **Revisor** podrá introducir sus intereses de revisión en la pestaña Roles.
