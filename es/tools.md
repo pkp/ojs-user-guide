@@ -1,19 +1,19 @@
-# Tools
+# Herramientas
 
-1. Introduction
-2. [Import/Export](tools.md#import-export)
-3. [Statistics](tools.md#statistics)
+1. Introducción
+2. [Importar/Exportar](tools.md#import-export)
+3. [Estadísticas](tools.md#statistics)
 
-Import and export content, and view usage statistics and reports from the Tools menu.
+Importe y exporte contenido y consulte las estadísticas de uso y los informes desde el menú Herramientas.
 
-The tools available to you may depend on what plugins an administrator has configured for your site.
+Las herramientas disponibles dependerán de los módulos que el administrador haya configurado para su sitio.
 
-## <a name="import-export"></a>Import/Export
+## <a name="import-export"></a>Importar/Exportar
 
-The Import/Export tools allow you to move content between OJS installations. You can import and export users, publications and article metadata.
+La herramienta Importar/Exportar le permite mover contenido entre diferentes instalaciones de OJS. Puede importar y exportar usuarios, publicaciones y metadatos de artículos.
 
-## <a name="statistics"></a>Statistics
+## <a name="statistics"></a>Estadísticas
 
-The system generates reports that track site usage and submissions over a given period of time. Reports are generated in CSV format which requires a spreadsheet application, like Excel, Google Docs or LibreOffice to view.
+El sistema genera informes que monitorizan el uso del sitio y los envíos durante un periodo predeterminado de tiempo. Los informes son generados en formato CSV, lo cual requiere una aplicación de hojas de cálculo como Excel, Google Docs o LibreOffice para visualizarlos.
 
-You can generate detailed custom reports and filter by complex parameters. If you're unsure about any of the parameters, speak to your technical support team for help.
+También puede generar informes personalizados detallados y filtrar por parámetros complejos. Si no está seguro sobre alguno de dichos parámetros, hable con su equipo de soporte técnico para recibir ayuda.
