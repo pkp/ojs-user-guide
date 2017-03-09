@@ -1,80 +1,80 @@
 # Autoría
 
 1. Introducción
-2. Acciones del autor
+2. Acciones del autor/a
 3. [Hacer un envío](authoring.md#make-submission)
 4. [Monitorizar su envío](authoring.md#track-submission)
 
 ## <a name="orientation"></a>Introducción
 
-Cuando inicie sesión en OJS como autor verá dos paneles: Mis envíos asignados y Mis envíos de autoría. Si nunca ha realizado ningún envío a esa revista, ambos paneles estarán vacíos.
+Cuando inicie sesión en OJS como autor/a verá dos paneles: Mis envíos asignados y Mis envíos de autoría. Si nunca ha realizado ningún envío a esa revista, ambos paneles estarán vacíos.
 
 ## <a name="author-actions"></a>Acciones del autor
 
 Para comenzar, pulse en el botón Nuevo envío que aparece a la derecha de su pantalla.
 
 
-## <a name="make-submission"></a>Make a Submission
+## <a name="make-submission"></a>Hacer un envío
 
-*If you're logged in, but you don't see the editorial interface, you may be viewing the reader-facing website. If that's the case, find your user profile link and click on the Submissions link which appears below it. Each website may be different.*
+*Si ha iniciado la sesión pero no ve la interfaz editorial puede ser que esté visualizando el sitio web para lectores/as. Si este es el caso, encuentre su enlace de perfil de usuario/a y haga clic en el enlace Envíos que aparece debajo. Cada sitio web podría ser diferente.*
 
-Making a new submission is an easy-to-follow 5-step process. Follow along with the on-screen instructions to complete the process.
+Hacer un envío es un proceso de 5 pasos muy fáciles de seguir. Continúe con las instrucciones mostradas en pantalla para completar el proceso.
 
-### <a name="start"></a>Start
+### <a name="start"></a>Inicio
 
-Select an appropriate section for your submission.
+Seleccione una sección adecuada para su envío.
 
-Read and agree to the Submission Requirements.
+Lea y acepte los requisitos de envío.
 
-Add any comments to the editor (optional).
+Añada comentarios para el editor (opcional).
 
-Review the Privacy Statement to ensure you agree.
+Revise la Declaración de privacidad para asegurarse de que la acepta.
 
-### <a name="upload-submission"></a>Upload Submission
+### <a name="upload-submission"></a>Cargar el envío
 
-Upload your submission files.
+Cargue sus archivos de envío.
 
-**Upload File**: Each file needs to be assigned as a particular component, which helps organize the files for large projects.
+**Cargar el archivo**: Cada archivo debe ser asignado a un componente concreto, lo que ayuda a organizar los archivos en proyectos de gran magnitud.
 
-You'll upload each of your files one at a time. You will have the opportunity to upload more files in a moment.
+Debe cargar sus archivos de uno en uno. Podrá cargar más archivos en breve.
 
-**Add Details**: 
+**Añadir detalles**: 
 
-If you wish, use the Edit link to rename the default file name chosen by the system.
+Si lo desea, utilice el botón Editar para cambiar el nombre predefinido del archivo elegido por el sistema.
 
-**Confirm**: Add additional files or hit Complete.
+**Confirmar**: Añada archivos adicionales o pulse en Completar.
 
-Select Save and Continue to move to the next step.
+Seleccione Guardar y continuar para ir al siguiente paso.
 
-### <a name="enter-metadata"></a>Enter Metadata
+### <a name="enter-metadata"></a>Introducir los metadatos
 
-Add your submission details, such as title and abstract.
+Añada los detalles del envío, como por ejemplo el título y el resumen.
 
-You can add additional authors by using the Add Contributors link.
+Puede añadir autores/as adicionales mediante el botón Añadir colaborador/a.
 
 
-### <a name="confirmation"></a>Confirmation
+### <a name="confirmation"></a>Confirmación
 
-Take a moment to confirm the details you've entered. At this point, you can jump back to any of the previous steps to change the details you've entered.
+Tómese un momento para confirmar la información que ha introducido. En este punto aún puede volver a cualquiera de los pasos previos para cambiar la información que ha introducido.
 
-### <a name="next-steps"></a>Next Steps
+### <a name="next-steps"></a>Siguientes pasos
 
-You've done it! If you want to read more about tracking your submission, read the next section.
+Hecho! Si quiere más información acerca de cómo monitorizar su envío lea la sección siguiente.
 
-## <a name="track-submission"></a>Track your Submission
+## <a name="track-submission"></a>Monitorizar su envío
 
-When your submission is under consideration, you can keep an eye on it's status by logging into the website and going to the [Submissions](submissions.md) page.
+Cuando su envío esté considerándose podrá seguir su estado si inicia la sesión en el sitio web y se dirige a la página [Envíos](submissions.md).
 
-Here you'll find you submissions listed with the current stage of the editorial workflow it is in. Click the stage name to interact with that stage.
+Allí encontrará el listado de sus envíos y la fase del flujo de trabajo editorial en la que se encuentran.  Haga clic en el nombre de la fase para interactuar con ella.
 
-### <a name="track-submission-discussions"></a>Discussion Panels
+### <a name="track-submission-discussions"></a>Paneles de discusión
 
-In each stage you'll have access to a discussion area. If an editor or editorial assistant needs more information from you, they'll be able to open a discussion. When that happens, you'll be notified by email so that you can respond.
+En cada fase tiene acceso a un área de discusión. Si un editor/a o un asistente/a editorial necesita más información puede abrir una discusión abierta. Cuando eso ocurra recibirá una notificación por correo electrónico para que pueda contestar.
 
-*You won't be able to initiate discussions on most stages, but they'll appear if one has been initiated by the editors.*
+*En la mayoría de fases no podrá iniciar discusiones, estas aparecerán si las han iniciado los editores.*
 
-### <a name="track-submission-review"></a>Review Stage
+### <a name="track-submission-review"></a>Fase de revisión
 
-During the review stage, you'll see a status update at the top, which will keep you informed as reviewers are recruited, assigned and submit their reviews.
+Durante la fase de revisión verá una actualización de estado en la parte superior que le mantendrá informado sobre cuándo los revisores se inscriben, asignan y envían sus revisiones.
 
-During the review stage, you may be asked to submit revisions which address any concerns raised. If needed, you'll find a Revisions panel where you can upload new files for the editor.
+A lo largo de esta fase se le puede requerir que envíe modificaciones sobre cualquiera de los asuntos surgidos. Si es así, encontrará un panel de revisiones mediante el cual podrá cargar nuevos archivos para el editor.
