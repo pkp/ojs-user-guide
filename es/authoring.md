@@ -1,16 +1,17 @@
-# Authoring
+# Autoría
 
-1. Orientation
-2. Author Actions
-3. [Make a Submission](authoring.md#make-submission)
-4. [Track your Submission](authoring.md#track-submission)
+1. Introducción
+2. Acciones del autor
+3. [Hacer un envío](authoring.md#make-submission)
+4. [Monitorizar su envío](authoring.md#track-submission)
 
-## <a name="orientation"></a>Orientation
+## <a name="orientation"></a>Introducción
 
-When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty.
+Cuando inicie sesión en OJS como autor verá dos paneles: Mis envíos asignados y Mis envíos de autoría. Si nunca ha realizado ningún envío a esa revista, ambos paneles estarán vacíos.
 
-## <a name="author-actions"></a>Author Actions
-To the right of your screen, choose New Submission to begin a new submission.
+## <a name="author-actions"></a>Acciones del autor
+
+Para comenzar, pulse en el botón Nuevo envío que aparece a la derecha de su pantalla.
 
 
 ## <a name="make-submission"></a>Make a Submission
