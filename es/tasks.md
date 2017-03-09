@@ -1,5 +1,5 @@
-# Tasks
+# Tareas
 
-Tasks provide quick access to updates and outstanding responsibilities within the editorial workflow.
+El menú Tareas proporciona un acceso rápido a actualizaciones y responsabilidades pendientes del flujo de trabajo editorial.
 
-You can click the Tasks link on the main navigation menu to view any pending tasks. You can delete Tasks when they are no longer useful.
+Puede hacer clic en el enlace Tareas desde el menú principal de navegación para ver las tareas pendientes, así como eliminarlas cuando ya no sean útiles.
