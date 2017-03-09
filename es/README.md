@@ -1,16 +1,16 @@
-#OJS 3.0 User Guide
+#Manual de usuario de OJS 3.0
 
-This guide will help you publish journals and issues with Open Journal Systems.
+Esta guía le ayudará a publicar números y revistas con Open Journal Systems.
 
-It provides an introductory overview for each stage of the workflow from submission to production. It also provides further background information on some of the configuration options.
+Proporciona un resumen introductorio para cada etapa del flujo de trabajo, desde el envío hasta la producción, y también información contextual más extensa para algunas de las opciones de configuración.
 
-When you see **Help** links within the application, they'll open a help panel with the most useful information for that section.
+Los enlaces **Ayuda** de la aplicación abren un panel de ayuda con la información más útil para cada sección.
 
-A more detailed look at this software is available in [Learning OJS 3.0](https://www.gitbook.com/book/pkp/ojs3/details).
+Si desea información más detallada acerca de este software puede consultar el manual [Learning OJS 3.0](https://www.gitbook.com/book/pkp/ojs3/details).
 
 --
 
-Copyright: Simon Fraser University holds the copyright for work produced by the Public Knowledge Project and has placed its documentation under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Copyright: La Simon Fraser University tiene el copyright del trabajo producido por Public Knowledge Project y ha depositado su documentación bajo [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Attribution 4.0 International")](http://creativecommons.org/licenses/by/4.0/)
 
