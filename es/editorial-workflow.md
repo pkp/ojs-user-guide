@@ -1,29 +1,29 @@
-# Editorial Workflow
+# Flujo de trabajo editorial
 
-1. Introduction
-2. [Managing Submission Details](editorial-workflow.md#manage-submission-details)
-3. [Editorial Actions](editorial-workflow.md#editorial-actions)
-4. [Participants](editorial-workflow.md#participants)
+1. Introducción
+2. [Gestionar los detalles del envío](editorial-workflow.md#manage-submission-details)
+3. [Acciones editoriales](editorial-workflow.md#editorial-actions)
+4. [Participantes](editorial-workflow.md#participants)
 
-The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting and production, where the item is prepared for publication.
+El flujo de trabajo editorial le permite seguir un envío desde su evaluación inicial mediante revisión por pares, pasando por la fase de edición, hasta la fase de producción, en la cual dicho envío ya está listo para su publicación.
 
-Each tab on the workflow page provides you with the information, tools and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow.md#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow.md#editorial-actions) appropriate to each stage.
+Cada pestaña de la página del flujo de trabajo le proporciona la información, las herramientas y los paneles de discusión que necesitará para completar las tareas de esa fase. Puede [añadir participantes](editorial-workflow.md#participants) para ayudarle. Cuando esté listo se le mostrarán una serie de [acciones editoriales](editorial-workflow.md#editorial-actions) específicas de cada fase.
 
-## <a name="manage-submission-details"></a>Managing Submission Details
+## <a name="manage-submission-details"></a>Gestionar los detalles del envío
 
-Submission details appear at the top of the page. In this area, you'll also find tools to help you manage the submission's metadata and editorial history. The data attached to the submission from these tools persists across all stages.
+Los detalles del envío aparecen en la parte superior de la página. En este apartado también encontrará herramientas para ayudarle a gestionar los metadatos del envío y el historial de publicaciones. Los datos agregados al envío mediante estas herramientas permanecerán a lo largo de todas las etapas.
 
-### <a name="metadata"></a>Metadata
+### <a name="metadata"></a>Metadatos
 
-The Metadata section includes two tabs: Submission and Identifiers.
+La sección Metadatos incluye dos pestañas: Envío e Identificadores.
 
-Submission includes the submission metadata, such as article title, abstract, contributors, and keywords.
+La pestaña Envío engloba los metadatos del envío, como por ejemplo el título del artículo, el resumen, los colaboradores y las palabras clave.
 
-Identifies provides a space to add any public URL identifiers.
+La pestaña Identificadores ofrece un espacio para añadir identificadores de URL públicos.
 
-### <a name="editorial-history"></a>History
+### <a name="editorial-history"></a>Historial de publicaciones
 
-Add notes for record-keeping and view a log of all events associated with this submission. Only editorial and administrative staff have access to the Editorial History.
+Desde aquí puede añadir notas y ver un registro de todos los acontecimientos asociados con este envío. Solo los usuarios/as editores y administrativos pueden acceder al historial de publicaciones.
 
 ### <a name="submission-library"></a>Submission Library
 
