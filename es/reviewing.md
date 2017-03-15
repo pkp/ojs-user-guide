@@ -1,50 +1,50 @@
 # Revisión
 
 1. Introducción
-2. [Registrarse como revisor](reviewing.md#sign-up)
+2. [Registrarse como revisor/a](reviewing.md#sign-up)
 3. [Completar una revisión](reviewing.md#complete-review)
-4. [Complete Your User Profile](reviewing.md#complete-user-profile)
+4. [Completar el perfil de usuario/a](reviewing.md#complete-user-profile)
 
-Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review.
+Los revisores juegan un papel fundamental para garantizar la calidad de las publicaciones académicas. Este capítulo describe cómo completar una revisión.
 
-## <a name="sign-up"></a>Registrarse como revisor
+## <a name="sign-up"></a>Registrarse como revisor/a
 
-When you register as a user with the website, you may be asked to sign up for the reviewer role. If this has been enabled, you can add the reviewer role at any time, even if you've already registered, by going to the [User Profile](user-profile.md) page in the editorial backend.
+Cuando se registre como usuario/a puede que se le pida que se inscriba con el rol de revisor/a. De todos modos, se puede añadir el rol de revisor/a en cualquier momento, incluso si ya se ha registrado, desde la página [Perfil de usuario](user-profile.md) de la interfaz editorial.
 
-You'll also be asked to specify your reviewer interests, so that editors can make better choices when selecting reviewers for a submission.
+También se le pedirá que especifique sus intereses de revisión, de este modo los editores podrán tomar mejores decisiones cuando seleccionen revisores para un envío.
 
-In many cases, you may have already been added into the system as a reviewer. This happens when an editor wants to invite you to review a submission but you're not yet registered in the system.
+En muchas ocasiones se encontrará con que ya está dado de alta como revisor/a en el sistema. Esto sucederá cuando un editor quiera invitarle a revisar un envío pero aún no esté registrado.
 
 ## <a name="complete-review"></a>Completar una revisión
 
-You can see if you've been assigned any reviews by going to the [Submissions](submissions.md) page in the editorial backend. If you see any submissions in the **My Assigned** area, you can click on the link indicating it's current stage to access the reviewer walk-through.
+Puede ver si se le ha asignado alguna revisión en el apartado [Envíos](submissions.md) de la interfaz editorial. Si tiene algún envío en la sección **Mis envíos asignados** puede hacer clic en el enlace que indica su fase actual para acceder a la ruta del revisor.
 
-### <a name="complete-review-request"></a>Request
+### <a name="complete-review-request"></a>Solicitud
 
-The first step requests that you accept or declin the request to perform a review. You'll find the relevant submission details as well as **due dates** for responding to the request and submitting your review.
+El primer paso es que acepte o rechace la solicitud de revisión. En este apartado encontrará los detalles relevantes del envío, así como las **fechas límite** para contestar la petición y enviar su revisión.
 
-### <a name="complete-review-guidelines"></a>Guidelines
+### <a name="complete-review-guidelines"></a>Directrices
 
-Please read any reviewer guidelines the journal has prepared, to ensure that you're able to provide a review in the format and according to the standards desired.
+Por favor, lea las directrices que la revista haya preparado para asegurarse de que es capaz de entregar una revisión en el formato y con los estándares deseados por la revista.
 
-### <a name="complete-review-review"></a>Download & Review
+### <a name="complete-review-review"></a>Descargar y revisar
 
-You'll find the Review Files for your to download and review on this page. Once you've evaluated the files, you'll be asked to enter your review in two text boxes.
+En este apartado encontrará los archivos de revisión para descargar y revisar. Una vez haya evaluado los archivos se le pedirá que introduzca su revisión en dos cajas de texto.
 
-You should put *comments intended to be shared with the author* in the first text area. The second text area is for *comments intended only for the editor*.
+Debe poner los *comentarios dirigidos al autor/a* en la primera caja de texto. La segunda es para *comentarios dirigidos únicamente al editor/a*.
 
-The editor will have access to all of your comments. But this provides you with a way to share information privately with the editor, which may not be appopriate to share with the author.
+El editor/a tiene acceso a todos sus comentarios, pero de este modo el revisor/a tiene una vía para compartir de manera privada con el editor/a información que podría no ser apropiada compartir con el autor/a.
 
-If you prepared your review in a separate file, you can instead upload that file at the bottom of the page.
+Si ha preparado su revisión en un archivo aparte también puede subirlo en la parte inferior de la página.
 
-### <a name="complete-review-completion"></a>Completion
+### <a name="complete-review-completion"></a>Finalización
 
-You've completed your review. Thanks for your help ensuring the quality of scholarly publishing.
+Ha completado la revisión. Gracias por ayudar a garantizar la calidad de las publicaciones académicas.
 
-An editor will take a look at it and may send you an acknowledgment by email once they've done so.
+Un editor/a comprobará su revisión y le enviará un acuse de recibo por correo electrónico cuando acabe.
 
 A record of your reviews is kept in the system, so editors can see -- and appreciate -- how many reviews you've done for the journal at all times.
 
-## <a name="complete-user-profile"></a>Complete Your User Profile
+## <a name="complete-user-profile"></a>Completar el perfil de usuario/a
 
 You can fill out more complete information about yourself if you haven't yet. This is a great way to ensure the editors have all the information they need to make great choices for reviewers. Take a look at the [User Profile](user-profile.md) section to learn more.
