@@ -25,22 +25,22 @@ La pestaña Identificadores ofrece un espacio para añadir identificadores de UR
 
 Desde aquí puede añadir notas y ver un registro de todos los acontecimientos asociados con este envío. Solo los usuarios/as editores y administrativos pueden acceder al historial de publicaciones.
 
-### <a name="submission-library"></a>Submission Library
+### <a name="submission-library"></a>Biblioteca de envío
 
-A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files, or guidelines you'd like to share with copyeditors or other assistants.
+Se trata de un repositorio de acceso rápido a archivos relacionados con el envío que se quieren seguir. Este apartado es útil para archivos no específicos de ninguna fase del flujo de trabajo, como por ejemplo contratos firmados, documentos de marketing o directrices que quiera compartir con los correctores o con otros colaboradores.
 
-You can quickly add files from your [Publisher Library](settings.md#workflow-library) by clicking on **View Document Library**.
+Puede añadir archivos rápidamente desde su [Biblioteca editorial](settings.md#workflow-library) haciendo clic en **Ver biblioteca de documentos**.
 
-## <a name="editorial-actions"></a> Editorial Actions
+## <a name="editorial-actions"></a> Acciones editoriales
 
-At the top right of each stage of the workflow, you'll see the editorial actions available to you. These decisions change with each stage. But in most cases, they complete the current stage and forward the submission onto the next stage.
+En la parte derecha de cada fase del flujo de trabajo se le mostrarán las acciones editoriales disponibles. Estas acciones cambian en cada fase, pero en la mayoría de casos sirven para completar la fase actual y mandar el envío a la etapa siguiente.
 
-Read the help guide for each stage to learn more about the editorial actions.
+Lea la ayuda de cada fase para saber más acerca de las acciones editoriales.
 
-## <a name="participants"></a>Participants
+## <a name="participants"></a>Participantes
 
-On the right of each stage of the workflow, you'll find a list of users who have access to this stage. You can add editorial assistants, copyeditors, layout editors or other users you'd like to have access to the current stage.
+En la parte derecha de cada fase del flujo de trabajo, debajo de las acciones editoriales, encontrará una lista de usuarios/as con acceso a esa fase. Puede añadirle asistentes/as editoriales, correctores/as, maquetadores/as o cualquier otro usuario/a al que quiera dar acceso a la fase actual.
 
-*When you add a user, that user will have access to any stages allowed by their user role*. For example, an Editor added to the Participants grid will have access to every stage. But a Copyeditor will only have access to the Copyediting stage.
+*Cuando añada un usuario/a, ese usuario/a tendrá acceso a todas las fases permitidas por su rol de usuario/a*. Por ejemplo, si se añade un editor/a a la lista de participantes, este tendrá acceso a todas las fases, pero en el caso de un corrector/a solo tendrá acceso a la fase de corrección.
 
-*You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review.md), you'll be able to manage the reviewers in a more convenient panel.
+*No es necesario que añada revisores/as al panel de participantes.* Cuando llegue a la [fase de revisión](editorial-workflow/review.md) podrá gestionar los revisores/as desde un panel específico para ello.
