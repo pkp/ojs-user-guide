@@ -1,56 +1,56 @@
-# Issues
+# Números
 
-1. Introduction
-2. [Future Issues](issue-management.md#future-issues)
-3. [Back Issues](issue-management.md#back-issues)
-4. [Edit an Issue](issue-management.md#edit-issue)
+1. Introducción
+2. [Próximos números](issue-management.md#future-issues)
+3. [Números anteriores](issue-management.md#back-issues)
+4. [Editar un número](issue-management.md#edit-issue)
 
-Set up forthcoming issues and manage existing issues from this page.
+Desde esta página puede configurar los próximos números y gestionar los existentes.
 
-Each issue listed on these pages can be expanded using the small arrow on the left to reveal options.
+Se puede expandir la información de cada número listado en esta página mediante la pequeña flecha situada a la izquierda, lo que mostrará las opciones.
 
-**Edit** - [Manage](issue-management.md#edit-issue) the contents and metadata for this issue.
+**Editar** - [Gestión](issue-management.md#edit-issue) de los contenidos y de los metadatos del número.
 
-**View/Preview** - Jump to the issue on your site or see a preview of the issue if it's not yet been published.
+**Previsualizar** - Muestra el número en el sitio web o lo previsualiza si aún no ha sido publicado.
 
-**Publish/Unpublish Issue** - Publishing an issue will make it publicly available on your site.
+**Publicar número** - Publicar un número hará que esté diponible públicamente en su sitio web.
 
-**Delete** - Removing an issue can not be undone.
+**Eliminar** - Eliminar un número no se puede deshacer.
 
-## <a name="future-issues"></a>Future Issues
+## <a name="future-issues"></a>Próximos números
 
-View forthcoming issues and create a new issue from this section.
+Este apartado le permite crear un número nuevo y visualizar los números futuros.
 
-Issues should be created well in advance of their release date so that you can begin to schedule articles for publication. Once you have [scheduled articles](editorial-workflow/production.md#publish) for an issue you will be able to manage the table of contents.
+Los números deberían crearse antes de su fecha de lanzamiento para poder programarles los artículos que se van a publicar. Cuando tenga [artículos programados](editorial-workflow/production.md#publish) para un número podrá gestionar la tabla de contenidos.
 
-## <a name="back-issues"></a>Back Issues
+## <a name="back-issues"></a>Números anteriores
 
-View all published issues in this section.
+Aquí se muestran todos los números publicados.
 
-## <a name="edit-issue"></a>Edit an Issue
+## <a name="edit-issue"></a>Editar un número
 
-Issue details can be edited including the table of contents, publication date, title and volume details. If you're using any public identifiers, like DOI, they can also be edited here.
+Los datos de un número se pueden editar, lo que incluye la tabla de contenidos, la fecha de publicación, el título y los detalles del volumen. Si utiliza algún tipo de identificador público, como el DOI, también se puede editar aquí.
 
-### <a name="edit-issue-toc"></a>Table of Contents
+### <a name="edit-issue-toc"></a>Tabla de contenidos
 
-Re-order articles scheduled for publication in this issue. You can also re-order entire sections, if you want one section to appear above another.
+Desde este apartado puede organizar los artículos programados para su publicación en este número. También puede mover secciones enteras, por si quiere que una sección aparezca antes que otra.
 
-Before an article can appear here, you'll need to [schedule it for publication](editorial-workflow/production.md#publish).
+Antes de que un artículo aparezca aquí deberá [programarlo para su publicación](editorial-workflow/production.md#publish).
 
-### <a name="edit-issue-data"></a>Issue Data
+### <a name="edit-issue-data"></a>Datos del número
 
-Key data such as the publication date, title, volume number and year can be set here. If you don't want to display any volume details on your site, you can deselect the checkboxes which appear here.
+Los datos clave del número, como la fecha de publicación, el título, el número de volumen y el año pueden ajustarse aquí. Si no quiere que se muestre algún detalle del volumen puede desmarcar la casilla correspondiente.
 
-If you'd like, you can also give each issue a description and cover image.
+Si lo desea también puede proporcionar una descripción y una imagen de cubierta para cada número.
 
-### <a name="edit-issue-galley"></a>Issue Galley
+### <a name="edit-issue-galley"></a>Galeradas del número
 
-Some journals may wish to publish a galley of the entire issue alongside the galleys for each individual article. If you have a PDF or other format containing your entire issue's contents, you can add it here.
+Algunas revistas publican una galerada del número completo además de las galeradas individuales de cada artículo. Si este es su caso, puede añadir dicha galerada en formato PDF u otro desde este apartado.
 
-### <a name="edit-issue-identifiers"></a>Identifiers
+### <a name="edit-issue-identifiers"></a>Identificadores
 
-The "Public URL Identifier" is a text slug which is used in the URL for this issue. By default, issues are given a URL based on their numeric ID. But you may want to give them human-readable names, like "50th-anniversary-issue", which creates prettier URLs.
+El "identificador público de la URL" es un texto corto que se utiliza en la URL del número. Los números tienen predefinidas unas URL basadas en sus identificadores númericos, pero estos se pueden cambiar para darles nombres más fáciles de entender, como "volumen-50-aniversario", lo que genera URL más amigables.
 
-If you have additional public ID plugins activated, you will see them here if they support issue public IDs.
+En caso de que tenga módulos de identificación pública adicionales activados los verá aquí si soportan identificadores públicos de número.
 
-The most popular public ID is the [DOI](https://www.doi.org/). If you have configured this plugin to use DOIs for issues, you'll be able to preview and assign a DOI here.
+El identificador público más popular es el [DOI](https://www.doi.org/). Si tiene configurado el módulo para usar DOI en números podrá previsualizar y asignar el DOI en este apartado.
