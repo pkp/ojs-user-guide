@@ -1,13 +1,13 @@
-# Reviewing
+# Revisión
 
-1. Introduction
-2. [Signing Up as a Reviewer](reviewing.md#sign-up)
-3. [Completing a Review](reviewing.md#complete-review)
+1. Introducción
+2. [Registrarse como revisor](reviewing.md#sign-up)
+3. [Completar una revisión](reviewing.md#complete-review)
 4. [Complete Your User Profile](reviewing.md#complete-user-profile)
 
 Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review.
 
-## <a name="sign-up"></a>Signing Up as a Reviewer
+## <a name="sign-up"></a>Registrarse como revisor
 
 When you register as a user with the website, you may be asked to sign up for the reviewer role. If this has been enabled, you can add the reviewer role at any time, even if you've already registered, by going to the [User Profile](user-profile.md) page in the editorial backend.
 
@@ -15,7 +15,7 @@ You'll also be asked to specify your reviewer interests, so that editors can mak
 
 In many cases, you may have already been added into the system as a reviewer. This happens when an editor wants to invite you to review a submission but you're not yet registered in the system.
 
-## <a name="complete-review"></a>Completing a Review
+## <a name="complete-review"></a>Completar una revisión
 
 You can see if you've been assigned any reviews by going to the [Submissions](submissions.md) page in the editorial backend. If you see any submissions in the **My Assigned** area, you can click on the link indicating it's current stage to access the reviewer walk-through.
 
