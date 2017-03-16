@@ -1,44 +1,44 @@
-# Submissions
+# Propuestas
 
-1. Introduction
-2. [Start A New Submission](submissions.md#new-submission)
-3. [My Queue](submissions.md#my-queue)
-4. [All Active](submissions.md#active)
-5. [Archives](submissions.md#archives)
-6. [Tips On Working With Submissions](submissions.md#tips)
+1. Introducción
+2. [Nuevo envío](submissions.md#new-submission)
+3. [Mi lista](submissions.md#my-queue)
+4. [Todos los activos](submissions.md#active)
+5. [Archivos](submissions.md#archives)
+6. [Consejos para trabajar con los envíos](submissions.md#tips)
 
-Access any submissions currently under consideration from the Submissions page.
+Acceda a cualquier envío que se esté considerando desde el apartado Propuestas.
 
-Editorial and administrative users also have access to all published and archived submissions, and quick-access to common types of submissions to help manage their editorial queue.
+Los usuarios/as administrativos y editoriales también tienen acceso a todas las propuestas publicadas y archivadas, y un acceso rápido los tipos más comunes de envíos para ayudarles a gestionar su lista editorial.
 
-## <a name="new-submission"></a>Start A New Submission
+## <a name="new-submission"></a>Nuevo envío
 
-You can start a new submission by clicking the button which appears on the **My Queue** tab.
+Puede iniciar un nuevo envío haciendo clic en el botón que aparece en la pestaña **Mi lista**.
 
-## <a name="my-queue"></a>My Queue
+## <a name="my-queue"></a>Mi lista
 
-This tab provides information about submissions currently assigned in one way or another to you. They'll help you track your day-to-day activities.
+Esta pestaña le ofrece información acerca de los envíos relacionados de una manera u otra con usted en este momento. Esto le ayudará a monitorizar las tareas del día a día.
 
-Editors can view the **Unassigned** panel, which shows new submissions need to have an editor or section editor assigned to them.
+Los editores/as pueden ver el panel **Envíos sin asignar**, que muestra los nuevos envíos que necesitan que se les asignen un editor/a o un editor/a de sección.
 
-Other editorial or administrative staff can view the **My Assigned** panel, which shows any submissions currently assigned to them. You can keep track of what stage your assigned submissions are in.
+El resto de usuarios/as editoriales o administrativos pueden ver el panel **Mis envíos asignados**, que muestra los envíos que tienen actualmente asignados. Aquí se puede monitorizar en qué fase está cada uno de los envíos que se tienen asignados.
 
-All users can view the **My Authored** panel, which includes only your own submissions.
+Todos los usuarios/as pueden ver el panel **Mis envíos de autoría**, que únicamente incluye los propios envíos.
 
-## <a name="active"></a>Active
+## <a name="active"></a>Todos los activos
 
-Find any submission in the system that hasn't been published or declined. Only editorial and administrative users have access to this tab.
+En este apartado encontrará cualquier envío que esté en el sistema y que aún no haya sido publicado o rechazado. Solo los usuarios/as administrativos y editoriales tienen acceso a esta pestaña.
 
-## <a name="archives"></a>Archives
+## <a name="archives"></a>Archivos
 
-Find submissions that have been published or declined. Any submissions no longer undergoing the editorial workflow can be found here.
+En este apartado encontrará envíos que ya han sido publicados o rechazados. Cualquier envío que no continúe el flujo de trabajo editorial estará aquí.
 
-## <a name="tips"></a>Tips On Working With Submissions
+## <a name="tips"></a>Consejos para trabajar con los envíos
 
-### Searching Large Lists
+### Buscar en listas extensas
 
-Each list of submissions has a search panel which will allow you to filter the list. You can view submissions by stage, or search for specific titles or authors.
+Cada panel de envíos tiene un buscador que le permitirá filtrar el listado de envíos por fase, título o autor.
 
-### Submission History
+### Historial de envíos
 
-From each of these lists, you can view notes and a history of editorial actions that have been taken. Simply expand the menu for a submission by clicking the small toggle on the left, then click **More Information**.
+Se pueden visualizar las notas y el historial de las acciones editoriales tomadas en cada una de estas listas simplemente expandiendo el menú de un envío mediante el pequeño botón de la izquierda y luego haciendo clic en **Más información**.
