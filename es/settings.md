@@ -1,79 +1,81 @@
-# Settings
+# Preferencias
 
-1. Introduction
-2. [Journal](settings.md#context)
-3. [Website](settings.md#website)
-4. [Workflow](settings.md#workflow)
-5. [Distribution](settings.md#distribution)
+1. Introducción
+2. [Revista](settings.md#context)
+3. [Sitio web](settings.md#website)
+4. [Flujo de trabajo](settings.md#workflow)
+5. [Distribución](settings.md#distribution)
 
-Configure your site to suit your needs.
+Desde este apartado puede configurar su sitio web para que se ajuste a sus necesidades.
 
-You can access the Settings pages by clicking on the **Settings** link in the main navigation menu on the left, then selecting the specific settings page you'd like.
+Para acceder a los ajustes haga clic en el enlace **Preferencias** del menú de navegación principal de la izquierda y luego elija los ajustes específicos que desee editar.
 
-*Only Journal Managers and Administrators can access and edit the settings.*
+*Solo los gestores/as de la revista y los administradores/as pueden acceder y modificar las preferencias.*
 
-There's a lot to be uncovered here. While we're improving this documentation, we've provided a quick overview of what each settings page is for, and detailed break-outs for the trickiest options.
+Aún falta mucha información sobre este apartado, pero mientras mejoramos la documentación le ofrecemos una breve visión general de para qué sirve cada apartado de esta sección e información más detallada de las opciones más complejas.
 
-## <a name="context"></a>Journal
+## <a name="context"></a>Revista
 
-Enter basic details about the journal, including the journal name, a short description, the masthead, contact information, and the sections the journal publishes.
+Este apartado le permite detallar aspectos básicos de la revista, como el título, una breve descripción, la cabecera, la información de contacto y las secciones de la revista.
 
-**Sections** allow journals to publish submissions to different sections of the journal, such as Reviews and Articles.
+La pestaña **Secciones de la revista** posibilita que las revistas categoricen los envíos en diferentes secciones al publicar, como por ejemplo Reseñas y Artículos.
 
-## <a name="website"></a>Website
+## <a name="website"></a>Sitio web
 
-Configure the appearance of your reader-facing website, including logo upload, homepage configuration, sidebar management and more.
+Desde aquí puede ajustar el aspecto de su sitio web para el usuario/a, lo que incluye el logotipo, la configuración de la página de inicio, la gestión del menú lateral, etc.
 
-You can also set up your site's languages, archiving settings, install and enable plugins, send out announcements and draft key information blocks for visitors.
+También puede configurar el idioma y los ajustes de archivo, instalar y activar módulos, enviar anuncios y redactar bloques con información clave para los visitantes.
 
-## <a name="workflow"></a>Workflow
+## <a name="workflow"></a>Flujo de trabajo
 
-Configure all aspects of the [Editorial Workflow](editorial-workflow.md), including file management, submission guidelines and requirements, peer review deadlines and guidelines, email notifications and much more.
+En este apartado puede configurar todos los aspectos del [flujo de trabajo editorial](editorial-workflow.md), lo que incluye la gestión de archivos, las directrices y los requisitos de envío, las directrices y las fechas límite de las revisiones por pares, las notificaciones por correo electrónico, etc.
 
-Some of the key settings are broken down in detail below.
+Algunos de estos ajustes clave están desglosados en detalle a continuación.
 
-### <a name="workflow-components"></a>Components
+### <a name="workflow-components"></a>Componentes
 
-Your publication files may consist of a number of components, including a article text, research materials, data sets and more.
+Los archivos que se publican están formados por una serie de componentes, entre ellos el texto del artículo, los materiales de investigación, el conjunto de datos, etc.
 
-When authors and editors upload files to a submission, they will be asked to identify the component of this file.
+Cuando los autores/as y editores/as carguen archivos a un envío se les pedirá que identifiquen los componentes de ese archivo.
 
-The Components tab provides a list of common components by default. You are encouraged to add or edit components to suit the particular needs of your journal.
+La pestaña Componentes proporciona una lista de componentes comunes por defecto. Le animamos a que añada o edite componentes para ajustarlos a las necesidades específicas de su revista.
 
-Delete those that aren't appropriate for your journal. This will reduce the options faced by authors struggling through their first submission.
+Elimine aquellos que no sean adecuados para su revista, esto reducirá las opciones que se les muestran a los autores/as que intentan  hacer su primer envío.
 
-### <a name="workflow-submission"></a>Submission
-Set your submission guidelines here. You can also modify the submission checklist, which all authors must agree to for their submission.
+### <a name="workflow-submission"></a>Propuesta
 
-Submission Metadata allows you to select which types of metadata you wish to track in your journal, and which metadata fields you wish to present to authors upon their submission.
+Configure las directrices de envío en este apartado. También puede modificar la lista de comprobación para la preparación de envíos, que todos los autores deben aceptar para continuar con sus propuestas.
 
-### <a name="workflow-review"></a>Review
-From here, you can set all of your review policies and procedures, including deadlines, notifications, guidelines, etc.
+Los metadatos de envío le permiten seleccionar qué tipo de metadatos quiere monitorizar en su revista y cuáles desea presentar a los autores durante el proceso de envío.
 
-### <a name="workflow-library"></a>Publisher Library
+### <a name="workflow-review"></a>Revisión
 
-The Publisher Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
+En esta pestaña puede ajustar todos los procedimientos y políticas de revisión, incluyendo fechas límite, notificaciones, directrices, etc.
 
-Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](editorial-workflow.md#submission-library) to be shared with authors or assistants.
+### <a name="workflow-library"></a>Biblioteca editorial
 
-### <a name="workflow-emails"></a>Emails
+La Biblioteca editorial ofrece un repositorio de archivos para almacenar y compartir rápidamente archivos comunes, como directrices de escritura, autorizaciones y contratos de autor/a, y materiales de marketing.
 
-OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow.md), as well as other actions such as registration and submission acknowledgement.
+Los elementos almacenados en la Biblioteca editorial pueden ser recuperados rápidamente y añadidos a la [Biblioteca de envío](editorial-workflow.md#submission-library) para compartirlos con autores/as o asistentes/as.
 
-The settings in this section allow you to edit the signature attached to each email, as well as change the default messages sent for each type of email.
+### <a name="workflow-emails"></a>Correos electrónicos
 
-If you're unsure what a particular email is for, spin out it's context menu by clicking the toggle to the left of the email, and then click **Edit Email**. Most emails include a short description of when they're sent.
+OJS envía una serie de correos electrónicos a lo largo de las diferentes fases del [Flujo de trabajo editorial](editorial-workflow.md), así como después de otras acciones como el registro y el acuse de recibo del envío.
 
-*If you want to restore an email template to it's default, use the __Reset__ link to restore the default message.*
+Los ajustes de esta sección le permiten editar la firma adjunta en cada correo electrónico y cambiar los mensajes predefinidos de cada tipo de correo electrónico.
 
-## <a name="distribution"></a>Distribution
+Si no está seguro de para qué sirve algún correo electrónico en particular, despliegue su menú contextual haciendo clic en el botón de la izquierda y luego haga clic en **Editar correo**. La mayoría de correos electrónicos incluyen una breve descripción de para qué sirven.
 
-Configure settings related to your search engine indexing, any payments if you're taking them, and permissions and licensing details for publications.
+*Si desea restaurar una plantilla de correo electrónico, use el botón __Restaurar__ para devolverla a su estado original.*
 
-In the Permissions tab, you'll find settings for asserting copyright and author licensing.
+## <a name="distribution"></a>Distribución
 
-### <a name="copyright-v-license"></a> What's the difference between Copyright and a License?
+Aquí puede configurar ajustes relacionados con la indexación en buscadores, con pagos (si los está aplicando), y con permisos y licencias para las publicaciones.
 
-The copyright identifies the author or owner of copyright for a published work. For example, Copyright (c) 2016 by Jane Smith.
+En la pestaña permisos encontrará ajustes para confirmar los derechos de autor/a y las licencias.
 
-The license attached to a work will determine the usage rights for the published work. For example, CC-By 4.0 allows the work to be copied, redistributed and adapted for any purpose, even commercially, as long as attribution is given to the copyright holder.
+### <a name="copyright-v-license"></a> ¿Cuál es la diferencia entre derechos de autor/a y licencias?
+
+Los derechos de autor/a identifican al autor/a o al propietario/a de los derechos de autor/a de un trabajo publicado. Por ejemplo, Copyright (c) 2016 by Jane Smith.
+
+La licencia adjunta a una obra determina los derechos de uso de un trabajo publicado. Por ejemplo, la licencia CC-By 4.0 permite que la obra sea copiada, redistribuida y adaptada para cualquier finalidad, incluso comercial, siempre que la autoría se atribuya al propietario/a de los derechos de autor/a.
