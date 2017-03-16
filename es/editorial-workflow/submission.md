@@ -1,22 +1,22 @@
-# Submission Stage
+# Fase de envío
 
-1. Introduction
-2. [Editorial Actions](submission.md#editorial-actions)
+1. Introducción
+2. [Acciones editoriales](submission.md#editorial-actions)
 
-During the Submission stage, the editor checks the submission files to decide whether it should begin the peer review process.
+Durante la fase de envío, el editor/a comprueba los archivos enviados para decidir si deben empezar el proceso de revisión por pares.
 
-The editor can assign a sub-editor to assist by using the **Participants** panel or open up a discussion with the author to answer any questions or concerns in the **Pre-Review Discussions** panel.
+El editor/a puede nombrar un subeditor/a para que le ayude en el panel **Participantes** o comenzar una discusión con el autor/a para responder cualquier pregunta o duda en el panel **Discusiones previas a la revisión**.
 
-## <a name="editorial-actions"></a>Editorial Actions
+## <a name="editorial-actions"></a>Acciones editoriales
 
-### Send to Review
+### Enviar a revisión
 
-Send the submission on to the [Review stage](review.md), where it will be reviewed by peer reviewers.
+Manda el envío a la [fase de revisión](review.md), en la cual será revisado por los revisores por pares.
 
-### Send to Copyediting
+### Aceptar envío
 
-Send the submission forward to the [Copyediting stage](copyediting.md) if you'd like to skip the peer review process completely.
+Manda el envío a la [fase de corrección](copyediting.md) si desea omitir totalmente el proceso de revisión por pares.
 
-### Decline Submission
+### No publicable
 
-Remove the submission from consideration and archive it.
+Elimina el envío y lo archiva.
