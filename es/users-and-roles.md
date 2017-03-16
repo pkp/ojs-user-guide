@@ -1,38 +1,38 @@
-# Users and Roles
+# Usuarios/as y roles
 
-1. Introduction
-2. [Users](users-users)
+1. Introducción
+2. [Usuarios/as](users-users)
 3. [Roles](users-roles)
-4. [Site Access](users-site-access)
+4. [Opciones de acceso al sitio](users-site-access)
 
-Manager your journal's users, assign them to roles and create or edit existing roles.
+En este apartado puede gestionar los usuarios/as de su revista, asignarles roles y crear o editar roles existentes.
 
-## <a name="users-users"></a> Users
+## <a name="users-users"></a> Usuarios/as
 
-Journal Managers and Administrators can view a list of all users in the journal. You can add users, disable a user, send them email, edit their profile or delete them completely.
+Los gestores/as de la revista y los administradores/as pueden ver una lista con todos los usuarios/as de la revista. Se pueden añadir y deshabilitar usuarios/as, enviarles un correo electrónico, editar su perfil o eliminarlos completamente.
 
-The easiest way to find a user is to use the search button, which will allow you to search by name or role.
+La forma más fácil de encontrar un usuario/a es a través del botón de búsqueda, que le permite buscar filtrando por nombre o por rol.
 
-*To find a list of all authors, use the Search feature, leave the search field empty and select Author from the dropdown menu. Then click the Search button.*
+*Para encontrar una lista de todos los autores/as utilice la función de búsqueda, deje vacío el campo de búsqueda y seleccione Autor en el menú desplegable. Entonces haga clic en el botón Buscar.*
 
 ## <a name="users-roles"></a> Roles
 
-User roles govern who can access what in the editorial worfklow.
+Los roles de usuario/a definen a qué áreas del flujo de trabajo editorial puede acceder cada usuario/a.
 
-A flexible user role system is provided so that you can tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
+El sistema de roles de usuario/a proporcionado es flexible para que así pueda adaptar los roles a sus necesidades. En el apartado hay una lista de roles predefinidos creados por el sistema.
 
-There are many roles and most journals won't need all of them. Feel free to delete roles you won't use in your workflow.
+Hay muchos roles y la mayoría de revistas no los necesitarán todos, así que no dude en eliminar roles que no use en su flujo de trabajo.
 
-You can edit or remove existing roles, or add new roles. All roles are given one of a few permission levels which allow them to perform various actions in the system:
+Puede editar o eliminar los roles existentes, o añadir otros nuevos. Todos los roles tienen un nivel de permiso de entre los pocos niveles existentes, lo que les permitirá realizar diversas acciones en el sistema:
 
-- *Authors* can make new submissions.
-- *Reviewers* appear when you're assigning reviews in the [Editorial Workflow](editorial-workflow.md) and have access to that stage when they're assigned.
-- *Readers*, like all other user types, can access the reader-facing website. All users have this capability.
-- *Journal Managers* have access to the entire [Editorial Workflow](editorial-workflow.md), as well as most of the settings.
-- *Series Editors* and *Journal Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow.md) assigned to their role (see below).
+- *Autores/as* pueden realizar nuevos envíos.
+- *Revisores/as* aparecen cuando se asignan revisiones en el [Flujo de trabajo editorial](editorial-workflow.md) y tienen acceso a esa fase cuando son asignados.
+- *Lectores/as* pueden acceder a la parte pública del sitio web. Todos los usuarios/as tienen esta capacidad.
+- *Gestores/as de la revista* tienen acceso total al [Flujo de trabajo editorial](editorial-workflow.md), así como a la mayoría de los ajustes.
+- *Editores/as de sección* y *Colaboradores/as editoriales* pueden acceder únicamente a aquellas partes del [Flujo de trabajo editorial](editorial-workflow.md) asignadas a su rol (vea a continuación).
 
-In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow.md). This is useful for professional assistants such as copyeditors or layout managers who may assist during one or two stages of the workflow.
+Además de los niveles de permiso, también puede restringir algunos roles a fases específicas del [Flujo de trabajo editorial](editorial-workflow.md). Esto es útil para colaboradores/as profesionales, como correctores/as o maquetadores/as, los cuales solo van a colaborar en una o dos fases del flujo de trabajo.
 
-## <a name="users-site-access"></a> Site Access Options
+## <a name="users-site-access"></a> Opciones de acceso al sitio
 
-Under the Site Access tab, you can turn off public user registration, or event limit access to the reader-facing site to registered users.
+En la pestaña Opciones de acceso al sitio puede desactivar el registro público de usuarios/as o incluso limitar el acceso a la parte pública del sitio web de los usuarios/as registrados.
