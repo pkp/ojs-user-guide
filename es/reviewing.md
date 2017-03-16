@@ -43,8 +43,8 @@ Ha completado la revisión. Gracias por ayudar a garantizar la calidad de las pu
 
 Un editor/a comprobará su revisión y le enviará un acuse de recibo por correo electrónico cuando acabe.
 
-A record of your reviews is kept in the system, so editors can see -- and appreciate -- how many reviews you've done for the journal at all times.
+En el sistema se guarda un registro de sus revisiones, así los editores/as pueden consultar —y valorar— cuántas revisiones ha hecho para la revista en total.
 
 ## <a name="complete-user-profile"></a>Completar el perfil de usuario/a
 
-You can fill out more complete information about yourself if you haven't yet. This is a great way to ensure the editors have all the information they need to make great choices for reviewers. Take a look at the [User Profile](user-profile.md) section to learn more.
+Aquí puede completar la información sobre usted si no lo ha hecho aún. Esta es una buena manera de ayudar a los editores/as a que tengan toda la información que necesitan para tomar decisiones acertadas en lo que respecta a los revisores/as. Consulte la sección [Perfil de usuario/a](user-profile.md) para saber más.
