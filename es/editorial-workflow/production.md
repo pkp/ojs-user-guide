@@ -12,22 +12,22 @@ La fase de producción ofrece tres paneles para crear archivos listos para su pu
 
 ### <a name="production-ready"></a>Archivos listos para la producción
 
-All files selected by the editor for production will appear here. These typically include files that have been prepared during the [Copyediting stage](copyediting.md). Production assistants will use these files to generate the final publication formats.
+Todos los archivos seleccionados por el editor/a para la producción aparecerán aquí. Entre ellos normalmente se incluyen los archivos preparados durante la [fase de corrección](copyediting.md). Estos archivos son los que usarán los asistentes/as de producción para generar los formatos de publicación final.
 
 ### <a name="production-discussions"></a> Discusiones de producción
 
-Editors and production assistants can use this panel to initiate conversations, if there are any details that need to be clarified before the final publication files can be created.
+Los editores/as y los asistentes/as de producción pueden usar este panel para iniciar conversaciones en caso de que haya algún detalle que necesite ser aclarado antes de crear los archivos de publicación definitivos.
 
 ### <a name="publication-formats"></a>Galeradas
 
-Editors and production assistants can create galleys and upload a file for each galley. These typically represent separate publication formats, such as PDF and HTML.
+Los editores/as y los asistentes/as de producción pueden crear galeradas y subir un archivo para cada una de ellas. Esto habitualmente significa formatos de publicación diferentes, como PDF y HTML.
 
 ### <a name="participants"></a>Participantes
 
-Editors can add production assistants or layout editors from this panel. [Learn more](../editorial-workflow.md#participants).
+Los editores/as pueden añadir asistentes/as editoriales o maquetadores/as desde este panel. [Saber más](../editorial-workflow.md#participants).
 
 ## <a name="publish"></a>Publicar el envío
 
-Once you are ready to publish the submission, you must schedule it for publication in an issue.
+Cuando el envío esté listo deberá programarlo para publicarlo en un número.
 
-The **Schedule for Publication** button will allow you to select an forthcoming issue, set a publication date, attach licensing permissions and add page numbers if desired.
+El botón **Programar para publicación** le permite seleccionar uno de los próximos números, ajustar una fecha de publicación, adjuntar permisos de licencia y añadir los números de página, si lo desea.
