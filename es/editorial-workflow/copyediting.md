@@ -1,8 +1,8 @@
-# Copyediting
+# Edición
 
-1. Introduction
-2. [Orientation](copyediting.md#orientation)
-3. [Editorial Actions](copyediting.md#editorial-actions)
+1. Introducción
+2. [Orientaciones](copyediting.md#orientation)
+3. [Acciones editoriales](copyediting.md#editorial-actions)
 
 During the Copyediting stage, the editor assigns a copyeditor to edit the submission files.
 
@@ -12,7 +12,7 @@ This is the last stage before you generate publication-ready formats such as PDF
 
 Add copyeditors from the [participants panel](../editorial-workflow.md#participants).
 
-## <a name="orientation"></a>Orientation
+## <a name="orientation"></a>Orientaciones
 
 The Copyediting stage provides three panels for managing the copyediting process.
 
@@ -34,7 +34,7 @@ Copyeditors can upload final edited files to this panel. These should be complet
 
 Editors can add copyeditors from this panel. [Learn more](../editorial-workflow.md#participants).
 
-## <a name="editorial-actions"></a>Editorial Actions
+## <a name="editorial-actions"></a>Acciones editoriales
 
 There's only one editorial decision available to editors at this stage. If you decide to decline a submission at this late stage, you can do so by going back to a previous stage.
 
