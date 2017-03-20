@@ -35,13 +35,13 @@ Los editores/as y los subeditores/as pueden añadir usuarios/as adicionales a es
 El editor/a puede llevar a cabo diversas acciones editoriales durante cada ronda del proceso de revisión. Cada una de estas decisiones será notificada automáticamente al autor/a por correo electrónico.
 
 ### <a name="request-revisions"></a>Solicitar revisiones
-The editor can request revisions from the author without opening a new review round. This is common when minor revisions are required which the editor can approve without re-submitting for  review.
+El editor/a puede requerir revisiones al autor/a sin tener que iniciar una nueva ronda de revisiones. Esto es lo habitual cuando solo son necesarias revisiones menores, las cuales puede aprobar el mismo editor/a sin tener que volver a enviar a revisión.
 
 ### <a name="new-review"></a>Reevaluar
-The editor can request revisions from the author which will need to go through another round of review. Once revisions are received, a new review round will need to be created at the top of the review stage.
+El editor/a puede solicitar revisiones al autor/a que necesiten pasar por otra ronda de revisiones. Cuando así sea, será necesario crear una nueva ronda de revisión desde la pestaña superior de la fase de revisión.
 
 ### <a name="copyediting"></a>Aceptar envío
-The editor can initiate the [Copyediting stage](copyediting.md) once it has passed the required review stage.
+El editor/a puede empezar la [fase de edición](copyediting.md) cuando el envío haya superado la fase de revisión solicitada.
 
 ### <a name="decline"></a>No publicable
-The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.
+El editor/a puede rechazar el envío si este no supera la revisión. El envío se eliminará del flujo de trabajo editorial y se mandará al apartado Archivos de la revista.
