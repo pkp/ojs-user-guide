@@ -4,40 +4,40 @@
 2. [Orientaciones](copyediting.md#orientation)
 3. [Acciones editoriales](copyediting.md#editorial-actions)
 
-During the Copyediting stage, the editor assigns a copyeditor to edit the submission files.
+Durante la fase de edición, el editor/a asigna un corrector/a para revisar los documentos enviados.
 
-The copyeditor, who is often a professional, will align the writing style with your editorial guidelines, improve the quality and clarity of the writing, fix any grammar, and get the submission ready for conversion to a [publication format](production.md).
+El corrector/a ajustará el estilo de escritura a las normas editoriales, mejorará la calidad y la claridad del texto, y corregirá cualquier error gramatical, lo que dejará el envío listo para su conversión a un [formato de publicación](production.md).
 
-This is the last stage before you generate publication-ready formats such as PDFs and ePubs. If you do not have the resources to hire a professional copyeditor, use this stage to take a close look at the material, check any facts, correct any errors and communicate with the author to clarify any points of confusion.
+Esta es la última fase antes de generar los formatos listos para la publicación, como PDF y e ePub. Si no tiene los recursos necesarios para contratar los servicios de un corrector/a profesional, utilice esta fase para revisar detalladamente el material, comprobar datos, corregir errores y comunicarse con el autor/a para aclarar cualquier aspecto confuso.
 
-Add copyeditors from the [participants panel](../editorial-workflow.md#participants).
+Los correctores/as se añaden desde el [panel de participantes](../editorial-workflow.md#participants).
 
 ## <a name="orientation"></a>Orientaciones
 
-The Copyediting stage provides three panels for managing the copyediting process.
+La fase de edición proporciona tres paneles para gestionar este proceso.
 
-### <a name="draft-files"></a>Draft Files
+### <a name="draft-files"></a>Borradores
 
-All files selected by the editor for copyediting. These are typically files that have been revised as a result of the review process.
+Se incluyen todos los archivos seleccionados por el editor/a para su corrección. Estos archivos normalmente son los resultantes de haber superado la fase de revisión.
 
-### <a name="copyediting-discussions"></a>Copyediting Discussions
+### <a name="copyediting-discussions"></a>Discusiones de corrección
 
-Editors and copyeditors can use this panel to initiate discussions with the author(s), or communicate between themselves. This can be used to clarify points of confusion, request further information from the author, or request approval for any changes.
+Editores/as y correctores/as pueden usar este panel para iniciar discusiones con el autor/a(es/as) o para comunicarse entre ellos/as. De esta manera se pueden aclarar aspectos confusos, solicitar más información al autor/a o pedir aprobación para algún cambio.
 
-### <a name="copyedited"></a>Copyedited
+### <a name="copyedited"></a>Corregido
 
-Copyeditors can upload final edited files to this panel. These should be completed files that are ready to be [sent to production](copyediting.md#editorial-actions).
+Los correctores/as pueden subir los documentos con su revisión final en este panel. Estos documentos deberían estar completados y listos para [enviar a producción](copyediting.md#editorial-actions).
 
-*Editors can upload files here, too.*
+*Los editores/as también pueden subir archivos a este apartado.*
 
-### <a name="participants"></a>Participants
+### <a name="participants"></a>Participantes
 
-Editors can add copyeditors from this panel. [Learn more](../editorial-workflow.md#participants).
+Los editores/as pueden añadir correctores/as desde este panel. [Saber más](../editorial-workflow.md#participants).
 
 ## <a name="editorial-actions"></a>Acciones editoriales
 
-There's only one editorial decision available to editors at this stage. If you decide to decline a submission at this late stage, you can do so by going back to a previous stage.
+Los editores/as solo tienen una acción editorial disponible en esta fase. No es posible rechazar un envío en esta avanzada fase, para ello se debería volver a la fase previa.
 
-### <a name="production"></a>Send to Production
+### <a name="production"></a>Enviar a producción
 
-The editor can send the submission to the [Production stage](production.md) when final, copyedited files are ready. Any files in the [Copyedited](copyediting.md#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
+El editor/a puede mandar el envío a la [fase de producción](production.md) cuando los archivos estén corregidos y completados. Cualquier archivo en el panel [Corregido](copyediting.md#copyedited) avanzará automáticamente a la fase de producción, a menos que el editor/a decida no enviarlo.
