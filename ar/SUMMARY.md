@@ -1,4 +1,4 @@
-﻿# Summary
+﻿# الخلاصة
 
 * [مقدمة](README.md)
 * [الملف الشخصي للمستخدم](user-profile.md)
