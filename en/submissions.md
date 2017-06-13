@@ -27,7 +27,7 @@ Journal Managers can view any new submissions which have not yet been assigned a
 
 ## <a name="active"></a>Active
 
-Find any submissions in the system that havn't been published or declined. Only editorial and administrative users have access to this tab.
+Find any submissions in the system that haven't been published or declined. Only editorial and administrative users have access to this tab.
 
 ## <a name="archives"></a>Archives
 
