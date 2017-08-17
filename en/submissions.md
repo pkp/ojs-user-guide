@@ -5,7 +5,7 @@
 3. [My Queue](submissions.md#my-queue)
 4. [All Active](submissions.md#active)
 5. [Archives](submissions.md#archives)
-6. [Tips On Working With Submissions](submissions.md#tips)
+6. [Find Submissions Quickly](submissions.md#find-quickly)
 
 Access any submissions currently under consideration from the Submissions page.
 
@@ -13,32 +13,32 @@ Editorial and administrative users also have access to all published and archive
 
 ## <a name="new-submission"></a>Start A New Submission
 
-You can start a new submission by clicking the button which appears on the **My Queue** tab.
+You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists.
 
 ## <a name="my-queue"></a>My Queue
 
-This tab provides information about submissions currently assigned in one way or another to you. They'll help you track your day-to-day activities.
+This tab provides information about submissions currently assigned to you. Use this tab to keep up with your day-to-day activities.
 
-Editors can view the **Unassigned** panel, which shows new submissions need to have an editor or section editor assigned to them.
+Editors will see notices when review assignments are overdue. Reviewers can track the due dates for their assignments. And authors can keep track of what stage their submissions are in.
 
-Other editorial or administrative staff can view the **My Assigned** panel, which shows any submissions currently assigned to them. You can keep track of what stage your assigned submissions are in.
+## <a name="unassigned"></a>Unassigned
 
-All users can view the **My Authored** panel, which includes only your own submissions.
+Journal Managers can view any new submissions which have not yet been assigned an editor or section editor. Use this tab to ensure each submission has an editor assigned to manage the workflow.
 
 ## <a name="active"></a>Active
 
-Find any submission in the system that hasn't been published or declined. Only editorial and administrative users have access to this tab.
+Find any submissions in the system that haven't been published or declined. Only editorial and administrative users have access to this tab.
 
 ## <a name="archives"></a>Archives
 
 Find submissions that have been published or declined. Any submissions no longer undergoing the editorial workflow can be found here.
 
-## <a name="tips"></a>Tips On Working With Submissions
+## <a name="find-quickly"></a>Find Submissions Quickly
 
 ### Searching Large Lists
 
-Each list of submissions has a search panel which will allow you to filter the list. You can view submissions by stage, or search for specific titles or authors.
+Use the search panel above the list to locate submissions in a large list. You can find submissions by title, author, and ID number.
 
-### Submission History
+### Filtering Large Lists
 
-From each of these lists, you can view notes and a history of editorial actions that have been taken. Simply expand the menu for a submission by clicking the small toggle on the left, then click **More Information**.
+Click the **Filter** button to expand a set of search filters. You can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, or those submitted to a specific section.
