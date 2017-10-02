@@ -26,6 +26,14 @@ Configure the appearance of your reader-facing website, including logo upload, h
 
 You can also set up your site's languages, archiving settings, install and enable plugins, send out announcements and draft key information blocks for visitors.
 
+### <a name="website-nav-menus"></a>Navigation Menus
+
+You can edit the navigation menus on your reader-facing website. You can add and remove items, and re-order them. You can even create custom pages on your site or link to another website.
+
+Some menu item types will only be displayed under certain conditions. For example, the Login menu item type will link to your login page, but it will only appear in the menu when your website visitor is logged out. Similarly, the Logout menu item type will only appear when a website visitor is logged out.
+
+When you assign a Menu Item with display conditions to a Menu, you will see an icon: <span class="fa fa-eye-slash"></span>. You can click that icon to learn more about when it will be displayed or hidden.
+
 ## <a name="workflow"></a>Workflow
 
 Configure all aspects of the [Editorial Workflow](editorial-workflow.md), including file management, submission guidelines and requirements, peer review deadlines and guidelines, email notifications and much more.
