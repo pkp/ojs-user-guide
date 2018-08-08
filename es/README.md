@@ -1,4 +1,4 @@
-#Manual de usuario de OJS 3.0
+# Manual de usuario de OJS 3.0
 
 Esta guía le ayudará a publicar números y revistas con Open Journal Systems.
 
