@@ -15,7 +15,7 @@ Se puede expandir la información de cada número listado en esta página median
 
 **Publicar número** - Publicar un número hará que esté diponible públicamente en su sitio web.
 
-**Eliminar** - Eliminar un número no se puede deshacer.
+**Eliminar** - Eliminar un número; esta acción no se puede deshacer.
 
 ## <a name="future-issues"></a>Próximos números
 
@@ -49,7 +49,7 @@ Algunas revistas publican una galerada del número completo además de las galer
 
 ### <a name="edit-issue-identifiers"></a>Identificadores
 
-El "identificador público de la URL" es un texto corto que se utiliza en la URL del número. Los números tienen predefinidas unas URL basadas en sus identificadores númericos, pero estos se pueden cambiar para darles nombres más fáciles de entender, como "volumen-50-aniversario", lo que genera URL más amigables.
+El "identificador público de la URL" es un texto corto que se utiliza en la URL del número. Los números tienen predefinidas unas URL basadas en sus identificadores numéricos, pero estos se pueden cambiar para darles nombres más fáciles de entender, como "volumen-50-aniversario", lo que genera URL más amigables.
 
 En caso de que tenga módulos de identificación pública adicionales activados los verá aquí si soportan identificadores públicos de número.
 
