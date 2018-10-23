@@ -6,7 +6,7 @@ Proporciona un resumen introductorio para cada etapa del flujo de trabajo, desde
 
 Los enlaces **Ayuda** de la aplicación abren un panel de ayuda con la información más útil para cada sección.
 
-Si desea información más detallada acerca de este software puede consultar el manual [Learning OJS 3.0](https://www.gitbook.com/book/pkp/ojs3/details).
+Si desea información más detallada acerca de este software puede consultar el manual [Learning OJS 3.0](https://docs.pkp.sfu.ca/learning-ojs/).
 
 --
 
