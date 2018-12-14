@@ -1,8 +1,8 @@
 # Review Stages
 
 1. Introduction
-2. [Orientation](review.md#orientation)
-3. [Editorial Actions](review.md#editorial-actions)
+2. [Orientation](review#orientation)
+3. [Editorial Actions](review#editorial-actions)
 
 During the Review stage, the editor assigns reviewers to the submission.
 
@@ -29,7 +29,7 @@ Editors and sub-editors can initiate private conversations among themselves or w
 The review discussions are not particular to any one round and will carry over to subsequent rounds if a new review round is initiated.
 
 ### <a name="participants"></a>Participants
-Editors and sub-editors can add additional users to this stage to assist them in managing the review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers. [Learn more](../editorial-workflow.md#participants).
+Editors and sub-editors can add additional users to this stage to assist them in managing the review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers. [Learn more](../editorial-workflow#participants).
 
 ## <a name="editorial-actions"></a>Editorial Actions
 The editor can make one of several editorial actions during each round of the review stage. Each of these decisions automatically notifies the author by email.
@@ -41,7 +41,7 @@ The editor can request revisions from the author without opening a new review ro
 The editor can request revisions from the author which will need to go through another round of review. Once revisions are received, a new review round will need to be created at the top of the review stage.
 
 ### <a name="copyediting"></a>Send to Copyediting
-The editor can initiate the [Copyediting stage](copyediting.md) once it has passed the required review stage.
+The editor can initiate the [Copyediting stage](copyediting) once it has passed the required review stage.
 
 ### <a name="decline"></a>Decline Submission
 The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.

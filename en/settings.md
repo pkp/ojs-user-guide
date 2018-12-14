@@ -1,10 +1,10 @@
 # Settings
 
 1. Introduction
-2. [Journal](settings.md#context)
-3. [Website](settings.md#website)
-4. [Workflow](settings.md#workflow)
-5. [Distribution](settings.md#distribution)
+2. [Journal](settings#context)
+3. [Website](settings#website)
+4. [Workflow](settings#workflow)
+5. [Distribution](settings#distribution)
 
 Configure your site to suit your needs.
 
@@ -36,37 +36,73 @@ When you assign a Menu Item with display conditions to a Menu, you will see an i
 
 ## <a name="workflow"></a>Workflow
 
-Configure all aspects of the [Editorial Workflow](editorial-workflow.md), including file management, submission guidelines and requirements, peer review deadlines and guidelines, email notifications and much more.
+Configure all aspects of the [Editorial Workflow](editorial-workflow), including file management, submission guidelines and requirements, peer review deadlines and guidelines, email notifications and much more.
 
-Some of the key settings are broken down in detail below.
+### <a name="workflow-submission"></a>Submission
 
-### <a name="workflow-components"></a>Components
+Set submission requirements, provide author guidelines, configure your submission file types and more.
 
-Your publication files may consist of a number of components, including a article text, research materials, data sets and more.
+### <a name="workflow-submission-metadata"></a>Metadata
 
-When authors and editors upload files to a submission, they will be asked to identify the component of this file.
+Decide which types of metadata, such as keywords and references, your journal will support.
 
-The Components tab provides a list of common components by default. You are encouraged to add or edit components to suit the particular needs of your journal.
+You can also determine whether or not the author should be required to provide each type of metadata during submission, or whether this information should be added by editors.
+
+### <a name="workflow-submission-components"></a>Components
+
+Your publication files may consist of a number of components, including the main article text, research materials, data sets and more.
+
+When authors and editors upload files to a submission, they will be asked to identify the component of this file. You are encouraged to add or edit components to suit the particular needs of your journal.
 
 Delete those that aren't appropriate for your journal. This will reduce the options faced by authors struggling through their first submission.
 
-### <a name="workflow-submission"></a>Submission
-Set your submission guidelines here. You can also modify the submission checklist, which all authors must agree to for their submission.
+### <a name="workflow-submission-checklist"></a>Checklist
 
-Submission Metadata allows you to select which types of metadata you wish to track in your journal, and which metadata fields you wish to present to authors upon their submission.
+Provide authors with a checklist of tasks they should complete before completing their submission. This is a good place to indicate requirements for referencing, font size, line spacing, document format and more.
 
-### <a name="workflow-review"></a>Review
-From here, you can set all of your review policies and procedures, including deadlines, notifications, guidelines, etc.
+### <a name="workflow-submission-guidelines"></a>Author Guidelines
 
-### <a name="workflow-library"></a>Publisher Library
+Provde any additional guidelines that are not adequately covered in the submission checklist and provide a copyright statement to inform submitting authors of their rights.
+
+## <a name="workflow-review"></a>Review
+
+Set all of your review policies and procedures, including deadlines, notifications, reviewer guidelines and more.
+
+### <a name="workflow-review-mode"></a>Default Review Mode
+
+Choose the review mode that should be used by default.
+
+- A **Double-Blind** review will prevent the reviewer and the author from knowing each other's identities.
+- A **Blind** review will prevent the author from knowing the reviewer's identity.
+- An **Open** review will allow the reviewer and author to know each other's identities.
+
+An editor will be able to choose another type when needed, but will usually use the default.
+
+### <a name="workflow-review-file-access"></a>Restrict File Access
+
+By default, a reviewer will be able to view submission files before deciding whether or not to review it. Check this box if you would like them to accept a review assignment before viewing the files.
+
+### <a name="workflow-review-guidelines"></a>Review Guidelines
+
+Provide reviewers with criteria for judging a submission's suitability for publication in the journal, which may include instructions for preparing an effective and helpful review. Reviewers will have an opportunity to provide comments intended for the author and editor, as well as separate comments only for the editor.
+
+### <a name="workflow-review-interests"></a>Competing Interests
+
+Reviewers will be asked to confirm that they comply with the competing interests disclosure policy you specify below.
+
+### <a name="workflow-review-forms"></a>Review Forms
+
+If you'd like to request specific information from reviewers, you can build forms here. An editor will be able to select a form when assigning a reviewer, and the reviewer will be asked to complete that form when they are submitting their review.
+
+## <a name="workflow-library"></a>Publisher Library
 
 The Publisher Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
 
-Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](editorial-workflow.md#submission-library) to be shared with authors or assistants.
+Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](editorial-workflow#submission-library) to be shared with authors or assistants.
 
 ### <a name="workflow-emails"></a>Emails
 
-OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow.md), as well as other actions such as registration and submission acknowledgement.
+OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow), as well as other actions such as registration and submission acknowledgement.
 
 The settings in this section allow you to edit the signature attached to each email, as well as change the default messages sent for each type of email.
 

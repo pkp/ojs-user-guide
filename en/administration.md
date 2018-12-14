@@ -1,8 +1,8 @@
 # Administration
 
 1. Introduction
-2. [Hosted Journals](administration.md#hosted-journals)
-3. [Administrative Functions](administration.md#admin-functions)
+2. [Hosted Journals](administration#hosted-journals)
+3. [Administrative Functions](administration#admin-functions)
 
 Site administration is limited to users with full system permissions. Administration tasks are infrequent and may be carried out by a journal manager, senior editor, or a dedicated site administrator.
 

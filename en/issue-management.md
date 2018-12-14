@@ -1,15 +1,15 @@
 # Issues
 
 1. Introduction
-2. [Future Issues](issue-management.md#future-issues)
-3. [Back Issues](issue-management.md#back-issues)
-4. [Edit an Issue](issue-management.md#edit-issue)
+2. [Future Issues](issue-management#future-issues)
+3. [Back Issues](issue-management#back-issues)
+4. [Edit an Issue](issue-management#edit-issue)
 
 Set up forthcoming issues and manage existing issues from this page.
 
 Each issue listed on these pages can be expanded using the small arrow on the left to reveal options.
 
-**Edit** - [Manage](issue-management.md#edit-issue) the contents and metadata for this issue.
+**Edit** - [Manage](issue-management#edit-issue) the contents and metadata for this issue.
 
 **View/Preview** - Jump to the issue on your site or see a preview of the issue if it's not yet been published.
 
@@ -21,7 +21,7 @@ Each issue listed on these pages can be expanded using the small arrow on the le
 
 View forthcoming issues and create a new issue from this section.
 
-Issues should be created well in advance of their release date so that you can begin to schedule articles for publication. Once you have [scheduled articles](editorial-workflow/production.md#publish) for an issue you will be able to manage the table of contents.
+Issues should be created well in advance of their release date so that you can begin to schedule articles for publication. Once you have [scheduled articles](editorial-workflow/production#publish) for an issue you will be able to manage the table of contents.
 
 ## <a name="back-issues"></a>Back Issues
 
@@ -35,7 +35,7 @@ Issue details can be edited including the table of contents, publication date, t
 
 Re-order articles scheduled for publication in this issue. You can also re-order entire sections, if you want one section to appear above another.
 
-Before an article can appear here, you'll need to [schedule it for publication](editorial-workflow/production.md#publish).
+Before an article can appear here, you'll need to [schedule it for publication](editorial-workflow/production#publish).
 
 ### <a name="edit-issue-data"></a>Issue Data
 

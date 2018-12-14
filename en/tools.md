@@ -1,8 +1,8 @@
 # Tools
 
 1. Introduction
-2. [Import/Export](tools.md#import-export)
-3. [Statistics](tools.md#statistics)
+2. [Import/Export](tools#import-export)
+3. [Statistics](tools#statistics)
 
 Import and export content, and view usage statistics and reports from the Tools menu.
 
