@@ -1,15 +1,15 @@
 # Reviewing
 
 1. Introduction
-2. [Signing Up as a Reviewer](reviewing.md#sign-up)
-3. [Completing a Review](reviewing.md#complete-review)
-4. [Complete Your User Profile](reviewing.md#complete-user-profile)
+2. [Signing Up as a Reviewer](reviewing#sign-up)
+3. [Completing a Review](reviewing#complete-review)
+4. [Complete Your User Profile](reviewing#complete-user-profile)
 
 Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review.
 
 ## <a name="sign-up"></a>Signing Up as a Reviewer
 
-When you register as a user with the website, you may be asked to sign up for the reviewer role. If this has been enabled, you can add the reviewer role at any time, even if you've already registered, by going to the [User Profile](user-profile.md) page in the editorial backend.
+When you register as a user with the website, you may be asked to sign up for the reviewer role. If this has been enabled, you can add the reviewer role at any time, even if you've already registered, by going to the [User Profile](user-profile) page in the editorial backend.
 
 You'll also be asked to specify your reviewer interests, so that editors can make better choices when selecting reviewers for a submission.
 
@@ -17,7 +17,7 @@ In many cases, you may have already been added into the system as a reviewer. Th
 
 ## <a name="complete-review"></a>Completing a Review
 
-You can see if you've been assigned any reviews by going to the [Submissions](submissions.md) page in the editorial backend. If you see any submissions in the **My Assigned** area, you can click on the link indicating it's current stage to access the reviewer walk-through.
+You can see if you've been assigned any reviews by going to the [Submissions](submissions) page in the editorial backend. If you see any submissions in the **My Assigned** area, you can click on the link indicating it's current stage to access the reviewer walk-through.
 
 ### <a name="complete-review-request"></a>Request
 
@@ -47,4 +47,4 @@ A record of your reviews is kept in the system, so editors can see -- and apprec
 
 ## <a name="complete-user-profile"></a>Complete Your User Profile
 
-You can fill out more complete information about yourself if you haven't yet. This is a great way to ensure the editors have all the information they need to make great choices for reviewers. Take a look at the [User Profile](user-profile.md) section to learn more.
+You can fill out more complete information about yourself if you haven't yet. This is a great way to ensure the editors have all the information they need to make great choices for reviewers. Take a look at the [User Profile](user-profile) section to learn more.
