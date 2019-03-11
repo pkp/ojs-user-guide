@@ -15,6 +15,8 @@ Editorial and administrative users also have access to all published and archive
 
 You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists.
 
+If you are a Reviewer you may not see this button, but you can still make a submission if you click **View Site** on the top right and look for a link to make a submission on the journal's homepage. 
+
 ## <a name="my-queue"></a>My Queue
 
 This tab provides information about submissions currently assigned to you. Use this tab to keep up with your day-to-day activities.
