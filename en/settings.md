@@ -70,9 +70,9 @@ OJS sends a number of emails during various stages of the [Editorial Workflow](e
 
 The settings in this section allow you to edit the signature attached to each email, as well as change the default messages sent for each type of email.
 
-If you're unsure what a particular email is for, spin out it's context menu by clicking the toggle to the left of the email, and then click **Edit Email**. Most emails include a short description of when they're sent.
+You can view more about one of the emails in the list by clicking the dropdown arrow on the right.
 
-*If you want to restore an email template to it's default, use the __Reset__ link to restore the default message.*
+*If you want to restore an email template to it's default, use the __Reset__ button to restore the default message. This button is only available for email templates that have been modified.*
 
 ## <a name="distribution"></a>Distribution
 
