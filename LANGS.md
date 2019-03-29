@@ -5,3 +5,4 @@
 * [French](fr/)
 * [German](de/)
 * [Persian](fa/)
+* [Portuguese](pt/)
