@@ -5,7 +5,7 @@
 3. [Completing a Review](reviewing#complete-review)
 4. [Complete Your User Profile](reviewing#complete-user-profile)
 
-Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review.
+Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review. For more detailed information, see [Learning OJS 3: Reviewing](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing).
 
 ## <a name="sign-up"></a>Signing Up as a Reviewer
 
