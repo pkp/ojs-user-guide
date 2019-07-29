@@ -8,9 +8,10 @@ During the Copyediting stage, the editor assigns a copyeditor to edit the submis
 
 The copyeditor, who is often a professional, will align the writing style with your editorial guidelines, improve the quality and clarity of the writing, fix any grammar, and get the submission ready for conversion to a [publication format](production).
 
-This is the last stage before you generate publication-ready formats such as PDFs and ePubs. If you do not have the resources to hire a professional copyeditor, use this stage to take a close look at the material, check any facts, correct any errors and communicate with the author to clarify any points of confusion.
+This is the last stage before you generate publication-ready formats such as PDFs and ePubs. If you do not have the resources to hire a professional copyeditor, use this stage to take a close look at the material, check any facts, correct any errors, and communicate with the author to clarify any points of confusion.
 
 Add copyeditors from the [participants panel](../editorial-workflow#participants).
+For more detailed information, see [Learning OJS 3: Copyediting](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#copyediting).
 
 ## <a name="orientation"></a>Orientation
 
@@ -22,7 +23,7 @@ All files selected by the editor for copyediting. These are typically files that
 
 ### <a name="copyediting-discussions"></a>Copyediting Discussions
 
-Editors and copyeditors can use this panel to initiate discussions with the author(s), or communicate between themselves. This can be used to clarify points of confusion, request further information from the author, or request approval for any changes.
+Editors and copyeditors can use this panel to initiate discussions with the author(s) or communicate among themselves. This can be used to clarify points of confusion, request further information from the author, or request approval for any changes.
 
 ### <a name="copyedited"></a>Copyedited
 
@@ -40,4 +41,4 @@ There's only one editorial decision available to editors at this stage. If you d
 
 ### <a name="production"></a>Send to Production
 
-The editor can send the submission to the [Production stage](production) when final, copyedited files are ready. Any files in the [Copyedited](copyediting#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
+The editor can send the submission to the [Production stage](production) when final copyedited files are ready. Any files in the [Copyedited](copyediting#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
