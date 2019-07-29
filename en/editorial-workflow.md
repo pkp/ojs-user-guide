@@ -5,9 +5,9 @@
 3. [Editorial Actions](editorial-workflow#editorial-actions)
 4. [Participants](editorial-workflow#participants)
 
-The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting and production, where the item is prepared for publication.
+The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting, and production, where the item is prepared for publication.
 
-Each tab on the workflow page provides you with the information, tools and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow#editorial-actions) appropriate to each stage.
+Each tab on the workflow page provides you with the information, tools, and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow#editorial-actions) appropriate to each stage. For more information, see [Learning OJS 3: Editorial Workflow](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow).
 
 ## <a name="manage-submission-details"></a>Managing Submission Details
 
@@ -33,9 +33,9 @@ You can quickly add files from your [Publisher Library](settings#workflow-librar
 
 ## <a name="editorial-actions"></a> Editorial Actions
 
-At the top right of each stage of the workflow, you'll see the editorial actions available to you. These decisions change with each stage. But in most cases, they complete the current stage and forward the submission onto the next stage.
+At the top right of each stage of the workflow, you'll see the editorial actions available to you. These decisions change with each stage. In most cases, they complete the current stage and forward the submission onto the next stage.
 
-Read the help guide for each stage to learn more about the editorial actions.
+Read the [help guide](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) for each stage to learn more about the editorial actions.
 
 ## <a name="participants"></a>Participants
 
