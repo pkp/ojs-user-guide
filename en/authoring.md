@@ -7,7 +7,7 @@
 
 ## <a name="orientation"></a>Orientation
 
-When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty. For more detailed information, see (Learning OJS 3: Authoring)[https://docs.pkp.sfu.ca/learning-ojs/en/authoring].
+When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty. For more detailed information, see [Learning OJS 3: Authoring](https://docs.pkp.sfu.ca/learning-ojs/en/authoring).
 
 ## <a name="author-actions"></a>Author Actions
 To the right of your screen, choose New Submission to begin a new submission.
