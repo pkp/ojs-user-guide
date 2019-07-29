@@ -5,11 +5,11 @@
 3. [Roles](users-and-roles#users-roles)
 4. [Site Access](users-and-roles#users-site-access)
 
-Manager your journal's users, assign them to roles and create or edit existing roles.
+Manage your journal's users, assign them to roles, and create or edit existing roles. For more detailed information, see [Learning OJS 3: Users and Roles](https://docs.pkp.sfu.ca/learning-ojs/en/users-and-roles).
 
 ## <a name="users"></a> Users
 
-Journal Managers and Administrators can view a list of all users in the journal. You can add users, disable a user, send them email, edit their profile or delete them completely.
+Journal Managers and Administrators can view a list of all users in the journal. You can add users, disable a user, send them email, edit their profile, or delete them completely.
 
 The easiest way to find a user is to use the search button, which will allow you to search by name or role.
 
@@ -21,9 +21,9 @@ User roles govern who can access what in the editorial worfklow.
 
 A flexible user role system is provided so that you can tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
 
-There are many roles and most journals won't need all of them. Feel free to delete roles you won't use in your workflow.
+There are many roles, and most journals won't need all of them. Feel free to delete roles you won't use in your workflow.
 
-You can edit or remove existing roles, or add new roles. All roles are given one of a few permission levels which allow them to perform various actions in the system:
+You can edit or remove existing roles or add new roles. All roles are given one of a few permission levels which allow them to perform various actions in the system:
 
 - *Authors* can make new submissions.
 - *Reviewers* appear when you're assigning reviews in the [Editorial Workflow](editorial-workflow) and have access to that stage when they're assigned.
@@ -31,8 +31,8 @@ You can edit or remove existing roles, or add new roles. All roles are given one
 - *Journal Managers* have access to the entire [Editorial Workflow](editorial-workflow), as well as most of the settings.
 - *Series Editors* and *Journal Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow) assigned to their role (see below).
 
-In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow). This is useful for professional assistants such as copyeditors or layout managers who may assist during one or two stages of the workflow.
+In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow). This is useful for professional assistants such as copy editors or layout managers who may assist during one or two stages of the workflow.
 
 ## <a name="site-access"></a> Site Access Options
 
-Under the Site Access tab, you can turn off public user registration, or event limit access to the reader-facing site to registered users.
+Under the Site Access tab, you can turn off public user registration or event limit access to the reader-facing site to registered users.
