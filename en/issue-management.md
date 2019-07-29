@@ -17,6 +17,8 @@ Each issue listed on these pages can be expanded using the small arrow on the le
 
 **Delete** - Removing an issue can not be undone.
 
+For more detailed information, see [Learning OJS 3: Issues](https://docs.pkp.sfu.ca/learning-ojs/en/issues).
+
 ## <a name="future-issues"></a>Future Issues
 
 View forthcoming issues and create a new issue from this section.
