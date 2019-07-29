@@ -4,7 +4,7 @@
 2. [Orientation](production#orientation)
 3. [Publishing the Submission](production#publish)
 
-During the Production stage, the editor assigns production assistants who will help prepare the final publication files, known as galleys.
+During the Production stage, the editor assigns production assistants who will help prepare the final publication files, known as galleys. For more detailed information, see [Learning OJS 3: Production](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#production).
 
 ## <a name="orientation"></a>Orientation
 
@@ -16,7 +16,7 @@ All files selected by the editor for production will appear here. These typicall
 
 ### <a name="production-discussions"></a>Production Discussions
 
-Editors and production assistants can use this panel to initiate conversations, if there are any details that need to be clarified before the final publication files can be created.
+Editors and production assistants can use this panel to initiate conversations if there are any details that need to be clarified before the final publication files can be created.
 
 ### <a name="publication-formats"></a>Galleys
 
@@ -30,4 +30,4 @@ Editors can add production assistants or layout editors from this panel. [Learn 
 
 Once you are ready to publish the submission, you must schedule it for publication in an issue.
 
-The **Schedule for Publication** button will allow you to select an forthcoming issue, set a publication date, attach licensing permissions and add page numbers if desired.
+The **Schedule for Publication** button will allow you to select an forthcoming issue, set a publication date, attach licensing permissions, and add page numbers if desired.
