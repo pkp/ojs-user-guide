@@ -12,27 +12,26 @@ In Website Settings you can configure the appearance of and information on your 
 ## <a name="context"></a>Appearance
 Here you can change the look and feel of your journal website. 
 
-To change the overall design, select a different theme.
+To change the overall design, select a different theme. Some themes allow you to configure colours, but usually if you want to change fonts, colours, or minor aspects of the design you will need to upload a custom style sheet.
 
 Upload a logo image, homepage image, and journal favicon. 
 
-Drag and drop items that you want to appear on your sidebar. 
+Drag and drop items that you want to appear or not appear on your sidebar. 
 
 ## <a name="context"></a>Information
-You can add information about your journal for specific user groups that will appear as links on your sidebar if enabled under Sidebar Management.
+You can add information about your journal for specific user groups that will appear as links on your sidebar if the **Information Block** is enabled under **Sidebar Management**.
 
 ## <a name="context"></a>Archiving
 If you have an agreement with a LOCKSS network to archive your journal content, you can enable it here to make your content available to the network. 
 
 ## <a name="context"></a>Languages
+Languages that have been installed on your site by an Administrator can be enabled for the user interface (UI), forms, and submissions. The language you set as **Primary Locale** will be what your site appears in first.
 
 ## <a name="context"></a>Plugins
+Plugins extend functionality of OJS and allow it to interact with external tools and services. Installed plugins can be enabled and configured or you can install additional plugins from the **Plugin Gallery**.
 
 ## <a name="context"></a>Announcements
+Create announcements or announcement types to appear on your site's homepage or be emailed to all of your readers.
 
 ## <a name="context"></a>Navigation Menus
-You can edit the navigation menus on your reader-facing website. You can add and remove items, and re-order them. You can even create custom pages on your site or link to another website.
-
-Some menu item types will only be displayed under certain conditions. For example, the Login menu item type will link to your login page, but it will only appear in the menu when your website visitor is logged out. Similarly, the Logout menu item type will only appear when a website visitor is logged in.
-
-When you assign a Menu Item with display conditions to a Menu, you will see an icon: . You can click that icon to learn more about when it will be displayed or hidden.
+Edit the existing navigation menus on your website. You can add and remove items, and re-order them. You can also create custom menu items that link to pages on your site or to another website, or even add a new custom menu.
