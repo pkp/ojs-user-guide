@@ -33,10 +33,10 @@ Languages that have been installed on your site by an Administrator can be enabl
 * **Primary Locale** is the language that your site will appear in first to users. If you have other languages enabled for the **User Interface** the user can select another language with the language toggle.
 
 ## <a name="context"></a>Plugins
-Plugins extend functionality of OJS and allow it to interact with external tools and services. Installed plugins can be enabled and configured or you can install additional plugins from the **Plugin Gallery**.
+Plugins extend functionality of OJS and allow it to interact with external tools and services. Installed plugins can be enabled and configured, or you can install additional plugins from the **Plugin Gallery**.
 
 ## <a name="context"></a>Announcements
-Create announcements or announcement types to appear on your site's homepage or be emailed to all of your readers.
+Create announcements or announcement types to appear on your site's homepage or to be emailed to all of your readers.
 
 ## <a name="context"></a>Navigation Menus
-Edit the existing navigation menus on your website. You can add and remove items, and re-order them. You can also create custom menu items that link to pages on your site or to another website, or even add a new custom menu.
+Edit the existing navigation menus on your website. You can add and remove items and re-order them. You can also create custom menu items that link to pages on your site or to another website or even add a new custom menu.
