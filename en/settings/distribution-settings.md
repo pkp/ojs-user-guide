@@ -19,6 +19,6 @@ Enable payments and select a payment method and currency if you are using subscr
 ## <a name="context"></a>Permissions
 Here you can configure copyright and permissions on a journal level. You will also be able to enter copyright and permissions information on an article and issue level when you publish articles and issues.
 
-The copyright identifies the author or owner of copyright for a published work. For example, Copyright (c) 2016 by Jane Smith.
+The **copyright** identifies the author or owner of copyright for a published work. For example, Copyright (c) 2016 by Jane Smith.
 
-The license attached to a work will determine the usage rights for the published work. For example, CC-By 4.0 allows the work to be copied, redistributed and adapted for any purpose, even commercially, as long as attribution is given to the copyright holder.
+The **license** attached to a work will determine the usage rights for the published work. For example, CC-By 4.0 allows the work to be copied, redistributed and adapted for any purpose, even commercially, as long as attribution is given to the copyright holder.
