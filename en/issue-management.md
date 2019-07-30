@@ -1,9 +1,8 @@
 # Issues
 
-1. Introduction
-2. [Future Issues](issue-management#future-issues)
-3. [Back Issues](issue-management#back-issues)
-4. [Edit an Issue](issue-management#edit-issue)
+[Future Issues](issue-management#future-issues)  
+[Back Issues](issue-management#back-issues)  
+[Edit an Issue](issue-management#edit-issue)
 
 Set up forthcoming issues and manage existing issues from this page.
 
