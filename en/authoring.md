@@ -1,11 +1,8 @@
 # Authoring
 
-1. Orientation
-2. Author Actions
-3. [Make a Submission](authoring#make-submission)
-4. [Track your Submission](authoring#track-submission)
-
-## <a name="orientation"></a>Orientation
+Author Actions (authoring#author-actions) 
+[Make a Submission](authoring#make-submission)  
+[Track your Submission](authoring#track-submission)
 
 When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty.
 
