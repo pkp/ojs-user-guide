@@ -1,9 +1,8 @@
 # Editorial Workflow
 
-1. Introduction
-2. [Managing Submission Details](editorial-workflow#manage-submission-details)
-3. [Editorial Actions](editorial-workflow#editorial-actions)
-4. [Participants](editorial-workflow#participants)
+[Managing Submission Details](editorial-workflow#manage-submission-details)  
+[Editorial Actions](editorial-workflow#editorial-actions)  
+[Participants](editorial-workflow#participants)
 
 The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting, and production, where the item is prepared for publication.
 
