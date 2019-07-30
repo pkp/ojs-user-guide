@@ -1,11 +1,10 @@
 # Submissions
 
-1. Introduction
-2. [Start A New Submission](submissions#new-submission)
-3. [My Queue](submissions#my-queue)
-4. [All Active](submissions#active)
-5. [Archives](submissions#archives)
-6. [Find Submissions Quickly](submissions#find-quickly)
+[Start A New Submission](submissions#new-submission)  
+My Queue](submissions#my-queue)  
+[All Active](submissions#active)  
+[Archives](submissions#archives)  
+[Find Submissions Quickly](submissions#find-quickly)
 
 Access any submissions currently under consideration from the Submissions page.
 
