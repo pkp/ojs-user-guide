@@ -13,7 +13,7 @@ Under Masthead enter information about your journal. Some of the information wil
 What you fill in for Contact tells users how to contact your journal. The Principal Contact is the automatic sender and receiver for some automated emails.
 
 ## <a name="context"></a>Sections
-You can add new sections or edit the sections listed here. Authors will be asked to select a section when they make a submission and the articles you publish can be organized into sections.  
+You can add new sections or edit the sections listed here. Authors will be asked to select a section when they make a submission, and the articles you publish can be organized into sections.  
 
 ## <a name="context"></a>Categories
 Categories offer another way to organize and provide access to your content by theme or category. You can create and edit categories here, display them as pages on your website, and add articles to them by editing the articles' metadata. 
