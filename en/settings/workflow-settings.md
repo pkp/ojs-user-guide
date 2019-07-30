@@ -22,13 +22,13 @@ Provide authors with a checklist of tasks they should complete before completing
 If you Enable a metadata field it will be available for each submission. Checking **Submission Form** will allow authors to add it when they make a submission. Otherwise only an editor will be able to add it.  
 
 ## <a name="context"></a>Review
-Set all of your review policies and procedures, including deadlines, notifications, reviewer guidelines and more.
+Set all of your review policies and procedures, including deadlines, notifications, reviewer guidelines, and more.
 
 ### <a name="context"></a>Review Forms
 If you would like to request specific information from reviewers, you can build forms here. An editor will be able to select a form when assigning a reviewer, and the reviewer will be asked to complete that form when they are submitting their review.
 
 ### <a name="context"></a>Review Mode
-Choose the review mode that should be used by default. The mode can be changed on a per submission and per review basis by an editor.
+Choose the review mode that should be used by default. The mode can be changed on a per-submission and per-review basis by an editor.
 
 - A **Double-Blind** review will prevent the reviewer and the author from knowing each other's identities
 - A **Blind** review will prevent the author from knowing the reviewer's identity
@@ -46,6 +46,6 @@ The Publisher Library provides a file repository for storing and quickly sharing
 Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](editorial-workflow#submission-library) to be shared with authors or assistants.
 
 ## <a name="context"></a>Emails
-OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow), as well as other actions such as registration and submission acknowledgement. The settings in this section allow you to edit the signature attached to each email, as well as change the default messages sent for each type of email.
+OJS sends a number of emails during various stages of the [Editorial Workflow](editorial-workflow) as well as other actions such as registration and submission acknowledgement. The settings in this section allow you to edit the signature attached to each email as well as change the default messages sent for each type of email.
 
 You can view a description of each email and edit the email by clicking the dropdown arrow on the right.
