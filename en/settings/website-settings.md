@@ -1,3 +1,5 @@
+In Website Settings you can configure the appearance of and information on your reader-facing website, set up your site's languages and archiving settings, and install and enable plugins. See [Learning OJS 3: Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website) for detailed instructions. There may be additional tabs in this menu if you have enabled specific plugins, such as Static Pages or Translator. 
+
 [Appearance](website-settings#appearance)  
 [Information](website-settings#Information)  
 [Archiving](website-settings#archiving)  
@@ -5,8 +7,6 @@
 [Plugins](website-settings#plugins)  
 [Announcements](website-settings#announcements)  
 [Navigation Menus](website-settings#navigation)  
-
-In Website Settings you can configure the appearance of and information on your reader-facing website, set up your site's languages and archiving settings, and install and enable plugins. See [Learning OJS 3: Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website) for detailed instructions. There may be additional tabs in this menu if you have enabled specific plugins, such as Static Pages or Translator. 
 
 ## <a name="context"></a>Appearance
 Here you can change the look and feel of your journal website, including upload images and select a theme. 
