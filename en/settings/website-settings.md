@@ -1,21 +1,22 @@
-1. Introduction
-2. [Appearance](website-settings#appearance)
-3. [Information](website-settings#Information)
-4. [Archiving](website-settings#archiving)
-5. [Languages](website-settings#languages)
-6. [Plugins](website-settings#plugins)
-7. [Announcements](website-settings#announcements)
-8. [Navigation Menus](website-settings#navigation)
+[Appearance](website-settings#appearance)  
+[Information](website-settings#Information)  
+[Archiving](website-settings#archiving)  
+[Languages](website-settings#languages)  
+[Plugins](website-settings#plugins)  
+[Announcements](website-settings#announcements)  
+[Navigation Menus](website-settings#navigation)  
 
-In Website Settings you can configure the appearance of and information on your reader-facing website, set up your site's languages and archiving settings, and install and enable plugins. See [Learning OJS 3: Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website) for detailed instructions.
+In Website Settings you can configure the appearance of and information on your reader-facing website, set up your site's languages and archiving settings, and install and enable plugins. See [Learning OJS 3: Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website) for detailed instructions. There may be additional tabs in this menu if you have enabled specific plugins, such as Static Pages or Translator. 
 
 ## <a name="context"></a>Appearance
-Here you can change the look and feel of your journal website. 
+Here you can change the look and feel of your journal website, including upload images and select a theme. 
 
-To change the overall design, select a different theme. Some themes allow you to configure colours, but usually if you want to change fonts, colours, or minor aspects of the design you will need to upload a custom style sheet.
+### <a name="context"></a>Theme
+To change the overall design of your website, select a different theme and save. The look of the website will stay the same but the content will not change. You can easily change themes to try them out. 
 
-Upload a logo image, homepage image, and journal favicon. 
+Some themes allow you to configure colours, but usually if you want to change fonts, colours, or minor aspects of the design you will need to upload a custom style sheet.
 
+## <a name="context"></a>Sidebar Management
 Drag and drop items that you want to appear or not appear on your sidebar. 
 
 ## <a name="context"></a>Information
