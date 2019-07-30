@@ -1,10 +1,9 @@
 # Administration
 
-1. Introduction
-2. [Hosted Journals](administration#hosted-journals)
-3. [Administrative Functions](administration#admin-functions)
+[Hosted Journals](administration#hosted-journals)  
+[Administrative Functions](administration#admin-functions)
 
-Site administration is limited to users with full system permissions. Administration tasks are infrequent and may be carried out by a journal manager, senior editor, or a dedicated site administrator. For detailed instructions, see [Learning OJS: Site Administration](https://docs.pkp.sfu.ca/learning-ojs/en/site-administration).
+Site administration is limited to users with full system permissions. Administration tasks are infrequent and may be carried out by a journal manager, senior editor, or a dedicated site administrator. For more detailed information, see [Learning OJS: Site Administration](https://docs.pkp.sfu.ca/learning-ojs/en/site-administration).
 
 ## <a name="hosted-journals"></a>Hosted Journals
 
