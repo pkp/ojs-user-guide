@@ -1,7 +1,7 @@
 # Submissions
 
 [Start A New Submission](submissions#new-submission)  
-My Queue](submissions#my-queue)  
+[My Queue](submissions#my-queue)  
 [All Active](submissions#active)  
 [Archives](submissions#archives)  
 [Find Submissions Quickly](submissions#find-quickly)
