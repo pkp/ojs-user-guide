@@ -1,9 +1,8 @@
 # Issues
 
-1. Introduction
-2. [Future Issues](issue-management#future-issues)
-3. [Back Issues](issue-management#back-issues)
-4. [Edit an Issue](issue-management#edit-issue)
+[Future Issues](issue-management#future-issues)  
+[Back Issues](issue-management#back-issues)  
+[Edit an Issue](issue-management#edit-issue)
 
 Set up forthcoming issues and manage existing issues from this page.
 
@@ -16,6 +15,8 @@ Each issue listed on these pages can be expanded using the small arrow on the le
 **Publish/Unpublish Issue** - Publishing an issue will make it publicly available on your site.
 
 **Delete** - Removing an issue can not be undone.
+
+For more detailed information, see [Learning OJS 3: Issues](https://docs.pkp.sfu.ca/learning-ojs/en/issues).
 
 ## <a name="future-issues"></a>Future Issues
 
