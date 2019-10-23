@@ -1,7 +1,7 @@
 # Submission Stage
 
 1. Introduction
-2. [Editorial Actions](submission#editorial-actions)
+1. [Editorial Actions](submission#editorial-actions)
 
 During the Submission stage, the editor checks the submission files to decide whether it should begin the peer review process.
 
