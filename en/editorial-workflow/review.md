@@ -1,18 +1,17 @@
 # Review Stages
 
-1. Introduction
-2. [Orientation](review#orientation)
-3. [Editorial Actions](review#editorial-actions)
+[Orientation](review#orientation)  
+[Editorial Actions](review#editorial-actions)
 
 During the Review stage, the editor assigns reviewers to the submission.
 
 Once the reviewers have submitted their reviews and recommendations, the editor is responsible for making an editorial decision, which will determine whether the submission is ready for the Copyediting stage or requires further revisions.
 
-By default, the review stages begin in *Round 1* of reviews. Further rounds may be initiated if the editor requests major changes that must go through another round of review.
+By default, the review stages begin in *Round 1* of reviews. Further rounds may be initiated if the editor requests major changes that must go through another round of review. For more detailed information, see [Learning OJS 3: Review](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#review).
 
 ## <a name="orientation"></a>Orientation
 
-Each review round consists of sections for managing review files and reviewers, along with the discussions and participants section which appear on every stage.
+Each review round consists of sections for managing review files and reviewers, along with the discussions and participants section that appear on every stage.
 
 ### <a name="review-files"></a>Review Files
 All the files selected by the editor for review. These files will be visible to reviewers unless restricted when assigning the reviewer.
@@ -35,10 +34,10 @@ Editors and sub-editors can add additional users to this stage to assist them in
 The editor can make one of several editorial actions during each round of the review stage. Each of these decisions automatically notifies the author by email.
 
 ### <a name="request-revisions"></a>Request Revisions
-The editor can request revisions from the author without opening a new review round. This is common when minor revisions are required which the editor can approve without re-submitting for  review.
+The editor can request revisions from the author without opening a new review round. This is common when minor revisions are required which the editor can approve without resubmitting for  review.
 
 ### <a name="new-review"></a>Resubmit for Review
-The editor can request revisions from the author which will need to go through another round of review. Once revisions are received, a new review round will need to be created at the top of the review stage.
+The editor can request revisions from the author that will need to go through another round of review. Once revisions are received, a new review round will need to be created at the top of the review stage.
 
 ### <a name="copyediting"></a>Send to Copyediting
 The editor can initiate the [Copyediting stage](copyediting) once it has passed the required review stage.
