@@ -15,4 +15,5 @@
 * [Settings](settings)
 * [Users and Roles](users-and-roles)
 * [Tools](tools)
+* [Statistics] (statistics)
 * [Administration](administration)
