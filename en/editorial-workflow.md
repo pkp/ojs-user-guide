@@ -1,8 +1,8 @@
 # Editorial Workflow
 
-[Managing Submission Details](editorial-workflow#manage-submission-details)  
-[Editorial Actions](editorial-workflow#editorial-actions)  
-[Participants](editorial-workflow#participants)
+1. [Managing Submission Details](editorial-workflow#manage-submission-details)
+1. [Editorial Actions](editorial-workflow#editorial-actions)
+1. [Participants](editorial-workflow#participants)
 
 The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting, and production, where the item is prepared for publication.
 
@@ -28,7 +28,7 @@ Add notes for record-keeping and view a log of all events associated with this s
 
 A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files, or guidelines you'd like to share with copyeditors or other assistants.
 
-You can quickly add files from your [Publisher Library](settings#workflow-library) by clicking on **View Document Library**.
+You can quickly add files from your [Publisher Library](settings/workflow-settings#publisher) by clicking on **View Document Library**.
 
 ## <a name="editorial-actions"></a> Editorial Actions
 

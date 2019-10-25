@@ -1,7 +1,7 @@
 # Tools
 
-[Import/Export](tools#import-export)  
-[Report Generator](tools#report-generator)
+1. [Import/Export](tools#import-export)
+1. [Report Generator](tools#report-generator)
 
 Import and export content and view usage statistics and reports from the Tools menu.
 

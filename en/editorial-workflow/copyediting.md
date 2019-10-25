@@ -1,7 +1,7 @@
 # Copyediting
 
-[Orientation](copyediting#orientation)  
-[Editorial Actions](copyediting#editorial-actions)
+1. [Orientation](copyediting#orientation)
+1. [Editorial Actions](copyediting#editorial-actions)
 
 During the Copyediting stage, the editor assigns a copyeditor to edit the submission files.
 

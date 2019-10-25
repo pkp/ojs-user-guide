@@ -1,8 +1,8 @@
 # Authoring
 
-[Author Actions] (authoring#author-actions)  
-[Make a Submission](authoring#make-submission)  
-[Track your Submission](authoring#track-submission)
+1. [Author Actions](authoring#author-actions)
+1. [Make a Submission](authoring#make-submission)
+1. [Track your Submission](authoring#track-submission)
 
 When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty. For more detailed information, see [Learning OJS 3: Authoring](https://docs.pkp.sfu.ca/learning-ojs/en/authoring).
 
@@ -18,13 +18,10 @@ Making a new submission is an easy-to-follow 5-step process. Follow along with t
 
 ### <a name="start"></a>Start
 
-Select an appropriate section for your submission.
-
-Read and agree to the Submission Requirements.
-
-Add any comments to the editor (optional).
-
-Review the Privacy Statement to ensure you agree.
+1. Select an appropriate section for your submission.
+1. Read and agree to the Submission Requirements.
+1. Add any comments to the editor (optional).
+1. Review the Privacy Statement to ensure you agree.
 
 ### <a name="upload-submission"></a>Upload Submission
 
@@ -34,7 +31,7 @@ Upload your submission files.
 
 You'll upload each of your files one at a time. You will have the opportunity to upload more files in a moment.
 
-**Add Details**: 
+**Add Details**:
 
 If you wish, use the Edit link to rename the default file name chosen by the system.
 

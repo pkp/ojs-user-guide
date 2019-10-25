@@ -1,7 +1,7 @@
 # Review Stages
 
-[Orientation](review#orientation)  
-[Editorial Actions](review#editorial-actions)
+1. [Orientation](review#orientation)
+1. [Editorial Actions](review#editorial-actions)
 
 During the Review stage, the editor assigns reviewers to the submission.
 

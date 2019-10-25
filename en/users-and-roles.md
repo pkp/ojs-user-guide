@@ -1,8 +1,8 @@
 # Users and Roles
 
-[Users](users-and-roles#users-users)  
-[Roles](users-and-roles#users-roles)  
-[Site Access](users-and-roles#users-site-access)
+1. [Users](users-and-roles#users)
+1. [Roles](users-and-roles#roles)
+2. [Site Access](users-and-roles#site-access)
 
 Manage your journal's users, assign them to roles, and create or edit existing roles. For more detailed information, see [Learning OJS 3: Users and Roles](https://docs.pkp.sfu.ca/learning-ojs/en/users-and-roles).
 

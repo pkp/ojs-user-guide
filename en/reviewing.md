@@ -1,8 +1,8 @@
 # Reviewing
 
-[Signing Up as a Reviewer](reviewing#sign-up)  
-[Completing a Review](reviewing#complete-review)  
-[Complete Your User Profile](reviewing#complete-user-profile)
+1. [Signing Up as a Reviewer](reviewing#sign-up)
+1. [Completing a Review](reviewing#complete-review)
+1. [Complete Your User Profile](reviewing#complete-user-profile)
 
 Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review. For more detailed information, see [Learning OJS 3: Reviewing](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing).
 

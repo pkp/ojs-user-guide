@@ -1,6 +1,6 @@
 # Production
-[Orientation](production#orientation)  
-[Publishing the Submission](production#publish)
+1. [Orientation](production#orientation)
+1. [Publishing the Submission](production#publish)
 
 During the Production stage, the editor assigns production assistants who will help prepare the final publication files, known as galleys. For more detailed information, see [Learning OJS 3: Production](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#production).
 
