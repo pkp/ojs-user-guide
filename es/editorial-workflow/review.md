@@ -21,7 +21,7 @@ Aquí aparecen los archivos seleccionados por el editor/a que están listos para
 Los editores/as pueden añadir revisores/as, fijar fechas límite y monitorizar el estado y las recomendaciones de las revisiones. Cuando se completa una revisión, el editor/a puede visualizarla y confirmarla para hacer saber que la ha leído.
 
 ### <a name="revisions"></a>Revisiones
-Se trata de los archivos revisados y cargados por el autor. Durante el proceso de revisión, el editor/a puede requerir revisiones al autor. Cuando este las cargue aparecerán aquí y los archivos estarán disponibles para enviarlos a la fase de edición, siempre que hayan superado la revisión.
+Se trata de los archivos revisados y cargados por el autor. Durante el proceso de revisión, el editor/a puede requerir revisiones al autor. Cuando éste las cargue aparecerán aquí y los archivos estarán disponibles para enviarlos a la fase de edición, siempre que hayan superado la revisión.
 
 ### <a name="discussions"></a>Discusiones de revisión
 Los editores/as y los subeditores/as pueden iniciar conversaciones privadas entre ellos/as o con los revisores/as o autores/as. Los autores/as no pueden iniciar discusiones o comunicarse directamente con los revisores/as.
