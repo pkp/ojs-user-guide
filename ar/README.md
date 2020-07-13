@@ -6,4 +6,10 @@
 
 عندما تشاهد رابط **مساعدة** ضمن هذا النظام، فهو رابط سيفتح لك لوحة مساعدة تتضمن أهم ما تحتاجه من معلومات عن ذلك المقطع.
 
-نظرة أكثر تفصيلاً عن هذا النظام تتوفر في [تعلم نظام المجلات المفتوحة 3.0](https://www.gitbook.com/book/pkp/ojs3/details).
+نظرة أكثر تفصيلاً عن هذا النظام تتوفر في [تعلم نظام المجلات المفتوحة 3.0](https://docs.pkp.sfu.ca/learning-ojs/ar/).
+
+-
+
+الحقوق الفكرية: جامعة سيمون فريزر تمتلك الحقوق الفكرية للأعمال الناتجة من مشروع المعرفة العامة وقد وضعت أدبياته ضمن رخصة [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Attribution 4.0 International")](http://creativecommons.org/licenses/by/4.0/)
