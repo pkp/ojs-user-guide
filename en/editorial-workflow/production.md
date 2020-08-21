@@ -22,4 +22,6 @@ Editors can add production assistants or layout editors from this panel. [Learn 
 
 # <a name="publish"></a>Publishing the Submission
 
-Once the production-ready files have been transformed into a galley file ready for publication, Editors can move from the Workflow panel to the Publication panel by using the Schedule for Publication button.
+Editors and production assistants can create galleys. These typically represent separate publication formats, such as PDF and HTML.
+
+Once the production-ready files have been transformed into a galley file ready for publication, Editors can move from the Workflow panel to the Publication tab by using the Schedule for Publication button. The galley file will be uploaded in the Publication tab.
