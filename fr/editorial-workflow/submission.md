@@ -3,9 +3,9 @@
 1. Introduction
 1. [Actions éditoriales](submission#editorial-actions)
 
-Durant la phase de soumission, l’éditeur-trice vérifie les fichiers de soumission afin de décider s’ils justifient de lancer le processus d'évaluation par les pairs. 
+Durant la phase de soumission, le rédacteur ou la rédactrice vérifie les fichiers de soumission afin de décider s’ils justifient de lancer le processus d'évaluation par les pairs. 
 
-L’éditeur-trice peut assigner un sous-éditeur-trice pour l’assister en utilisant le panneau **Participants-es** ou en lançant une discussion avec l’auteur-e pour lui faire part de toute question ou préoccupation dans la zone **Discussions préévaluation**.
+Le rédacteur ou la rédactrice peut assigner un sous-rédacteur ou une sous-rédactrice pour l’assister en utilisant le panneau **Participants-es** ou en lançant une discussion avec l’auteur ou l’auteure pour lui faire part de toute question ou préoccupation dans la zone **Discussions préévaluation**.
 
 ## <a name="editorial-actions"></a>Actions éditoriales
 

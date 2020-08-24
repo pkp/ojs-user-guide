@@ -1,4 +1,4 @@
-# Guide de l’utilisateur OJS 3.2
+# Guide de l'utilisateur ou de l'utilisatrice OJS 3.2
 
 Ce guide vous aidera à publier des journaux et revues sur Open Journal Systems (OJS).
 

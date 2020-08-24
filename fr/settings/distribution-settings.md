@@ -6,7 +6,7 @@
 1. [Accès](distribution-settings#access)
 1. [Archivage](distribution-settings#archiving)
 
-Dans les paramètres de la distribution, vous pouvez configurer comment les utilisateurs découvrent, repèrent, utilisent et lisent le contenu de votre revue. Pour plus d'informations, veuillez consulter [Learning OJS 3: Distribution Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution) (en anglais).
+Dans les paramètres de la distribution, vous pouvez configurer comment les utilisateurs et utilisatrices découvrent, repèrent, utilisent et lisent le contenu de votre revue. Pour plus d'informations, veuillez consulter [Learning OJS 3: Distribution Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution) (en anglais).
 
 ## <a name="license"></a>Licence
 Dans cet onglet, vous pouvez configurer le droit d'auteur et les droits d'utilisation au niveau de la revue. Vous pouvez également paramétrer ces droits au niveau de l'article lorsque vous publiez un article ou un numéro. 
@@ -22,9 +22,9 @@ L'information saisie dans cet onglet optimise la découverte de votre contenu pa
 Si vous gérez des abonnements ou des frais de traitement des articles, vous pouvez activer les paiements dans cet onglet et sélectionner une méthode de paiement et une devise.
 
 ## <a name="access"></a>Accès
-Si votre journal est en accès libre, vous pouvez conserver les paramètres par défaut. Si vous utilisez des abonnements ou que votre contenu est publié en tout ou en partie sur un site séparé d'OJS, vous pouvez modifier ces paramètres.
+Si votre revue est en accès libre, vous pouvez conserver les paramètres par défaut. Si vous utilisez des abonnements ou que votre contenu est publié en tout ou en partie sur un site distinct d'OJS, vous pouvez modifier ces paramètres.
 
-Nous vous encourageons à laisser l'accès OAI activé, à moins que vous n'utilisiez pas OJS pour publier votre contenu, ou que vous ne vouliez pas que vos métadonnées puissent être découvertes par protocole OAI.
+Nous vous encourageons à conserver l'accès OAI activé, à moins que vous n'utilisiez pas OJS pour publier votre contenu, ou que vous ne vouliez pas que vos métadonnées puissent être découvertes par protocole OAI.
 
 ## <a name="archiving"></a>Archivage
 Si vous avez une entente d'archivage avec un réseau LOCKSS, vous pouvez l'activer ici afin de rendre le contenu de votre revue disponible au réseau.

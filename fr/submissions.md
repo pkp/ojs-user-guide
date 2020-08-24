@@ -9,7 +9,7 @@
 
 Accédez à toute soumission actuellement à l’examen depuis la page « Soumissions ».
 
-Les usagers éditoriaux et administratifs ont accès à toutes les soumissions publiées et archivées, en plus d’un accès facilité aux types de soumissions les plus fréquents pour les aider à gérer leur fil d’activités.
+Les utilisatrices et utilisateurs éditoriaux et administratifs ont accès à toutes les soumissions publiées et archivées, en plus d’un accès facilité aux types de soumissions les plus fréquents pour les aider à gérer leur fil d’activités.
 
 ## <a name="new-submission"></a>Créer une nouvelle soumission
 
@@ -19,15 +19,15 @@ Vous pouvez créer une nouvelle soumission en cliquant sur le bouton **Nouvelle 
 
 Cet onglet offre des informations sur les soumissions qui vous ont été assignées. Utilisez cet onglet pour rester à jour dans vos tâches quotidiennes.
 
-Les éditeurs-trices verront apparaître une notification en cas d’évaluation en retard. Les évaluateurs-trices peuvent suivre leurs dates butoirs, et les auteurs-trices peuvent connaitre l’étape à laquelle leur soumission est rendue.
+Les rédacteurs et rédactrices verront apparaître une notification en cas d’évaluation en retard. Les évaluateurs et évaluatrices peuvent suivre leurs dates butoirs, et les auteurs et auteures peuvent connaître l’étape à laquelle leur soumission est rendue.
 
 ## <a name="unassigned"></a>Non assignées
 
-Les gestionnaires de la revue peuvent visualiser toute soumission qui n’a pas été assignée à un-e éditeur-trice ou éditeur-trice de section. Utilisez cet onglet pour vous assurer que chaque soumission a été assignée à un-e éditeur-trice.
+Les gestionnaires de la revue peuvent visualiser toute soumission qui n’a pas été assignée à un rédacteur ou une rédactrice ou encore un rédacteur ou une rédactrice de rubrique. Utilisez cet onglet pour vous assurer que chaque soumission a été assignée à un rédacteur ou une rédactrice.
 
 ## <a name="active"></a>Actives (toutes)
 
-Vous trouverez ici toute soumission qui n’a pas été publiée ou a été refusée. Seuls les usagers administratifs et éditoriaux ont accès à cet onglet. Pour plus d'informations, consultez [Learning OJS 3: Submissions](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#submission) (en anglais).
+Vous trouverez ici toute soumission qui n’a pas été publiée ou a été refusée. Seuls les utilisatrices et utilisateurs administratifs et éditoriaux ont accès à cet onglet. Pour plus d'informations, consultez [Learning OJS 3: Submissions](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#submission) (en anglais).
 
 ## <a name="archives"></a>Archives
 
@@ -37,8 +37,8 @@ Vous trouverez ici toute soumission qui a été publiée ou déclinée. Les soum
 
 ### Chercher dans des listes volumineuses
 
-Utilisez la barre de recherche au-dessus de la liste pour localiser des soumissions dans des listes volumineuses. Vous pouvez trouver des soumissions avec leur titre, auteur-trice et numéro d’identification.
+Utilisez la barre de recherche au-dessus de la liste pour localiser des soumissions dans des listes volumineuses. Vous pouvez trouver des soumissions avec leur titre, auteur ou auteure et numéro d’identification.
 
 ### Filtrer des listes volumineuses
 
-Cliquez sur le bouton **Filtres** pour déployer l’ensemble des filtres de recherche. Vous pouvez rapidement localiser toutes les soumissions dont les évaluations sont en retard, celles se trouvant à une étape spécifique du processus éditorial, ou celles soumises pour une section particulière.
+Cliquez sur le bouton **Filtres** pour déployer l’ensemble des filtres de recherche. Vous pouvez rapidement localiser toutes les soumissions dont les évaluations sont en retard, celles se trouvant à une étape spécifique du processus éditorial, ou celles soumises pour une rubrique particulière.
