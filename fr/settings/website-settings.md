@@ -37,6 +37,7 @@ Les langues installées sur votre le système par un administrateur ou une admin
 Cette section permet de modifier les menus de navigation de votre site Web, en ajoutant, retirant et réordonnant des éléments. Vous pouvez également créer des éléments personnalisés qui pointent sur votre site ou tout autre site, et même créer des menus personnalisés.
 
 ### Annonces
+Cette section permet de créer des annonces ou des types d'annonces qui seront affichées sur la page d'accueil votre site ou seront envoyées par courriel à l'ensemble de vos lecteurs et lectrices.
 
 ## <a name="plugins"></a>Plugiciels
 Les plugiciels étendent les fonctionnalités d'OJS et lui permettent d'interagir avec des outils et services externes. Cet onglet permet d'activer ou de configurer vos plugiciels, ou d'en installer de nouveaux dans la **Galerie de plugiciels**.
