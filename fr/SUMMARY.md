@@ -1,8 +1,8 @@
 #Sommaire
 
 * [Introduction](README)
-* [Profil d’utilisateur](user-profile)
-* [Auteur](authoring)
+* [Profil d’utilisateur-trice](user-profile)
+* [Soumission](authoring)
 * [Évaluation](reviewing)
 * [Gestion des soumissions](submissions)
 * [Flux des travaux](editorial-workflow)
@@ -17,7 +17,7 @@
 	* [Paramètres de site Web](settings/website-settings)
 	* [Paramètres de flux de travail](settings/workflow-settings)
 	* [Paramètres de diffusion](settings/distribution-settings)
-* [Utilisateurs et rôles](users-and-roles)
+* [Utilisateurs-trices et rôles](users-and-roles)
 * [Outils](tools)
 * [Statistiques](statistics)
 * [Administration](administration)

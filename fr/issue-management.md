@@ -34,7 +34,7 @@ Les détails d’un numéro peuvent être modifiés, notamment le sommaire, la d
 
 ### <a name="edit-issue-toc"></a>Sommaire
 
-Réordonnez les articles programmés pour publication dans ce numéro. Vous pouvez aussi réordonner des sections entières, si vous souhaitez qu’une section apparaisse au-dessus d’une autre.
+Réordonnez les articles programmés pour publication dans ce numéro. Vous pouvez aussi réordonner des rubriques entières, si vous souhaitez qu’une rubrique apparaisse au-dessus d’une autre.
 
 Pour qu'un article apparaisse ici, vous devez d'abord [programmer sa publication](editorial-workflow/production#publish).
 
@@ -50,7 +50,7 @@ Certaines revues pourraient vouloir publier les épreuves d’un numéro entier 
 
 ### <a name="edit-issue-identifiers"></a>Identifiants
 
-Le "Chemin d'accès URL" est un élément textuel incorporé à l’URL du numéro. Par défaut, les numéros se voient attribués des URL basées sur leur identifiant numérique. Vous pouvez cependant leur associer un nom optimisé pour les lecteurs humains, tel que « numero-50e-anniversaire », ce qui crée des URL plus agréables à lire.
+Le « Chemin d'accès URL » est un élément textuel incorporé à l’URL du numéro. Par défaut, les numéros se voient attribués des URL basées sur leur identifiant numérique. Vous pouvez cependant leur associer un nom optimisé pour les lecteurs humains, tel que « numero-50e-anniversaire », ce qui crée des URL plus agréables à lire.
 
 Si vous avez activé des modules d'extension d'identifiant public, vous les trouverez ici si ceux-ci supportent les identifiants publics de revue.
 
