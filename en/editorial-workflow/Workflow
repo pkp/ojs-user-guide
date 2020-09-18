@@ -8,7 +8,7 @@ The stages under the Workflow tab guide a submission through the editorial and p
 4. [Production] (Workflow#production)
 
 
-## <a name="submission"></a>Submission Stage
+## <a name="Workflow#submission"></a>Submission Stage
 
 a. Introduction
 b. [Editorial Actions](submission#editorial-actions)
@@ -31,7 +31,7 @@ Send the submission forward to the [Copyediting stage](copyediting) if you'd lik
 
 Remove the submission from consideration and archive it.
 
-## <a name="review"></a>Review Stages
+## <a name="Workflow#review"></a>Review Stages
 
 a. [Orientation](review#orientation)
 b. [Editorial Actions](review#editorial-actions)
@@ -78,7 +78,7 @@ The editor can initiate the [Copyediting stage](copyediting) once it has passed 
 #### <a name="decline"></a>Decline Submission
 The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.
 
-## <a name="copyediting"></a>Copyediting
+## <a name="Workflow#copyediting"></a>Copyediting
 
 a. [Orientation](copyediting#orientation)
 b. [Editorial Actions](copyediting#editorial-actions)
@@ -122,7 +122,8 @@ There's only one editorial decision available to editors at this stage. If you d
 
 The editor can send the submission to the [Production stage](production) when final copyedited files are ready. Any files in the [Copyedited](copyediting#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
 
-## <a name="production"></a>Production
+## <a name="Workflow#production"></a>Production
+
 a. [Orientation](production#orientation)
 b. [Publishing the Submission](production#publish)
 
