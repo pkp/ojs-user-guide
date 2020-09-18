@@ -1,10 +1,17 @@
 # Workflow
+
 The stages under the Workflow tab guide a submission through the editorial and production process.
 
-## Submission Stage
+1. [Submission] (Workflow#submission)
+2. [Review] (Workflow#review)
+3. [Copyediting] (Workflow#copyediting)
+4. [Production] (Workflow#production)
 
-1. Introduction
-1. [Editorial Actions](submission#editorial-actions)
+
+## <a name="submission"></a>Submission Stage
+
+a. Introduction
+b. [Editorial Actions](submission#editorial-actions)
 
 During the Submission stage, the editor checks the submission files to decide whether it should begin the peer review process.
 
@@ -24,10 +31,10 @@ Send the submission forward to the [Copyediting stage](copyediting) if you'd lik
 
 Remove the submission from consideration and archive it.
 
-## Review Stages
+## <a name="review"></a>Review Stages
 
-1. [Orientation](review#orientation)
-1. [Editorial Actions](review#editorial-actions)
+a. [Orientation](review#orientation)
+b. [Editorial Actions](review#editorial-actions)
 
 During the Review stage, the editor assigns reviewers to the submission.
 
@@ -71,10 +78,10 @@ The editor can initiate the [Copyediting stage](copyediting) once it has passed 
 #### <a name="decline"></a>Decline Submission
 The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.
 
-## Copyediting
+## <a name="copyediting"></a>Copyediting
 
-1. [Orientation](copyediting#orientation)
-1. [Editorial Actions](copyediting#editorial-actions)
+a. [Orientation](copyediting#orientation)
+b. [Editorial Actions](copyediting#editorial-actions)
 
 During the Copyediting stage, the editor assigns a copyeditor to edit the submission files.
 
@@ -115,9 +122,9 @@ There's only one editorial decision available to editors at this stage. If you d
 
 The editor can send the submission to the [Production stage](production) when final copyedited files are ready. Any files in the [Copyedited](copyediting#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
 
-## Production
-1. [Orientation](production#orientation)
-1. [Publishing the Submission](production#publish)
+## <a name="production"></a>Production
+a. [Orientation](production#orientation)
+b. [Publishing the Submission](production#publish)
 
 During the Production stage, the editor assigns production assistants who will help prepare the final publication files, known as galleys. For more detailed information, see [Learning OJS 3: Production](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#production).
 
