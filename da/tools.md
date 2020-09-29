@@ -1,8 +1,7 @@
 # Værktøjer
 
-1. Introduktion
-2. [Importér/Eksportér](tools.md#import-export)
-3. [Statistikker](tools.md#statistics)
+1. [Importér/Eksportér](tools#import-export)
+1. [Statistikker](tools#statistics)
 
 Indeholder import- og eksportmuligheder samt brugerstatistikker og rapporter
 

@@ -1,11 +1,10 @@
 # Indsendelser
 
-1. Introduktion
-2. [Påbegynd en ny indsendelse](submissions.md#new-submission)
-3. [Min kø](submissions.md#my-queue)
-4. [Alle aktive](submissions.md#active)
-5. [Arkiver](submissions.md#archives)
-6. [Tips i forbindelse med indsendelse](submissions.md#tips)
+1. [Påbegynd en ny indsendelse](submissions#new-submission)
+1. [Min kø](submissions#my-queue)
+1. [Alle aktive](submissions#active)
+1. [Arkiver](submissions#archives)
+1. [Tips i forbindelse med indsendelse](submissions#tips)
 
 Du kan tilgå alle de indsendelser, der aktuelt er under behandling via siden ’Indsendelser’.
 

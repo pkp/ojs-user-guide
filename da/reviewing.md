@@ -1,15 +1,14 @@
 # Bedømmelse
 
-1. Introduktion
-2. [At tilmelde sig som bedømmer](reviewing.md#sign-up)
-3. [Færdiggør en bedømmelse](reviewing.md#complete-review)
-4. [Færdiggør din brugerprofil](reviewing.md#complete-user-profile)
+1. [At tilmelde sig som bedømmer](reviewing#sign-up)
+1. [Færdiggør en bedømmelse](reviewing#complete-review)
+1. [Færdiggør din brugerprofil](reviewing#complete-user-profile)
 
 En bedømmer spiller en vigtig rolle i forbindelse med at sikre kvaliteten af videnskabelige udgivelser. Dette afsnit beskriver, hvordan man færdiggør en bedømmelse.
 
 ## <a name="sign-up"></a>At tilmelde sig som bedømmer
 
-Når du registrerer dig som bruger af websitet, kan du blive bedt om at indskrive dig som bedømmer. Hvis muligheden er aktiveret kan du til hver en tid tilføje rollen som bedømmer, selvom du allerede har ladet dig registrere, ved at vælge [brugerprofilsiden](/user-profile.md).
+Når du registrerer dig som bruger af websitet, kan du blive bedt om at indskrive dig som bedømmer. Hvis muligheden er aktiveret kan du til hver en tid tilføje rollen som bedømmer, selvom du allerede har ladet dig registrere, ved at vælge [brugerprofilsiden](/user-profile).
 
 Du vil også blive bedt om at specificere dine bedømmerinteresser, så redaktørerne har en bedre chance for at vælge de rette bedømmere til en indsendelse.
 
@@ -17,7 +16,7 @@ I mange tilfælde kan du allerede have været tilføjet systemet som bedømmer. 
 
 ## <a name="complete-review"></a>Færdiggør en bedømmelse
 
-Du kan se, om du er blevet bedt om at foretage en bedømmelse ved at gå til siden ’[Indsendelser](/submissions.md)’ under de redaktionelle sider \(Dashboard\). Hvis der ligger indsendelser i feltet ’Mine tildelte’ kan du klikke på det link, der indikerer hvilket trin de er nået i bedømmelsesprocessen.
+Du kan se, om du er blevet bedt om at foretage en bedømmelse ved at gå til siden ’[Indsendelser](submissions)’ under de redaktionelle sider \(Dashboard\). Hvis der ligger indsendelser i feltet ’Mine tildelte’ kan du klikke på det link, der indikerer hvilket trin de er nået i bedømmelsesprocessen.
 
 ### Anmodning
 
@@ -49,5 +48,5 @@ En registrering af dine bedømmelser bibeholdes i systemet, så redaktørerne ka
 
 ## <a name="complete-user-profile"></a>Færdiggør din brugerprofil
 
-Du kan tilføje mere information om dig selv, hvis du mangler det. Det sikrer redaktørerne den information, de har brug for i valget af bedømmere. Læs mere under ’[Brugerprofil](/user-profile.md)’.
+Du kan tilføje mere information om dig selv, hvis du mangler det. Det sikrer redaktørerne den information, de har brug for i valget af bedømmere. Læs mere under ’[Brugerprofil](user-profile)’.
 

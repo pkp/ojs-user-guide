@@ -6,7 +6,7 @@ Her gives en indledende oversigt over de enkelte trin i workflowet fra indsendel
 
 Hjælpelinket på de enkelte programsider åbner op til nyttig information for den aktuelle side.
 
-En mere detaljeret gennemgang af programmet er tilgængeligt her: [Learning OJS 3.0](https://www.gitbook.com/book/pkp/ojs3/details).
+En mere detaljeret gennemgang af programmet er tilgængeligt her: [Learning OJS 3.0](https://docs.pkp.sfu.ca/learning-ojs/en/).
 
 
 

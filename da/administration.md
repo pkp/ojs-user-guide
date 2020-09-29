@@ -1,8 +1,7 @@
 # Administration
 
-1. Introduktion
-2. [Tilknyttede tidsskrifter](administration.md#hosted-journals)
-3. [Administrative funktioner](administration.md#admin-functions)
+1. [Tilknyttede tidsskrifter](administration#hosted-journals)
+1. [Administrative funktioner](administration#admin-functions)
 
 Administrationen af websitet er begrænset til brugere med adgang til hele systemet. Administrationsopgaverne er ikke hyppige og kan udføres af tidsskriftschefer, seniorredaktører eller en dedikeret administrator.
 
