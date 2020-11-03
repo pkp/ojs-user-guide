@@ -28,10 +28,6 @@ Set all of your review policies and procedures, including deadlines, notificatio
 ### Setup
 Choose the review mode that should be used by default. The mode can be changed on a per-submission and per-review basis by an editor.
 
-- A **Double-Blind** review will prevent the reviewer and the author from knowing each other's identities
-- A **Blind** review will prevent the author from knowing the reviewer's identity
-- An **Open** review will allow the reviewer and author to know each other's identities
-
 If you **Enable one-click reviewer access** the email invitation to reviewers will contain a special URL that takes invited reviewers directly to the Review page for the submission without requiring them to log in. For security reasons, with this option, editors are not able to modify email addresses or add CCs or BCCs prior to sending invitations to reviewers.
 
 ### Reviewer Guidance
