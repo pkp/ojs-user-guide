@@ -16,7 +16,7 @@ The easiest way to find a user is to use the search button, which will allow you
 
 ## <a name="roles"></a> Roles
 
-User roles govern who can access what in the editorial worfklow.
+User roles govern who can access what in the editorial workflow.
 
 A flexible user role system is provided so that you can tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
 
