@@ -1,8 +1,7 @@
 # Produktion
 
-1. Introduktion
-2. [Orientering](production.md#orientation)
-3. [Publicér indsendelsen](production.md#publish)
+1. [Orientering](production#orientation)
+1. [Publicér indsendelsen](production#publish)
 
 Under produktionstrinnet kan redaktøren tilføje produktionsmedhjælpere, som skal hjælpe med at klargøre de færdigbearbejdede filer til produktion, kaldet satsskibe.
 
@@ -12,7 +11,7 @@ Produktionstrinnet stiller tre felter til rådighed til oprettelse af filer klar
 
 ### Produktionsklare filer
 
-Alle filer, valgt af redaktøren til produktion, vises her. Det drejer sig typisk om filer, der er blevet klargjort under [manuskriptredigeringstrinnet](/copyediting.md). Produktionsmedarbejderne vil bruge disse filer til at generere de endelige publikationsformater.
+Alle filer, valgt af redaktøren til produktion, vises her. Det drejer sig typisk om filer, der er blevet klargjort under [manuskriptredigeringstrinnet](copyediting). Produktionsmedarbejderne vil bruge disse filer til at generere de endelige publikationsformater.
 
 ### Drøftelser under produktion
 
@@ -24,7 +23,7 @@ Redaktører og produktionsmedhjælpere kan oprette publiceringsversioner \(satss
 
 ### Deltagere
 
-Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/editorial-workflow.md#deltagere).
+Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](../editorial-workflow#participants).
 
 ## <a name="publish"></a>Publicér indsendelsen
 

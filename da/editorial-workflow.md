@@ -1,13 +1,12 @@
 # Det redaktionelle workflow
 
-1. Introduktion
-2. [Håndtering af indsendelsesdetaljer](editorial-workflow.md#manage-submission-details)
-3. [Redaktionelle valgmuligheder](editorial-workflow.md#editorial-actions)
-4. [Deltagere](editorial-workflow.md#participants)
+1. [Håndtering af indsendelsesdetaljer](editorial-workflow#manage-submission-details)
+1. [Redaktionelle valgmuligheder](editorial-workflow#editorial-actions)
+1. [Deltagere](editorial-workflow#participants)
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
 
-Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer og indlæg \(drøftelser\), du behøver for at udføre de opgaver, der hører under det pågældende trin i den redaktionelle proces. Du kan [tilføje flere deltagere](#deltagere). Du vil løbende blive præsenteret for et udvalg af [redaktionelle valgmuligheder](#redaktionelle-valgmuligheder), der er relevant for det enkelte trin i processen.
+Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer og indlæg \(drøftelser\), du behøver for at udføre de opgaver, der hører under det pågældende trin i den redaktionelle proces. Du kan [tilføje flere deltagere](editorial-workflow#participants). Du vil løbende blive præsenteret for et udvalg af [redaktionelle valgmuligheder](editorial-workflow#editorial-actions), der er relevant for det enkelte trin i processen.
 
 ## <a name="manage-submission-details"></a>Håndtering af indsendelsesdetaljer
 
@@ -29,7 +28,7 @@ Tilføj noter til eventuel senere dokumentation og se en log over alle handlinge
 
 Et arkiv med kvik-adgang til enhver fil, som du måtte ønske at knytte til indsendelsen. Dette kan anvendes til filer, der ikke er tilknyttet noget trin, såsom underskrevne kontrakter, marketingsfiler eller retningslinjer, som du ønsker at dele med manuskriptredaktører og andre medarbejdere.
 
-Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/settings.md#forlagsbibliotek)’ ved at klikke på ’Se dokumentbibliotek’.
+Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](settings/workflow-settings#forlag)’ ved at klikke på ’Se dokumentbibliotek’.
 
 ## <a name="editorial-actions"></a> Redaktionelle valgmuligheder
 
@@ -43,5 +42,5 @@ I højre-menuen, på hvert trin i den redaktionelle proces, finder du en liste o
 
 Når du tilføjer en bruger, vil vedkommende have adgang til de trin hans rolle tillader. For eksempel vil en redaktør have adgang til alle trin, mens en manuskriptredaktør kun vil få adgang til manuskriptredigeringstrinnet.
 
-Du behøver ikke at tilføje bedømmere til deltagerlisten. Når du når frem til [bedømmelsestrinnet](/review.md), vil du kunne administrere bedømmerne via et mere egnet felt.
+Du behøver ikke at tilføje bedømmere til deltagerlisten. Når du når frem til [bedømmelsestrinnet](editorial-workflow/review), vil du kunne administrere bedømmerne via et mere egnet felt.
 

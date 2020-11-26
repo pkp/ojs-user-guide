@@ -1,9 +1,8 @@
 # Numre
 
-1. Introduktion
-2. [Fremtidige numre](issue-management.md#future-issues)
-3. [Tidligere numre](issue-management.md#back-issues)
-4. [Redigér et nummer](issue-management.md#edit-issue)
+1. [Fremtidige numre](issue-management#future-issues)
+1. [Tidligere numre](issue-management#back-issues)
+1. [Redigér et nummer](issue-management#edit-issue)
 
 Fra denne side oprettes fremtidige numre og her kan tidligere numre administreres.
 
@@ -11,11 +10,11 @@ Hvert nummer opført på denne side kan udfoldes ved at klikke på pilen/trekant
 
 Herved fremkommer:
 
-**Redigér** – [Administrér](#redigér-et-nummer) nummerets indhold og metadata.
+**Redigér** – [Administrér](issue-management#edit-issue) nummerets indhold og metadata.
 
 **Vis** – Spring til nummeret på websitet eller få en forhåndsvisning, hvis det endnu ikke er publiceret.
 
-**Publicér nummer **– Ved at publicere et nummer offentliggøres det på dit website.
+**Publicér nummer**– Ved at publicere et nummer offentliggøres det på dit website.
 
 **Slet** – Fjerner et nummer, kan det ikke fortrydes.
 
@@ -23,7 +22,7 @@ Herved fremkommer:
 
 Fra denne side kan du se fremtidige numre og oprette et nyt.
 
-Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/production.md#publicér-indsendelsen), vil du kunne organisere en indholdsfortegnelse.
+Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/editorial-workflow/production#publish), vil du kunne organisere en indholdsfortegnelse.
 
 ## <a name="back-issues"></a>Tidligere numre
 
@@ -37,7 +36,7 @@ Her kan det enkelte nummers detaljer redigeres såsom indholdsfortegnelse, publi
 
 Her kan du omrokere artikler, planlagt til publicering i et nummer, eller omrokere hele sektioner, hvis du ønsker en sektion skal vises over en anden.
 
-Før en artikel kan vises her, skal du have klikket på knappen ’[Planlæg publicering](/production.md#publicér-indsendelsen)’ under produktionstrinnet
+Før en artikel kan vises her, skal du have klikket på knappen ’[Planlæg publicering](editorial-workflow/production#publish)’ under produktionstrinnet
 
 ### Nummerdata
 

@@ -1,7 +1,7 @@
 # Indsendelsestrinnet
 
 1. Introduktion
-2. [Redaktionelle valgmuligheder](submission.md#editorial-actions)
+1. [Redaktionelle valgmuligheder](submission#editorial-actions)
 
 Her vurderer redaktøren de indsendte filer og beslutter, om de skal sendes videre til bedømmelse.
 
@@ -11,11 +11,11 @@ Redaktøren kan udvælge en medredaktør ved at klikke på linket ’Tilføj’ 
 
 ### Send til bedømmelse
 
-Videresend indsendelsen til [bedømmelsestrinnet](/review.md), hvor det vil blive peer reviewet.
+Videresend indsendelsen til [bedømmelsestrinnet](review), hvor det vil blive peer reviewet.
 
 ### Send til manuskriptredigering
 
-Fremsend indsendelsen til [manuskriptredigeringstrinnet](/copyediting.md), hvis du vil springe bedømmelsesprocessen over.
+Fremsend indsendelsen til [manuskriptredigeringstrinnet](copyediting), hvis du vil springe bedømmelsesprocessen over.
 
 ### Afvis indsendelse
 
