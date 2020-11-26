@@ -1,6 +1,7 @@
 # Production
+
 1. [Orientation](production#orientation)
-1. [Publishing the Submission](production#publish)
+2. [Publishing the Submission](production#publish)
 
 During the Production stage, the editor assigns production assistants who will help prepare the final publication files, known as galleys. For more detailed information, see [Learning OJS 3: Production](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#production).
 
@@ -22,6 +23,6 @@ Editors can add production assistants or layout editors from this panel. [Learn 
 
 # <a name="publish"></a>Publishing the Submission
 
-Editors and production assistants can create galleys. These typically represent separate publication formats, such as PDF and HTML.
+Editors and production assistants can create galley files for publication. These typically represent separate publication formats, such as PDF and HTML.
 
-Once the production-ready files have been transformed into a galley file ready for publication, Editors can move from the Workflow panel to the Publication tab by using the Schedule for Publication button. The galley file will be uploaded in the Publication tab.
+Once the production-ready files have been transformed into a galley file ready for publication, Editors can move from the Workflow panel to the Publication tab by using the Schedule for Publication button. The galley file will then be uploaded in the Publication tab.

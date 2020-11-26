@@ -10,6 +10,7 @@
    * [Review Stages](editorial-workflow/review)
    * [Copyediting](editorial-workflow/copyediting)
    * [Production](editorial-workflow/production)
+   * [Publication](editorial-workflow/publication)
 * [Issue Management](issue-management)
 * [Tasks](tasks)
 * Settings
