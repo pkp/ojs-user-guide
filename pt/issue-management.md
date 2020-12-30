@@ -1,15 +1,15 @@
 # Números
 
 1. Introdução
-2. [Edições futuras](issue-management.md#future-issues)
-3. [Edições anteriores](issue-management.md#back-issues)
-4. [Editar um número](issue-management.md#edit-issue)
+2. [Edições futuras](issue-management#future-issues)
+3. [Edições anteriores](issue-management#back-issues)
+4. [Editar um número](issue-management#edit-issue)
 
 Configure números futuros e gira números existentes nesta página.
 
 Cada número listado nestas páginas podem ser expandidos clicando na pequena seta à esquerda, o que irá revelar algumas opções.
 
-**Editar** - [Edite](issue-management.md#edit-issue) os conteúdos e metadados deste número.
+**Editar** - [Edite](issue-management#edit-issue) os conteúdos e metadados deste número.
 
 **Ver/Pré-visualizar** - Salte para site onde o número já se encontra ou visualize uma pré-visualização do número se ainda não estiver publicado.
 
@@ -21,7 +21,7 @@ Cada número listado nestas páginas podem ser expandidos clicando na pequena se
 
 Veja números futuros e crie um novo número a partir desta secção.
 
-Os números devem ser criados com bastanta antecedência da sua data de publicação para que possa ir agendando os artigos para publicação. Quando tiver  [artigos agendados](editorial-workflow/production.md#publish) para um número, poderá gerir o sumário.
+Os números devem ser criados com bastanta antecedência da sua data de publicação para que possa ir agendando os artigos para publicação. Quando tiver  [artigos agendados](editorial-workflow/production#publish) para um número, poderá gerir o sumário.
 
 ## <a name="back-issues"></a>Edições Anteriores
 
@@ -35,7 +35,7 @@ Os detalhes do número podem ser editados incluindo o sumário, data de publica�
 
 Reorganize os artigos agendados para publicação neste número. Pode ainda reordenar seções completas, se pretender que uma secção apareça acima de outra.
 
-Para que um artigo apareça no sumário, terá de o [agendar para publicação](editorial-workflow/production.md#publish).
+Para que um artigo apareça no sumário, terá de o [agendar para publicação](editorial-workflow/production#publish).
 
 ### <a name="edit-issue-data"></a>Dados da Edição
 
