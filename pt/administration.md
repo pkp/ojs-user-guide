@@ -1,8 +1,8 @@
 # Administração
 
 1. Introdução
-2. [Revistas Hospedadas](administration.md#hosted-journals)
-3. [Funções Administrativas](administration.md#admin-functions)
+2. [Revistas Hospedadas](administration#hosted-journals)
+3. [Funções Administrativas](administration#admin-functions)
 
 A administração do website está limitado a utilizadores com permissões de acesso pleno ao sistema. Tarefas de administração não são frequentes e podem ser executadas por um editor-gestor, editor sénior, ou por um administrador de website dedicado.
 
