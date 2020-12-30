@@ -1,13 +1,13 @@
 # Processo Editorial
 
 1. Introdução
-2. [Gerir Detalhes da Submissão](editorial-workflow.md#manage-submission-details)
-3. [Ações Editoriais](editorial-workflow.md#editorial-actions)
-4. [Participantes](editorial-workflow.md#participants)
+2. [Gerir Detalhes da Submissão](editorial-workflow#manage-submission-details)
+3. [Ações Editoriais](editorial-workflow#editorial-actions)
+4. [Participantes](editorial-workflow#participants)
 
 O processo editorial permite-lhe guiar uma submissão desde a avaliação inicial através da avaliação por pares, revisão de texto até à produção, onde o objeto é prepatado para publicação.
 
-Cada separador do processo editorial fornece-lhe a informação, ferramentas e painéis de discussão necessários a completar as tarefas de cada etapa. Pode [adicionar participantes](editorial-workflow.md#participants) para o ajuda. E quando estiver pronto, ser-lh-ão apresentados um leque de [ações editoriais](editorial-workflow.md#editorial-actions) que serão apropriadas a cada etapa.
+Cada separador do processo editorial fornece-lhe a informação, ferramentas e painéis de discussão necessários a completar as tarefas de cada etapa. Pode [adicionar participantes](editorial-workflow#participants) para o ajuda. E quando estiver pronto, ser-lh-ão apresentados um leque de [ações editoriais](editorial-workflow#editorial-actions) que serão apropriadas a cada etapa.
 
 ## <a name="manage-submission-details"></a>Gerir os Detalhes da  Submissão
 
@@ -29,7 +29,7 @@ Adicione notas para arquivo do registo e visualizar o arquivo de todos os evento
 
 Aqui encontra um repositório de fácil acesso de ficheiros que queira acompanhar ao longo da submissão. Isto é útil para ficheiros que não são específicos de alguma etapa, tal como contratos assinados, ficheiros de marketing, ou guias que queira partilhar com editores de texto ou outros assitentes.
 
-Pode facilmente adicionar ficheiros existentes na  [Biblioteca da Editora](settings.md#workflow-library) clicando em  **Ver Biblioteca de Documentos**.
+Pode facilmente adicionar ficheiros existentes na  [Biblioteca da Editora](settings#workflow-library) clicando em  **Ver Biblioteca de Documentos**.
 
 ## <a name="editorial-actions"></a> Ações Editoriais
 
@@ -43,4 +43,4 @@ Do lado direito de cada etapa do processo editorial, irá encontrar uma lista de
 
 *Quando adiciona um utilizador, esse utilizador terá acesso a todas as etapas que o seu perfil tem permissões para ver*. Por exemple, um Editor adicionado à grelha de Participantes terá acesso a todas as etapas. Mas um Editor de texto só terá acesso à etapa de Edição de texto.
 
-*Não será necessário adicionar Revisores ao painel de Participantes.* Quando chegar à [etapa de revisão](editorial-workflow/review.md), poderá gerir os revisores num painel mais conveniente.
+*Não será necessário adicionar Revisores ao painel de Participantes.* Quando chegar à [etapa de revisão](editorial-workflow/review), poderá gerir os revisores num painel mais conveniente.
