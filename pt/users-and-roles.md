@@ -1,9 +1,9 @@
 # Utilizadores e Papéis
 
 1. Introdução
-2. [Utilizadores](users-and-roles.md#users)
-3. [Papéis](users-and-roles.md#roles)
-4. [Acessos](users-and-roles.md#site-access)
+2. [Utilizadores](users-and-roles#users)
+3. [Papéis](users-and-roles#roles)
+4. [Acessos](users-and-roles#site-access)
 
 Gerir os utilizadores da sua revista, atribuir-lhes papéis e criar ou editar papéis existentes.
 
@@ -26,12 +26,12 @@ Há muitos papéis que a maioria das revistas não necessitam. Se pretender, pod
 Pode editar ou remover papéis existentes, ou adicionar novos papéis. Todos os papéis têm um nível de permissões que lhes permite realizar um conjunto específico de ações dentro do sistema:
 
 - *Autores* podem enviar submissões.
-- *Revisores* aparecem quando estiver a atribuir revisões no [Processo Editorial](editorial-workflow.md) e têm acesso a essa etapa quando estiverem designados.
+- *Revisores* aparecem quando estiver a atribuir revisões no [Processo Editorial](editorial-workflow) e têm acesso a essa etapa quando estiverem designados.
 - *Leitores*, tal como todos os outros tipos de utilizadores, podem aceder ao website disponível ao público. Todos os utilizadores têm este tipo de permissões.
-- *Editores-gestores* têm acesso a todo o [Processo Editorial](editorial-workflow.md), tal como à maioria das configurações.
-- *Editores de Secção* e *Assistentes Editoriais* podem aceder apenas às partes do [Processo Editorial](editorial-workflow.md) a que os seus papéis tenham acesso (ver abaixo).
+- *Editores-gestores* têm acesso a todo o [Processo Editorial](editorial-workflow), tal como à maioria das configurações.
+- *Editores de Secção* e *Assistentes Editoriais* podem aceder apenas às partes do [Processo Editorial](editorial-workflow) a que os seus papéis tenham acesso (ver abaixo).
 
-Adicionalmente aos níveis de permissão, pode restringir o acesso a certos papéis a determinadas etapas do [Processo Editorial](editorial-workflow.md). Isto é útil para assistentes profissionais tal como editores de texto ou editores de layout que o poderão apoiar em uma ou duas etapas do processo.
+Adicionalmente aos níveis de permissão, pode restringir o acesso a certos papéis a determinadas etapas do [Processo Editorial](editorial-workflow). Isto é útil para assistentes profissionais tal como editores de texto ou editores de layout que o poderão apoiar em uma ou duas etapas do processo.
 
 ## <a name="site-access"></a> Opções de Acesso ao Site Access Options
 
