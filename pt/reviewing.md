@@ -1,15 +1,15 @@
 # Revisão
 
 1. Introdução
-2. [Registar como Revisor](reviewing.md#sign-up)
-3. [Concluir uma Revisão](reviewing.md#complete-review)
-4. [Completar o Seu Perfil de Utilizador](reviewing.md#complete-user-profile)
+2. [Registar como Revisor](reviewing#sign-up)
+3. [Concluir uma Revisão](reviewing#complete-review)
+4. [Completar o Seu Perfil de Utilizador](reviewing#complete-user-profile)
 
 Os revisores têm um papel fundamental em assegurar a qualidade da publicação académica. Este capítulo descreve como realizar uma revisão.
 
 ## <a name="sign-up"></a>Registar como Revisor
 
-Quando se regista no website, o sistema pergunta-lhe se quer adicionar o papel de revisor. Se esta opção estiver ativada, pode adicionar ao seu perfil o papel de revisor a qualquer altura, mesmo que já esteja registado, indo à página do [Perfil de Utilizador](user-profile.md) na página restrita ao seu perfil.
+Quando se regista no website, o sistema pergunta-lhe se quer adicionar o papel de revisor. Se esta opção estiver ativada, pode adicionar ao seu perfil o papel de revisor a qualquer altura, mesmo que já esteja registado, indo à página do [Perfil de Utilizador](user-profile) na página restrita ao seu perfil.
 
 Também lhe será solicitado que especifique os seus interesses de revisão, para que os editores possam efetuar escolhas mais conscientes quando escolher os revisores para uma submissão.
 
@@ -17,7 +17,7 @@ Em muitos caso, pode já ter sido adicionado ao sistema como revisor. Isto acont
 
 ## <a name="complete-review"></a>Concluir uma Revisão
 
-Para visualizar se lhe foi atribuída alguma revisão dirija-se à página de [Submissões](submissions.md) na página do seu utilizador. Se tiver submissões na área **Minhas Designações**, pode clicar no link que indica em que etapa do processo editorial a submissão se encontra para aceder ao passo-a-passo de revisão.
+Para visualizar se lhe foi atribuída alguma revisão dirija-se à página de [Submissões](submissions) na página do seu utilizador. Se tiver submissões na área **Minhas Designações**, pode clicar no link que indica em que etapa do processo editorial a submissão se encontra para aceder ao passo-a-passo de revisão.
 
 ### <a name="complete-review-request"></a>Pedido de Revisão
 
@@ -47,4 +47,4 @@ O registo das suas revisões é guardada no sistema, para que os editores possam
 
 ## <a name="complete-user-profile"></a>Completar o Seu Perfil de Utilizador
 
-Pode completar o seu perfil de utilizador com informação mais consistente sobre si se ainda não o fez. Esta é uma excelente forma de assegurar-se que os editores têm toda a informação necessária para escolher os revisores mais adequados a cada submissão. Saiba mais na secção do [Perfil de Utilizador](user-profile.md).
+Pode completar o seu perfil de utilizador com informação mais consistente sobre si se ainda não o fez. Esta é uma excelente forma de assegurar-se que os editores têm toda a informação necessária para escolher os revisores mais adequados a cada submissão. Saiba mais na secção do [Perfil de Utilizador](user-profile).
