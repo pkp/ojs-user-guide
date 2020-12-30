@@ -1,7 +1,7 @@
 # Submissão
 
 1. Introdução
-2. [Ações Editoriais](submission.md#editorial-actions)
+2. [Ações Editoriais](submission#editorial-actions)
 
 Durante a etapa de Submissão, o editor verifica os ficheiros de submissão para decidir se deve iniciar o processo de avaliação por pares.
 
@@ -11,11 +11,11 @@ O editor pode designar um sub-editor para o ajudar através do painel de **Parti
 
 ### Enviar para Revisão
 
-Envie a submissão para a [Etapa de Revisão](review.md), onde será avaliada por revisores.
+Envie a submissão para a [Etapa de Revisão](review), onde será avaliada por revisores.
 
 ### Enviar para Edição de Texto
 
-Envie a submissão para a [Etapa de Edição de Texto](copyediting.md) se pretender saltar todo o processo de revisão.
+Envie a submissão para a [Etapa de Edição de Texto](copyediting) se pretender saltar todo o processo de revisão.
 
 ### Rejeitar Submissão
 
