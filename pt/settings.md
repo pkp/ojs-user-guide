@@ -1,10 +1,10 @@
 # Configuração
 
 1. Introdução
-2. [Revista](settings.md#context)
-3. [Website](settings.md#website)
-4. [Fluxo de Trabalho](settings.md#workflow)
-5. [Distribuição](settings.md#distribution)
+2. [Revista](settings#context)
+3. [Website](settings#website)
+4. [Fluxo de Trabalho](settings#workflow)
+5. [Distribuição](settings#distribution)
 
 Configure o seu website para corresponder às suas necessidades.
 
@@ -36,7 +36,7 @@ Quando atribui um Item de Menu com condições de visualização, verá um ícon
 
 ## <a name="workflow"></a>Fluxo de trabalho
 
-Configure todos os aspetos do [Fluxo de trabalho Editorial](editorial-workflow.md), incluindo gestão de ficheiros, instruções de submissão, prazos de revisão e diretrizes, notificações de e-mail e muito mais.
+Configure todos os aspetos do [Fluxo de trabalho Editorial](editorial-workflow), incluindo gestão de ficheiros, instruções de submissão, prazos de revisão e diretrizes, notificações de e-mail e muito mais.
 
 ### <a name="workflow-submission"></a>Submissão
 
@@ -98,11 +98,11 @@ Se pretender solicitar informação específica aos revisores, pode construir fo
 
 A Biblioteca da Editora oferece um repositório de ficheiros para armazenar e facilmente partilhar ficheiros comuns, tais como as instruções de escrita de artigos, contratos aos autores e formulário de publicação, e materiais de marketing.
 
-Os objetos armazenados na Biblioteca da Editora podem ser rapidamente recuperados e adicionados à [Biblioteca da Submissão](editorial-workflow#submission-library.md) para ser partilhado com os autores ou assistentes.
+Os objetos armazenados na Biblioteca da Editora podem ser rapidamente recuperados e adicionados à [Biblioteca da Submissão](editorial-workflow#submission-library) para ser partilhado com os autores ou assistentes.
 
 ### <a name="workflow-emails"></a>E-mails
 
-O OJS envia e-mails durante as várias etapas do [Processo Editorial](editorial-workflow.md), bem como em outras ações como registo no sistema e confirmação de submissão.
+O OJS envia e-mails durante as várias etapas do [Processo Editorial](editorial-workflow), bem como em outras ações como registo no sistema e confirmação de submissão.
 
 A configuração nesta secção permite-lhe editar a assinatura anexada a cada e-mail, bem como alterar as mensagens padrão enviadas para cada tipo de e-mail.
 
