@@ -1,11 +1,11 @@
 # Submissões
 
 1. Introdução
-2. [Iniciar uma Nova Submissão](submissions.md#new-submission)
-3. [Minha Fila](submissions.md#my-queue)
-4. [Ativos](submissions.md#active)
-5. [Arquivos](submissions.md#archives)
-6. [Encontrar Submissões Rapidamente](submissions.md#find-quickly)
+2. [Iniciar uma Nova Submissão](submissions#new-submission)
+3. [Minha Fila](submissions#my-queue)
+4. [Ativos](submissions#active)
+5. [Arquivos](submissions#archives)
+6. [Encontrar Submissões Rapidamente](submissions#find-quickly)
 
 Aceda a todas as submissões que se encontram em consideração através da página de Submissões.
 
