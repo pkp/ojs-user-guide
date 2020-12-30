@@ -2,8 +2,8 @@
 
 1. Orientação
 2. Ações do Autor
-3. [Enviar uma Submissão](authoring.md#make-submission)
-4. [Acompanhe a sua Submissão](authoring.md#track-submission)
+3. [Enviar uma Submissão](authoring#make-submission)
+4. [Acompanhe a sua Submissão](authoring#track-submission)
 
 ## <a name="orientation"></a>Orientação
 
@@ -62,7 +62,7 @@ Conseguiu! Se quiser saber mais sobre como seguir a sua submissão, leia a próx
 
 ## <a name="track-submission"></a>Seguir a sua Submissão
 
-Quando a sua submissão se encontra em consideração, pode ir dando uma vista de olhos no seu estado, entrando na sua conta e clicando em [Submissões](submissions.md).
+Quando a sua submissão se encontra em consideração, pode ir dando uma vista de olhos no seu estado, entrando na sua conta e clicando em [Submissões](submissions).
 
 Aqui encontra a lista das suas submissões com a etapa do processo editorial em que atualmente se encontra. Clique no nome da etapa para interagir com essa mesma etapa.
 
