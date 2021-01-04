@@ -1,8 +1,8 @@
 # Ferramentas
 
 1. Introdução
-2. [Importar/Exportar](tools.md#import-export)
-3. [Estatísticas](tools.md#statistics)
+2. [Importar/Exportar](tools#import-export)
+3. [Estatísticas](tools#statistics)
 
 Importe e exporte conteúdo, e visualize as estatísticas de uso e relatórios através do menu Ferramentas.
 

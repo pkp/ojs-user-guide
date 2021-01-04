@@ -1,8 +1,8 @@
 # Revisão
 
 1. Introdução
-2. [Orientação](review.md#orientation)
-3. [Ações Editoriais](review.md#editorial-actions)
+2. [Orientação](review#orientation)
+3. [Ações Editoriais](review#editorial-actions)
 
 Durante a etapa de Revisão, o editor designa revisores à submissão.
 
@@ -29,7 +29,7 @@ Os editores e sub-editores podem iniciar conversas entre eles ou com os revisore
 As discussões de revisão não são específicas de nenhuma ronda e serão transferidas para rondas seguintes no caso de uma nova ronda iniciar.
 
 ### <a name="participants"></a>Participantes
-Os editores e sub-editores podem adicionar utilizadores adicionais a esta etapa para os auxiliar no processo de revisão. Isto é frequentemente utilizado por editores que queiram um sub-editor que gira as comunicações do dia-a-dia com os revisores. [Saiba mais](../editorial-workflow.md#participants).
+Os editores e sub-editores podem adicionar utilizadores adicionais a esta etapa para os auxiliar no processo de revisão. Isto é frequentemente utilizado por editores que queiram um sub-editor que gira as comunicações do dia-a-dia com os revisores. [Saiba mais](../editorial-workflow#participants).
 
 ## <a name="editorial-actions"></a>Ações Editoriais
 O editor pode realizar várias ações editoriais durante cada ronda da etapa de revisão. Cada uma destas decisões notifica automaticamente o autor por e-mail.
@@ -41,7 +41,7 @@ O editor pode solicitar revisões ao autor sem abrir uma nova ronda de revisão.
 O editor pode solicitar revisões ao autor que necessitem abrir uma nova ronda de revisão. Quando as revisões foram recebidas, é necessário criar uma nova ronda de revisão no topo da etapa de revisão.
 
 ### <a name="copyediting"></a>Enviar para Edição de Texto
-O editor pode iniciar a [Edição de Texto](copyediting.md) assim que terminar a etapa de revisão.
+O editor pode iniciar a [Edição de Texto](copyediting) assim que terminar a etapa de revisão.
 
 ### <a name="decline"></a>Rejeitar Submissão
 O editor pode rejeitar a submissão se não for aprovada no processo de revisão. A submissão será removida no processo editorial e enviado para os Arquivos.

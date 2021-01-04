@@ -1,8 +1,8 @@
 # Produção
 
 1. Introdução
-2. [Orientação](production.md#orientation)
-3. [Publicar a Submissão](production.md#publish)
+2. [Orientação](production#orientation)
+3. [Publicar a Submissão](production#publish)
 
 Durante a etapa de Produção, o editor designa assistentes de produção que irão ajudar a preparar os ficheiros finais para publicação.
 
@@ -12,7 +12,7 @@ A etapa de Produção oferece três painéis para criar os ficheiros para public
 
 ### <a name="production-ready"></a>Ficheiros Prontos para Produção
 
-Todos os ficheiros selecionados pelo editor para produção aparecerão aqui. Tipicamente isto inclui ficheiros que foram preparados durante a [Etapa de Edição de Texto](copyediting.md). Os assistentes de produção irão usar estes ficheiros para gerar os formatos finais de publicação.
+Todos os ficheiros selecionados pelo editor para produção aparecerão aqui. Tipicamente isto inclui ficheiros que foram preparados durante a [Etapa de Edição de Texto](copyediting). Os assistentes de produção irão usar estes ficheiros para gerar os formatos finais de publicação.
 
 ### <a name="production-discussions"></a>Dicussões de Produção
 
@@ -24,7 +24,7 @@ Os editores e assistentes de produção podem criar versões finais e enviar um 
 
 ### <a name="participants"></a>Participantes
 
-Os editores podem adicionar assistentes de produção ou editores de layout através deste painel. [Saiba mais](../editorial-workflow.md#participants).
+Os editores podem adicionar assistentes de produção ou editores de layout através deste painel. [Saiba mais](../editorial-workflow#participants).
 
 ## <a name="publish"></a>Publicar a Submissão
 

@@ -1,16 +1,16 @@
 # Edição de texto
 
 1. Introdução
-2. [Orientação](copyediting.md#orientation)
-3. [Ações Editoriais](copyediting.md#editorial-actions)
+2. [Orientação](copyediting#orientation)
+3. [Ações Editoriais](copyediting#editorial-actions)
 
 Durante a etapa de Edição de texto, o editor designa um editor de texto para rever os ficheiros de submissão.
 
-O editor de texto, que é geralmente um profissional, irá alinhar o estilo de escrita com as suas instruções editoriais, melhorar a qualidade e clareza da escrita, corrigir a gramática, e preparar a submissão para a conversão para o[formato de publicação](production.md).
+O editor de texto, que é geralmente um profissional, irá alinhar o estilo de escrita com as suas instruções editoriais, melhorar a qualidade e clareza da escrita, corrigir a gramática, e preparar a submissão para a conversão para o[formato de publicação](production).
 
 Este é a última etapa antes de gerar o formato de publicação tal como PDF e ePubs. Se não tiver recursos para contratar um editor de texto profissional, use esta etapa para dar uma olhadela no materior, verificar factos, corrigir erros e comunicar com o autor para clarificar alguns pontos que estejam confusos.
 
-Adicione os editores de texto a partir do [painel de participantes](../editorial-workflow.md#participants).
+Adicione os editores de texto a partir do [painel de participantes](../editorial-workflow#participants).
 
 ## <a name="orientation"></a>Orientação
 
@@ -26,13 +26,13 @@ Os Editores e editores de texto podem usar este painel para iniciar discussões 
 
 ### <a name="copyedited"></a>Edição de texto
 
-Os editores de texto podem enviar os ficheiros finais revistos para este painel. Devem ser ficheiros concluídos que se encontram prontos para [enviar para produção](copyediting.md#editorial-actions).
+Os editores de texto podem enviar os ficheiros finais revistos para este painel. Devem ser ficheiros concluídos que se encontram prontos para [enviar para produção](copyediting#editorial-actions).
 
 *Os Editores também podem adicionar ficheiros aqui.*
 
 ### <a name="participants"></a>Participantes
 
-Os Editores podem adicionar editores de texto através deste painel. [Saiba mais](../editorial-workflow.md#participants).
+Os Editores podem adicionar editores de texto através deste painel. [Saiba mais](../editorial-workflow#participants).
 
 ## <a name="editorial-actions"></a>Ações Editoriais
 
@@ -40,4 +40,4 @@ Só existe uma decisão editorial disponível para os editores nesta etapa. Se d
 
 ### <a name="production"></a>Enviar para Produção
 
-O editor pode enviar a submissão para a [etapa de Produção](production.md) quando os ficheiros finais e revistos estiverem prontos. Quaisquer ficheiros no painel [Edição de texto](copyediting.md#copyedited) serão automaticamente encaminhados a menos que o editor escolha não os enviar.
+O editor pode enviar a submissão para a [etapa de Produção](production) quando os ficheiros finais e revistos estiverem prontos. Quaisquer ficheiros no painel [Edição de texto](copyediting#copyedited) serão automaticamente encaminhados a menos que o editor escolha não os enviar.
