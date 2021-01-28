@@ -40,4 +40,4 @@ Use the search panel above the list to locate submissions in a large list. You c
 
 ### Filtering Large Lists
 
-Click the **Filter** button to expand a set of search filters. You can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, or those submitted to a specific section.
+Click the **Filter** button to expand a set of search filters. You can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, those submitted to a specific section, and those assigned to a specific editor.
