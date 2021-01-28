@@ -48,3 +48,5 @@ Items that are stored in the Publisher Library can be quickly retrieved and adde
 OJS sends a number of emails during various stages of the [Editorial Workflow](../editorial-workflow) as well as other actions such as registration and submission acknowledgement. The settings in this section allow you to edit the signature attached to each email as well as change the default messages sent for each type of email.
 
 You can view a description of each email and edit the email by clicking the dropdown arrow on the right.
+
+Click **Filters** to filter templates by sender, recipient, workflow stage, and whether the template is enabled.
