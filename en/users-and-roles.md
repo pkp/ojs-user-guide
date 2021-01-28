@@ -1,8 +1,9 @@
 # Users and Roles
 
 1. [Users](users-and-roles#users)
-1. [Roles](users-and-roles#roles)
-2. [Site Access](users-and-roles#site-access)
+2. [Roles](users-and-roles#roles)
+3. [Notify](users-and-roles#notify)
+4. [Site Access](users-and-roles#site-access)
 
 Manage your journal's users, assign them to roles, and create or edit existing roles. For more detailed information, see [Learning OJS 3: Users and Roles](https://docs.pkp.sfu.ca/learning-ojs/en/users-and-roles).
 
@@ -31,6 +32,10 @@ You can edit or remove existing roles or add new roles. All roles are given one 
 - *Series Editors* and *Journal Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow) assigned to their role (see below).
 
 In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow). This is useful for professional assistants such as copy editors or layout managers who may assist during one or two stages of the workflow.
+
+## <a name="notify"></a> Notify
+
+If an Administrator has enabled "Bulk Emails" under [Site Settings](https://docs.pkp.sfu.ca/learning-ojs/en/site-administration#site-settings), you will see a Notify tab. You can use this tab to [email all users in a role](https://docs.pkp.sfu.ca/learning-ojs/en/users-and-roles#email-users). 
 
 ## <a name="site-access"></a> Site Access Options
 
