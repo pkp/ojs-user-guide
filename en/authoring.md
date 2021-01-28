@@ -27,15 +27,11 @@ Making a new submission is an easy-to-follow 5-step process. Follow along with t
 
 Upload your submission files.
 
-**Upload File**: Each file needs to be assigned as a particular component, which helps organize the files for large projects.
+**Upload File**: 
 
-You'll upload each of your files one at a time. You will have the opportunity to upload more files in a moment.
+You can upload one or more files with your submission. Select multiple files to upload more than one file at a time or upload each file individually. 
 
-**Add Details**:
-
-If you wish, use the Edit link to rename the default file name chosen by the system.
-
-**Confirm**: Add additional files or hit Complete.
+Each file needs to be identified as a particular component type. The type options will vary depending on what has been defined by the journal, but they could include article text, data sets, research results, or images.
 
 Select Save and Continue to move to the next step.
 
