@@ -10,6 +10,9 @@ Configure all aspects of the [Editorial Workflow](../editorial-workflow), includ
 ## <a name="submission"></a>Submission
 The Submission tab determines what information authors provide or agree to when they make a submission.
 
+### Disable Submissions
+If you want to disable submissions for the whole journal you can check the box here. Or to disable submissions in a specific section, click the **Journal Sections** link. 
+
 ### Metadata
 If you Enable a metadata field it will be available for each submission. Checking **Submission Form** will allow authors to add it when they make a submission. Otherwise only an editor will be able to add it.
 
