@@ -1,4 +1,4 @@
-#OJS 3.0 User Guide
+#OJS 3.3 User Guide
 
 This guide will help you publish journals and issues with Open Journal Systems.
 

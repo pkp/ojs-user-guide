@@ -10,6 +10,9 @@ Configure all aspects of the [Editorial Workflow](../editorial-workflow), includ
 ## <a name="submission"></a>Submission
 The Submission tab determines what information authors provide or agree to when they make a submission.
 
+### Disable Submissions
+If you want to disable submissions for the whole journal you can check the box here. Or to disable submissions in a specific section, click the **Journal Sections** link. 
+
 ### Metadata
 If you Enable a metadata field it will be available for each submission. Checking **Submission Form** will allow authors to add it when they make a submission. Otherwise only an editor will be able to add it.
 
@@ -45,3 +48,5 @@ Items that are stored in the Publisher Library can be quickly retrieved and adde
 OJS sends a number of emails during various stages of the [Editorial Workflow](../editorial-workflow) as well as other actions such as registration and submission acknowledgement. The settings in this section allow you to edit the signature attached to each email as well as change the default messages sent for each type of email.
 
 You can view a description of each email and edit the email by clicking the dropdown arrow on the right.
+
+Click **Filters** to filter templates by sender, recipient, workflow stage, and whether the template is enabled.

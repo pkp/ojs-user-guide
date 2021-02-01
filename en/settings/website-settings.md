@@ -38,6 +38,15 @@ Edit the existing navigation menus on your website. You can add and remove items
 ### Announcements
 Create announcements or announcement types to appear on your site's homepage or to be emailed to all of your readers.
 
+### Lists
+Under Lists you can configure how many items to display in a list and how many page links to display.
+
+### Privacy Statement
+Enter a privacy statement that explains how you will use data submitted to your journal and site.
+
+### Date & Time
+You can configure the format of date and time displays. If your journal is multilingual, you can have different configurations for different languages. Click the other language tab to change the settings for another language.
+
 ## <a name="plugins"></a>Plugins
 Plugins extend functionality of OJS and allow it to interact with external tools and services. Installed plugins can be enabled and configured, or you can install additional plugins from the **Plugin Gallery**.
 
