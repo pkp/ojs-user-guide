@@ -12,7 +12,7 @@ Editorial and administrative users also have access to all published and archive
 
 ## <a name="new-submission"></a>Start A New Submission
 
-You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists. For more information, see [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article.
+You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists. For more information, see [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article).
 
 ## <a name="my-queue"></a>My Queue
 
@@ -40,4 +40,4 @@ Use the search panel above the list to locate submissions in a large list. You c
 
 ### Filtering Large Lists
 
-Click the **Filter** button to expand a set of search filters. Editors can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, and those submitted to a specific section or assigned to an issue. Managing editors can locale submissions assigned to a specific editor.
+Click the **Filter** button to expand a set of search filters. Editors can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, and those submitted to a specific section or assigned to an issue. Managing editors can locate submissions assigned to a specific editor.

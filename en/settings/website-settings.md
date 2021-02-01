@@ -27,6 +27,7 @@ You can add information about your journal for specific user groups that will ap
 
 ### Languages
 Languages that have been installed on your site by an Administrator can be enabled for the user interface (UI), forms, and submissions.
+
 * If you check off **UI** for a language, the front and back end interface will be available in that language
 * If you check off **Forms**, you will be able to fill in any forms or fields in the back end dashboard with content in that language
 * If you check off **Submissions**, users will be able to make a submission in that language and submit metadata in that language
