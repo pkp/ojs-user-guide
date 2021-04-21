@@ -2,6 +2,7 @@
 
 1. [Utilisateurs-trices](users-and-roles#users-users)
 1. [Rôles](users-and-roles#users-roles)
+1. [Notification](users-and-roles#notify)
 1. [Options d'accès au site](users-and-roles#users-site-access)
 
 Gérez les utilisateurs et utilisatrices de la revue, assignez-leur des rôles et créez ou éditez des rôles existants.
@@ -31,6 +32,10 @@ Vous pouvez modifier ou supprimer des rôles existants, ou ajouter de nouveaux r
 - *Les rédacteurs et réadactrices* ainsi que les *assistants et assistantes* n’ont accès qu'aux étapes du [flux des travaux](editorial-workflow) assignées à leur rôle.
  
 En plus des divers niveaux d’autorisation, vous pouvez restreindre certains rôles à des étapes particulières du [flux des travaux](editorial-workflow). Cette fonctionnalité est pratique pour les professionnels et professionnelles qui peuvent n'avoir à intervenir que durant une ou deux étapes du processus, telles que la révision ou la mise en page.
+
+## <a name="notify"></a>Avis
+
+Si un administrateur ou une administratrice a activé l'envoi de courriels en lot dans les [Paramètres du site](https://docs.pkp.sfu.ca/learning-ojs/fr/site-administration#param%C3%A8tres-du-site), un onglet Avis sera visible. Vous pourrez utiliser cet onglet afin d'envoyer des courriels [par rôles](https://docs.pkp.sfu.ca/learning-ojs/fr/users-and-roles#utilisateurs-demail).
 
 ## <a name="site-access"></a>Options d'accès au site
 

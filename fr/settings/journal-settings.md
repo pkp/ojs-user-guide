@@ -5,7 +5,7 @@
 1. [Rubriques de la revue](journal-settings#sections)
 1. [Catégories](journal-settings#categories)
 
-Les paramètres de revue permettent de configurer diverses informations, incluant l'équipe éditoriale, les coordonnées, les rubriques, et les catégories de contenus. Pour plus d'informations, veuillez consulter [Learning OJS 3: Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup) (en anglais).
+Les paramètres de revue permettent de configurer diverses informations, incluant l'équipe éditoriale, les coordonnées, les rubriques, et les catégories de contenus. Pour plus d'informations, veuillez consulter [Apprendre OJS 3: Paramètres de la revue](https://docs.pkp.sfu.ca/learning-ojs/fr/journal-setup).
 
 ## <a name="masthead"></a>Bloc générique
 Utilisez le bloc générique afin de saisir divers renseignements au sujet de votre revue. Certains de ces renseignements seront affichés automatiquement sur les pages Web de votre revue.

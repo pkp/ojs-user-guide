@@ -8,7 +8,7 @@ Durant l’étape de l'évaluation, le rédacteur ou la rédactrice assigne des 
 
 Une fois que les évaluateurs et évaluatrices ont soumis leurs évaluations et recommandations, le rédacteur ou la rédactrice doit décider si la soumission est prête à être révisée ou si elle requiert d’autres évaluations.
 
-Par défaut, les étapes d'évaluation démarrent au **Cycle 1**. Des cycles supplémentaires peuvent être lancés au besoin, par exemple si le rédacteur ou la rédactrice demande des révisions majeures. Pour plus d'informations, veuillez consulter [Learning OJS 3: Review](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#review) (en anglais).
+Par défaut, les étapes d'évaluation démarrent au **Cycle 1**. Des cycles supplémentaires peuvent être lancés au besoin, par exemple si le rédacteur ou la rédactrice demande des révisions majeures. Pour plus d'informations, veuillez consulter [Apprendre OJS 3: Évaluation](https://docs.pkp.sfu.ca/learning-ojs/fr/editorial-workflow#%C3%A9valuation).
 
 ## <a name="orientation"></a>Orientation
 
@@ -45,3 +45,4 @@ Le rédacteur ou la rédactrice peut lancer l’[étape de révision](copyeditin
 
 ### <a name="decline"></a>Refuser une soumission
 Le rédacteur ou la rédactrice peut refuser une soumission si elle ne passe pas l'évaluation. La soumission sera alors supprimée du flux des travaux et archivée.
+

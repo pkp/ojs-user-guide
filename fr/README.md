@@ -1,4 +1,4 @@
-# Guide de l'utilisateur ou de l'utilisatrice OJS 3.2
+# Guide de l'utilisateur ou de l'utilisatrice OJS 3.3
 
 Ce guide vous aidera à publier des journaux et revues sur Open Journal Systems (OJS).
 
@@ -6,7 +6,7 @@ Il offre une introduction à chaque étape du flux des travaux, de la soumission
 
 En cliquant sur le lien **Aide** visible dans l’application, vous découvrirez un panneau avec les informations les plus utiles pour la section. 
 
-Une description plus détaillée de ce logiciel est disponible sur [Learning OJS 3](https://docs.pkp.sfu.ca/learning-ojs/en/) (en anglais).
+Une description plus détaillée de ce logiciel est disponible sur [Apprendre OJS 3: Un guide visuel de Open Journal Systems](https://docs.pkp.sfu.ca/learning-ojs/fr/).
 
 --
 

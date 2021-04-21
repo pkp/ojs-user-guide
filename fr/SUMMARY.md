@@ -10,6 +10,7 @@
 	* [Évaluation](editorial-workflow/review)
 	* [Révision](editorial-workflow/copyediting)
 	* [Production](editorial-workflow/production)
+	* [Publication](editorial-workflow/publication)	
 * [Gestion des numéros](issue-management)
 * [Tâches](tasks)
 * Paramètres

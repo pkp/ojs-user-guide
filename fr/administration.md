@@ -3,7 +3,7 @@
 1. [Revues hébergées](administration#hosted-journals)
 1. [Fonctions administratives](administration#admin-functions)
  
-L’administration du site est réservée aux utilisateurs et utilisatrices disposant des autorisations complètes. Les tâches administratives sont peu fréquentes et peuvent être assurées par un ou une gestionnaire de revue, un rédacteur ou une rédactrice en chef ou une administratrice ou un administrateur désigné. Pour plus d'informations, veuillez consulter  [Learning OJS: Site Administration](https://docs.pkp.sfu.ca/learning-ojs/en/site-administration) (en anglais).
+L’administration du site est réservée aux utilisateurs et utilisatrices disposant des autorisations complètes. Les tâches administratives sont peu fréquentes et peuvent être assurées par un ou une gestionnaire de revue, un rédacteur ou une rédactrice en chef ou une administratrice ou un administrateur désigné. Pour plus d'informations, veuillez consulter  [Apprendre OJS 3: Administration du site](https://docs.pkp.sfu.ca/learning-ojs/fr/site-administration).
 
 ## Revues hébergées
  

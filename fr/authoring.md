@@ -5,7 +5,7 @@
 1. [Procéder à une soumission](authoring#make-submission)
 1. [Suivre une soumission](authoring#track-submission)
 
-Une fois connecté-e à l’OJS en tant qu’auteur ou auteure, vous verrez deux onglets : "Soumissions qui me sont assignées" et "Mes soumissions". Si vous n’avez jamais soumis d'article à cette revue, ces onglets seront vides. Pour plus d'informations, consultez [Learning OJS 3: Authoring](https://docs.pkp.sfu.ca/learning-ojs/en/authoring) (en anglais)
+Une fois connecté-e à l’OJS en tant qu’auteur ou auteure, vous verrez deux onglets : "Soumissions qui me sont assignées" et "Mes soumissions". Si vous n’avez jamais soumis d'article à cette revue, ces onglets seront vides. Pour plus d'informations, consultez [Apprendre OJS 3: Soumission](https://docs.pkp.sfu.ca/learning-ojs/fr/authoring).
 
 ## <a name="author-actions"></a>Actions de l’auteur ou de l’auteure
 À la droite de votre écran, cliquez sur « Nouvelle soumission » pour démarrer une nouvelle soumission.
@@ -27,15 +27,11 @@ Faire une nouvelle soumission est une procédure en 5 étapes faciles à suivre.
 
 Téléverser vos fichiers de soumissions.
 
-**Téléverser un fichier** : afin de faciliter l'organisation des fichiers pour les projets de grande envergure, chaque fichier doit être ajouté en tant que composant individuel.
+**Téléverser un fichier** :
 
-Vous téléverserez vos fichiers un par un. Vous aurez l’opportunité de téléverser plus de fichiers à un moment ultérieur.
+Vous pouvez téléverser plusieurs fichiers avec votre soumission, soit en sélectionnant plusieurs fichiers simultanément, soit en les téléversant individuellement.
 
-**Ajouter des détails** :
-
-Si vous le souhaitez, utilisez le lien « Modifier » pour changer le nom de fichier choisi par défaut par le système.
-
-**Terminer** : Ajoutez des fichiers additionnels ou cliquez sur « Terminer ».
+Il faut spécifier le type de chaque fichier. Les types possibles dépendent des options qui ont été paramétrées pour la revue, par exemple *texte de l'article*, *ensemble de données*, *résultats de recherche* ou *images*.
 
 Sélectionnez « Enregistrer et continuer » pour poursuivre vers la prochaine étape.
 
