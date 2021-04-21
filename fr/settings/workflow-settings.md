@@ -5,10 +5,13 @@
 1. [Bibliothèque de l'éditeur](workflow-settings#publisher)
 1. [Courriels](workflow-settings#emails)
 
-Cet onglet permet de configurer tous les aspects du [flux des travaux](../editorial-workflow), incluant la gestion des fichiers, les directives de soumission, les directives et dates butoirs d'évaluation, les courriels de notifications, et plus encore. Pour plus d'informations, veuillez consulter [Learning OJS 3 Workflow Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-workflow) (en anglais).
+Cet onglet permet de configurer tous les aspects du [flux des travaux](../editorial-workflow), incluant la gestion des fichiers, les directives de soumission, les directives et dates butoirs d'évaluation, les courriels de notifications, et plus encore. Pour plus d'informations, veuillez consulter [Apprendre OJS 3 : Paramètres du flux des travaux](https://docs.pkp.sfu.ca/learning-ojs/fr/settings-workflow).
 
 ## <a name="submission"></a>Soumission
 L'onglet Soumission permet de déterminer les éléments que les auteurs et auteures doivent fournir ou approuver lorsqu'ils ou elles font une soumission.
+
+### Désactiver les soumissions
+Cochez cette case si vous désirez désactiver les soumissions pour la revue au complet. Vous pouvez également désactiver les soumissions pour une section en particulier en cliquant sur le lien ***rubriques de revue***.
 
 ### Métadonnées
 Si vous activez un champ de métadonnée, il sera disponible pour chaque soumission. Lorsque vous cochez une métadonnée, vous permettez aux auteurs et auteures de l'ajouter au moment de faire une soumission. Autrement, seul un rédacteur ou une rédactrice pourra ajouter cette métadonnée.
@@ -48,3 +51,5 @@ Les éléments stockés dans la Bibliothèque de l'éditeur peuvent être rapide
 OJS envoie plusieurs courriels au cours des diverses étapes du [flux des travaux](../editorial-workflow) ou à l'occasion d'autres procédures, telles que l'enregistrement d'un utilisateur ou d'une utilisatrice ou l'accusé de réception d'une soumission. Les paramètres de cet onglet permettent de modifier la signature jointe à chaque courriel, ainsi que de changer les messages par défaut envoyés pour chaque type de courriel.
 
 Vous pouvez consulter et modifier le contenu de chaque courriel en cliquant sur la flèche située à sa droite.
+
+Cliquez sur **Filtres** afin de filter les modèles de courriels par destinateur, destinataire, étape de flux des travaux, ou en fonction du statut d'activation du modèle.

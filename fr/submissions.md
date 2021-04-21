@@ -13,7 +13,7 @@ Les utilisatrices et utilisateurs éditoriaux et administratifs ont accès à to
 
 ## <a name="new-submission"></a>Créer une nouvelle soumission
 
-Vous pouvez créer une nouvelle soumission en cliquant sur le bouton **Nouvelle soumission** qui apparaît au-dessus de chaque liste de soumissions. Pour plus d'informations, consultez [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article) (en anglais).
+Vous pouvez créer une nouvelle soumission en cliquant sur le bouton **Nouvelle soumission** qui apparaît au-dessus de chaque liste de soumissions. Pour plus d'informations, consultez [Apprendre OJS 3: Soumettre un article](https://docs.pkp.sfu.ca/learning-ojs/fr/authoring#soumettre-un-article).
 
 ## <a name="my-queue"></a>Mes soumissions
 
@@ -27,7 +27,7 @@ Les gestionnaires de la revue peuvent visualiser toute soumission qui n’a pas 
 
 ## <a name="active"></a>Actives (toutes)
 
-Vous trouverez ici toute soumission qui n’a pas été publiée ou a été refusée. Seuls les utilisatrices et utilisateurs administratifs et éditoriaux ont accès à cet onglet. Pour plus d'informations, consultez [Learning OJS 3: Submissions](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#submission) (en anglais).
+Vous trouverez ici toute soumission qui n’a pas été publiée ou a été refusée. Seuls les utilisatrices et utilisateurs administratifs et éditoriaux ont accès à cet onglet. Pour plus d'informations, consultez [Apprendre OJS 3: Tableau de bord de soumissions](https://docs.pkp.sfu.ca/learning-ojs/fr/editorial-workflow#tableau-de-bord-de-soumission).
 
 ## <a name="archives"></a>Archives
 
@@ -41,4 +41,4 @@ Utilisez la barre de recherche au-dessus de la liste pour localiser des soumissi
 
 ### Filtrer des listes volumineuses
 
-Cliquez sur le bouton **Filtres** pour déployer l’ensemble des filtres de recherche. Vous pouvez rapidement localiser toutes les soumissions dont les évaluations sont en retard, celles se trouvant à une étape spécifique du processus éditorial, ou celles soumises pour une rubrique particulière.
+Cliquez sur le bouton **Filtres** pour déployer l’ensemble des filtres de recherche. Les rédacteurs et rédactrice peuvent rapidement repérer toutes les soumissions dont les évaluations sont en retard, celles se trouvant à une étape spécifique du processus éditorial, ou celles soumises pour une rubrique particulière. Les directeurs et directrices de revues peuvent repérer les soumissions assignées à un rédacteur ou une rédactrice spécifique.

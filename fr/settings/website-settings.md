@@ -4,7 +4,8 @@
 1. [Configuration](website-settings#setup)
 1. [Plugiciels](website-settings#plugins)
 
-Les paramètres du site Web permettent de configurer l'apparence et les informations de votre site Web public, ses paramètres linguistiques, ses paramètres d'archivage, et d'installer et activer des plugiciels. Pour plus d'informations, veuillez consulter [Learning OJS 3: Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website) (en anglais). Des onglets additionnels peuvent apparaître si vous avez activé certains plugiciels, tels que le Plugiciel de pages statiques.
+
+Les paramètres du site Web permettent de configurer l'apparence et les informations de votre site Web public, ses paramètres linguistiques, ses paramètres d'archivage, et d'installer et activer des plugiciels. Pour plus d'informations, veuillez consulter [Apprendre OJS 3: Paramètres du site web](https://docs.pkp.sfu.ca/learning-ojs/fr/settings-website). Des onglets additionnels peuvent apparaître si vous avez activé certains plugiciels, tels que le Plugiciel de pages statiques.
 
 ## <a name="appearance"></a>Apparence
 Cet onglet permet de changer l'apparence du site Web de votre revue, de téléverser des images ou de choisir un thème.
@@ -38,6 +39,15 @@ Cette section permet de modifier les menus de navigation de votre site Web, en a
 
 ### Annonces
 Cette section permet de créer des annonces ou des types d'annonces qui seront affichées sur la page d'accueil votre site ou seront envoyées par courriel à l'ensemble de vos lecteurs et lectrices.
+
+### Listes
+Cette section permet de configurer combien d'éléments et de liens apparaissent dans une liste.
+
+### Déclaration de confidentialité
+Cette section permet de rédiger une déclaration qui explique de quelle manière seront utilisées les données soumises à votre revue et sur votre site.
+
+### Date et heure
+Cette section permet de configurer l'affichage de la date et de l'heure. Si votre revue est multilingue, chaque langue aura des paramètres différents. Pour changer les paramètres des autres langues, sélectionnez l'onglet correspondant.
 
 ## <a name="plugins"></a>Plugiciels
 Les plugiciels étendent les fonctionnalités d'OJS et lui permettent d'interagir avec des outils et services externes. Cet onglet permet d'activer ou de configurer vos plugiciels, ou d'en installer de nouveaux dans la **Galerie de plugiciels**.

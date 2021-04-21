@@ -6,7 +6,7 @@
 1. [Accès](distribution-settings#access)
 1. [Archivage](distribution-settings#archiving)
 
-Dans les paramètres de la distribution, vous pouvez configurer comment les utilisateurs et utilisatrices découvrent, repèrent, utilisent et lisent le contenu de votre revue. Pour plus d'informations, veuillez consulter [Learning OJS 3: Distribution Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-distribution) (en anglais).
+Dans les paramètres de la distribution, vous pouvez configurer comment les utilisateurs et utilisatrices découvrent, repèrent, utilisent et lisent le contenu de votre revue. Pour plus d'informations, veuillez consulter [Apprendre OJS 3: Paramètres de distribution](https://docs.pkp.sfu.ca/learning-ojs/fr/settings-distribution).
 
 ## <a name="license"></a>Licence
 Dans cet onglet, vous pouvez configurer le droit d'auteur et les droits d'utilisation au niveau de la revue. Vous pouvez également paramétrer ces droits au niveau de l'article lorsque vous publiez un article ou un numéro. 

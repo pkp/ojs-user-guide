@@ -4,7 +4,7 @@
 1. [Compléter une évaluation](reviewing#complete-review)
 1. [Compléter votre profil d’utilisateur-trice](reviewing#complete-user-profile)
 
-Les évaluateurs et évaluatrices jouent un rôle crucial en vue de garantir la qualité des publications académiques. Ce chapitre décrit le processus pour compléter une révision. Pour plus d'informations, consultez [Learning OJS 3: Reviewing](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing) (en anglais)
+Les évaluateurs et évaluatrices jouent un rôle crucial en vue de garantir la qualité des publications académiques. Ce chapitre décrit le processus pour compléter une révision. Pour plus d'informations, consultez [Apprendre OJS 3: Évaluation](https://docs.pkp.sfu.ca/learning-ojs/fr/reviewing).
 
 ## <a name="sign-up"></a>S’inscrire comme évaluateur-trice 
 

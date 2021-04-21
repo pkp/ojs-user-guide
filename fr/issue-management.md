@@ -16,7 +16,8 @@ On peut accéder aux options de chaque numéro en utilisant la petite flèche à
 
 **Supprimer** – La suppression d'un numéro est définitive.
 
-Pour plus d'informations, veuillez consulter [Learning OJS 3: Issues](https://docs.pkp.sfu.ca/learning-ojs/en/issues) (en anglais).
+Pour plus d'informations, veuillez consulter [Apprendre OJS 3: Production et Publication ](https://docs.pkp.sfu.ca/learning-ojs/fr/production-publication#cr%C3%A9er-un-num%C3%A9ro). 
+
 
 ## <a name="future-issues"></a>Numéros à venir
 
